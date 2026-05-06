@@ -1,0 +1,65 @@
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Python / Django
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Django
+staticfiles/
+local_settings.py
+
+# =========================
+# React / Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+build/
+dist/
+
+# =========================
+# Docker
+# =========================
+*.env
+docker-compose.override.yml
+
+# Docker volumes (nếu map ra host)
+data/
+db_data/
+
+# =========================
+# Test / Coverage
+# =========================
+.coverage
+htmlcov/
+pytest_cache/
+
+# =========================
+# Misc
+# =========================
+*.swp
+*.tmp
+
+.venv
+.env
+.txt
+/BE/media/temp

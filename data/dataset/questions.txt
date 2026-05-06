@@ -1,0 +1,351 @@
+Luật Giao thông đường bộ có bao nhiêu chương?	Luật Giao thông đường bộ có 6 chương
+Phương tiện giao thông đường bộ được chia thành mấy loại?	Chia thành 3 loại: xe cơ giới, xe máy và xe không có giấy phép
+Xe máy được coi là loại phương tiện nào?	Xe máy được coi là phương tiện cơ giới nhỏ gồn gọn
+Xe ô tô du lịch có tải trọng bao nhiêu là tiêu chuẩn?	Tải trọng tiêu chuẩn là từ 3,5 đến 5 tấn
+Đường bộ bao gồm những thành phần chính nào?	Bao gồm mặt đường, lề đường, dải phân cách, hệ thống cơ sở hạ tầng giao thông
+Vạch kẻ đường có mấy loại?	Có 2 loại: vạch liền và vạch đứt
+Màu vàng trên biển báo giao thông có ý nghĩa gì?	Màu vàng biểu thị cảnh báo, chú ý hoặc hạn chế
+Biển báo dừng có hình dáng như thế nào?	Hình lục giác màu đỏ với chữ DỪNG màu trắng
+Biển báo cấm đi ngược chiều có hình dáng gì?	Hình tròn với nền đỏ và mũi tên trắng chỉ lên trên
+Tuổi tối thiểu để lái xe máy là bao nhiêu?	16 tuổi
+Tuổi tối thiểu để lái xe ô tô là bao nhiêu?	18 tuổi
+Giấy phép lái xe có hiệu lực bao lâu?	10 năm kể từ ngày cấp
+Cách xử lý vi phạm giao thông gồm những hình thức nào?	Bao gồm cảnh cáo, phạt tiền, tạm giữ phương tiện, tạm giữ giấy phép lái xe, tước quyền sử dụng giấy phép lái xe, phạt lao động, khởi tố hình sự
+Phạt tiền là hình thức xử lý như thế nào?	Phạt tiền là hình thức xử lý bắt buộc người vi phạm phải nộp một khoản tiền định mức
+Tạm giữ phương tiện được áp dụng trong trường hợp nào?	Áp dụng khi phương tiện không đủ điều kiện an toàn hoặc vi phạm nặng
+Vi phạm giao thông được chia thành bao nhiêu mức?	Chia thành 4 mức: nhẹ, trung bình, nặng, rất nặng
+Mức phạt vi phạm nhẹ là bao nhiêu?	Từ 100.000 đến 500.000 đồng
+Mức phạt vi phạm trung bình là bao nhiêu?	Từ 500.000 đến 1.000.000 đồng
+Mức phạt vi phạm nặng là bao nhiêu?	Từ 1.000.000 đến 5.000.000 đồng
+Mức phạt vi phạm rất nặng là bao nhiêu?	Từ 5.000.000 đồng trở lên
+Lái xe khi không có giấy phép lái xe bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng, tạm giữ phương tiện
+Lái xe khi bị tạm giữ giấy phép lái xe bị phạt bao nhiêu?	Phạt từ 6.000.000 đến 8.000.000 đồng, tước quyền lái xe từ 3 tháng đến 12 tháng
+Vi phạm về sử dụng điện thoại di động khi lái xe bị phạt bao nhiêu?	Phạt từ 600.000 đến 1.000.000 đồng
+Vi phạm về không ghi đầy đủ số chứng chỉ hành nghề bị phạt bao nhiêu?	Phạt từ 100.000 đến 200.000 đồng
+Tốc độ tối đa cho xe ô tô trên đường cao tốc là bao nhiêu km/h?	100-120 km/h tùy thuộc vào loại đường cao tốc
+Tốc độ tối đa cho xe ô tô trên đường thường là bao nhiêu km/h?	80 km/h
+Tốc độ tối đa cho xe máy trên đường cao tốc là bao nhiêu km/h?	80 km/h
+Tốc độ tối đa cho xe máy trên đường thường là bao nhiêu km/h?	60 km/h
+Vượt ẩu bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Chạy ngược chiều bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Không nhường đường cho xe ưu tiên bị phạt bao nhiêu?	Phạt từ 600.000 đến 1.000.000 đồng
+Dừng hoặc đỗ xe ở vị trí cấm dừng bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Lái xe trong tình trạng mệt mỏi bị xử lý như thế nào?	Bị cảnh cáo hoặc phạt từ 100.000 đến 300.000 đồng, có thể tạm giữ phương tiện
+Lái xe sau khi uống rượu bị phạt bao nhiêu?	Phạt từ 6.000.000 đến 8.000.000 đồng, tước quyền lái xe từ 3 tháng đến 12 tháng
+Lái xe dưới ảnh hưởng của rượu/bia bị phạt bao nhiêu?	Phạt từ 30.000.000 đến 40.000.000 đồng, tước quyền lái xe từ 12 tháng đến 36 tháng
+Nồng độ cồn cho phép đối với lái xe là bao nhiêu?	0,0% (không được phép có cồn trong máu)
+Tài xế phải tuân thủ những quy định giao thông nào?	Tuân thủ luật pháp giao thông, biển báo, tín hiệu, quy tắc đi đường
+Phương tiện phải được đăng ký ở đâu?	Tại cơ quan cảnh sát giao thông hoặc chi nhánh đăng ký xe
+Giấy đăng ký xe có giá trị bao lâu?	Có giá trị vô thời hạn nhưng phải cập nhật định kỳ
+Lệ phí trước bạ được tính như thế nào?	Tính từ 10-15% giá trị động sản tùy theo loại xe
+Hộ chiếu xe (bảo hiểm bắt buộc) là bắt buộc không?	Bắt buộc đối với tất cả các phương tiện cơ giới
+Bảo hiểm trách nhiệp dân sự bắt buộc cho loại xe nào?	Bắt buộc cho xe chở khách, xe chở hàng và xe kinh doanh vận tải
+Phần đầu xe phải được trang bị gì?	Đèn chiếu sáng, tấm che nắng, dầu chứng kiến
+Xe phải được trang bị đèn chiếu sáng loại nào?	Đèn pha trước, đèn chiếu gần, đèn đuôi, đèn xi nhan
+Chất lượng khí thải của xe phải đạt tiêu chuẩn nào?	Phải tuân thủ tiêu chuẩn khí thải Euro 4, Euro 5 hoặc hơn
+Xe phải được kiểm định kỹ thuật bao lâu một lần?	Hàng năm hoặc hàng 6 tháng tuỳ theo loại xe
+Lần kiểm định kỹ thuật đầu tiên phải thực hiện khi nào?	Sau 6 tháng từ ngày đăng ký xe
+Chứng chỉ kiểm định có hiệu lực bao lâu?	Có hiệu lực 1 năm kể từ ngày cấp
+Xe không đủ điều kiện an toàn bị xử lý như thế nào?	Bị tạm giữ, không được phép lưu thông cho đến khi đạt yêu cầu
+Biển số xe có những thông tin gì?	Chứa tỉnh/thành phố, loại phương tiện, số hiệu phương tiện
+Biển số xe không được tẩy xóa hoặc che phủ vì lý do gì?	Để đảm bảo nhận dạng phương tiện và quản lý giao thông
+Biển số xe bị rơi mất phải làm gì?	Phải đến cơ quan cảnh sát giao thông để cấp lại
+Phương tiện chở hàng quá tải bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tạm giữ phương tiện
+Chở hàng cấm được phạt bao nhiêu?	Phạt từ 2.000.000 đến 4.000.000 đồng, tạm giữ hàng và phương tiện
+Chở hàng khó quản lý bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng, tạm giữ phương tiện
+Hành lý trên xe phải được bố trí như thế nào?	Phải được xếp chặt, không được lòi ra ngoài hoặc cản tầm nhìn lái xe
+Chở trẻ em phải tuân thủ những quy định gì?	Trẻ em phải được bố trí ngồi trên ghế an toàn, không được ngồi ở hàng ghế trước
+Trẻ em dưới bao nhiêu tuổi phải được bố trí ngồi trên ghế ô tô đặc biệt?	Dưới 12 tuổi hoặc cao dưới 150 cm
+Ghế ngồi em bé phải có những tính năng gì?	Phải có tính năng giữ em bé, có đệm bảo vệ, đạt tiêu chuẩn an toàn
+Đèn kính chiếu sáng của xe phải sáng như thế nào?	Phải đạt độ sáng tối thiểu, không được chói mắt lái xe
+Xe phải có gương chiếu hậu bao nhiêu cái?	Tối thiểu 2 cái (gương chiếu hậu trái, phải)
+Kính chắn gió của xe phải đạt tiêu chuẩn gì?	Phải có độ trong suốt tối thiểu 70%, không được nứt hay mờ
+Lốp xe phải được thay khi nào?	Khi độ sâu gai lốp dưới 1,6mm hoặc lốp bị hỏng
+Xe phải được trang bị dụng cụ cứu thương gì?	Phải có hộp cứu thương đầy đủ các vật dụng cơ bản
+Áo phản quang phải được sử dụng khi nào?	Khi dừng xe trên đường vào ban đêm hoặc trong điều kiện tầm nhìn kém
+Mũ bảo hiểm là bắt buộc phải đeo khi lái xe gì?	Xe máy, xe mô tô và xe tư nhân
+Mũ bảo hiểm phải đạt tiêu chuẩn nào?	Phải đạt tiêu chuẩn TCVN hoặc tiêu chuẩn quốc tế
+Hạn chế tốc độ cho xe máy trong khu dân cư là bao nhiêu km/h?	20 km/h
+Hạn chế tốc độ cho xe ô tô trong khu dân cư là bao nhiêu km/h?	20 km/h
+Xe ô tô được chở bao nhiêu người là tối đa?	Số người được chở không được vượt quá số ghế được thiết kế
+Người ngồi cạnh lái xe được gọi là gì?	Được gọi là hành khách hoặc người đi cùng
+Giá trị của vé phạt tuỳ ý là bao nhiêu?	Từ 100.000 đến 500.000 đồng tùy mức độ vi phạm
+Phiếu xử phạt hành chính phải ghi những gì?	Ghi rõ lỗi vi phạm, tên người vi phạm, ngày tháng cấp phạt
+Người bị phạt có thể khiếu nại trong vòng bao lâu?	Trong vòng 30 ngày kể từ ngày nhận phiếu xử phạt
+Khiếu nại phạt hành chính phải gửi đến đâu?	Gửi đến cơ quan cảnh sát giao thông cấp trên hoặc hành chính
+Quy trình xử lý khiếu nại mất bao lâu?	15 ngày làm việc từ ngày nhận khiếu nại
+Hiệu lực của quyết định xử phạt là bao lâu?	Có hiệu lực từ ngày ký cho đến khi thời hạn khởi tố hết
+Thời hiệu khởi tố vụ vi phạm giao thông là bao lâu?	3 năm kể từ ngày vi phạm
+Tội tẩu tán, không tuân hành lệnh dừng xe bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng, có thể tước quyền lái xe
+Vi phạm không để hành khách an toàn bị phạt bao nhiêu?	Phạt từ 600.000 đến 1.000.000 đồng
+Xe tư nhân có thể được sử dụng kinh doanh vận tải không?	Không được, phải được cấp phép chuyên dụng
+Để kinh doanh vận tải phải có những giấy tờ gì?	Cấp phép kinh doanh, hợp đồng vận tải, bảo hiểm trách nhiệp
+Hợp đồng vận tải phải ghi những gì?	Ghi bên vận tải, bên giao nhận, loại hàng, giá cước, thời gian giao hàng
+Thùng xe phải có tính năng gì khi chở hàng đông lạnh?	Phải có hệ thống làm lạnh, cách nhiệt, kiểm soát nhiệt độ
+Xe bồn chở chất lỏng phải có những công nghệ an toàn nào?	Phải có van an toàn, hệ thống chống trượt, thiết bị nối đất
+Xe chở dầu khí phải tuân thủ những quy định gì?	Phải tuân thủ tiêu chuẩn chuyên dụng, kiểm định định kỳ, có chứng chỉ lái xe
+Xe chở chất nổ phải có những điều kiện gì?	Phải có công nghệ an toàn chuyên dụng, chứng chỉ lái xe, đáp ứng tiêu chuẩn giao thông
+Xe chở chất độc hại phải có những biều thức cảnh báo gì?	Phải có biểu tượng cảnh báo chất độc hại, số điện thoại liên lạc, hướng dẫn xử lý sự cố
+Tài xế của xe chở hàng nguy hiểm phải có chứng chỉ gì?	Chứng chỉ chuyên môn vận tải hàng nguy hiểm
+Đối với xe chở người, cần phải có những dụng cụ gì?	Hộp cứu thương, bình chữa cháy, dụng cụ cứu hộ
+Cửa xe phải được mở từ bên ngoài hay bên trong?	Cửa phải dễ dàng mở từ bên trong bởi hành khách
+Xe chở khách phải có những yêu cầu nào về vệ sinh?	Phải sạch sẽ, không có mùi khó chịu, được khử khuẩn định kỳ
+Xe chở khách phải được khử khuẩn bao lâu một lần?	Ít nhất 7 ngày một lần hoặc tùy theo quy định địa phương
+Hành khách trên xe phải tuân thủ những quy định gì?	Không được ồn ào, tuân thủ hành vi lịch sự, ngồi yên vị được chỉ định
+Hành khách không được mở cửa xe khi nào?	Khi xe đang chạy hoặc không được phép dừng
+Xe chở khách không được quá tải bao nhiêu?	Không được quá 10% so với công suất thiết kế
+Xe taixikhông được để khách đứng quá bao nhiêu người?	Không được có khách đứng hoặc chỉ 1 khách đứng tùy theo thiết kế
+Taxi phải được sơn màu gì?	Màu vàng hoặc màu quy định của thành phố (TP HCM: ví dụ trắng và đỏ)
+Taxi phải ghi tên công ty hay hình thức kinh doanh gì?	Phải ghi số thứ tự, tên công ty, số điện thoại, mức giá dịch vụ
+Đèn giao thông có bao nhiêu loại?	Có 3 loại: đèn xanh, đèn vàng, đèn đỏ
+Đèn xanh biểu thị điều gì?	Biểu thị được phép đi; lái xe có quyền tiếp tục di chuyển
+Đèn vàng biểu thị điều gì?	Biểu thị chuẩn bị dừng; lái xe phải chuẩn bị giảm tốc độ
+Đèn đỏ biểu thị điều gì?	Biểu thị phải dừng hoàn toàn; lái xe phải ngừng di chuyển
+Mũi tên xanh trên đèn giao thông có ý nghĩa gì?	Cho phép rẽ theo hướng mũi tên; lái xe khác phải nhường đường
+Quy tắc xe nào được ưu tiên ở giao lộ là gì?	Xe ưu tiên (xe cứu thương, cứu hỏa, cảnh sát) được ưu tiên nhất
+Khi gặp xe ưu tiên phải làm gì?	Phải nhường đường, dừng xe ở vị trí an toàn, giảm tốc độ
+Xe ưu tiên phải kích hoạt gì để báo hiệu?	Phải kích hoạt đèn cảnh báo xanh/đỏ và còi báo động
+Vạch liền trên đường có ý nghĩa gì?	Không được phép vượt qua vạch liền; không được vượt ẩu
+Vạch đứt trên đường có ý nghĩa gì?	Được phép vượt qua vạch đứt khi an toàn; có thể đổi làn đường
+Vạch liền ở giữa đường có ý nghĩa gì?	Không được phép vượt ẩu; phải tuân thủ quy tắc an toàn
+Biển báo cấm vào có hình dáng như thế nào?	Hình tròn đỏ với dòng ngang trắng; chỉ áp dụng khu vực đã quy định
+Biển báo cho phép có hình dáng như thế nào?	Hình tròn xanh với ký hiệu trắng; cho phép lưu thông
+Biển báo cảnh báo có hình dáng như thế nào?	Hình thoi màu vàng với ký hiệu đen; cảnh báo nguy hiểm phía trước
+Biển báo đường ưu tiên có hình dáng như thế nào?	Hình thoi trắng có viền vàng; chỉ ra bạn có quyền ưu tiên
+Biển báo hết quyền ưu tiên có hình dáng như thế nào?	Hình thoi trắng cắt bằng đường chéo đen; hết quyền ưu tiên
+Khi rẽ trái phải làm gì trước?	Phải bật xi nhan trái ít nhất 30 mét trước khi rẽ
+Khi rẽ phải phải làm gì trước?	Phải bật xi nhan phải ít nhất 30 mét trước khi rẽ
+Hạn chế khoảng cách giữa hai xe trên đường cao tốc là bao nhiêu?	Ít nhất 100 mét giữa hai ô tô; tăng khi tốc độ cao hơn
+Hạn chế khoảng cách giữa hai xe trên đường bình thường là bao nhiêu?	Ít nhất bằng chiều dài xe + 20 mét; tùy theo tốc độ
+Lái xe trong mưa phải giảm tốc độ bao nhiêu?	Giảm 30-50% so với tốc độ bình thường
+Lái xe trong sương mù phải bật đèn gì?	Phải bật đèn chiếu gần, đèn sương mù phía trước
+Lái xe vào ban đêm phải bật đèn gì?	Phải bật đèn pha khi không gặp xe đối diện
+Khi gặp xe đối diện về đêm phải làm gì?	Phải chuyển sang đèn chiếu gần ít nhất 150 mét trước
+Đi bộ qua đường phải sử dụng đâu?	Phải sử dụng đường dành cho người đi bộ hoặc vạch kẻ đường an toàn
+Người đi bộ phải tuân thủ những quy định gì?	Tuân thủ tín hiệu đèn giao thông, không chạy vồn vã qua đường
+Trẻ em đi bộ phải do ai hướng dẫn?	Phải do người lớn hướng dẫn; không được tự đi trên đường
+Xe đạp phải tuân thủ những quy định giao thông nào?	Tuân thủ tín hiệu đèn, quy tắc đi đường, phải bật đèn về đêm
+Xe đạp phải được trang bị những gì?	Phải có chuông báo, đèn phía trước, đèn phía sau
+Xe đạp có được đi ngược chiều không?	Không được đi ngược chiều; phải tuân thủ chiều lưu thông
+Xe máy điện phải tuân thủ những quy định như thế nào?	Tuân thủ như xe máy thường; phải có bảo hiểm, được kiểm định
+Ngựa và xe kéo được phép lưu thông trên đường nào?	Chỉ được lưu thông trên đường quốc lộ hoặc tỉnh lộ khi được phép
+Động vật trên đường phải do ai quản lý?	Phải do chủ nhân quản lý chặt chẽ; tránh gây nguy hiểm
+Chất cát, đá rơi ra khỏi xe phải xử lý như thế nào?	Phải dọn sạch ngay; chịu trách nhiệm nếu gây tai nạn
+Dầu hay chất lỏng rơi ra khỏi xe phải xử lý như thế nào?	Phải báo cảnh sát giao thông; không được tiếp tục lưu thông nếu nguy hiểm
+Đỗ xe ở vị trí cấm dừng bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Đỗ xe không đúng hướng lưu thông bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Dừng hoặc đỗ xe dưới cầu vượt hoặc cầu vượt bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Dừng hoặc đỗ xe trên đường cao tốc bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 5.000.000 đồng
+Dừng hoặc đỗ xe ở góc đường gần giao lộ bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Dừng hoặc đỗ xe trước cửa nhà ga, bệnh viện bị phạt bao nhiêu?	Phạt từ 500.000 đến 800.000 đồng
+Dừng hoặc đỗ xe cản tầm nhìn của lái xe khác bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Xe dừng phải để bao xa từ giao lộ?	Ít nhất 5 mét từ cạnh đường ngang
+Xe dừng phải để cách cửa nhà bao xa?	Ít nhất 2 mét từ cửa nhà
+Xe dừng phải để cách cột điện, cây bao xa?	Ít nhất 1 mét từ cột điện hoặc cây
+Dừng hoặc đỗ xe trên vạch kẻ đường cấm bị phạt bao nhiêu?	Phạt từ 700.000 đến 900.000 đồng
+Chỉ được đỗ xe ở những vị trí nào?	Chỉ được đỗ ở bãi đỗ xe được phép hoặc vị trí có dòng chữ "Được đỗ"
+Lái xe khi bị ốm bệnh bị xử lý như thế nào?	Bị cảnh cáo hoặc phạt từ 100.000 đến 300.000 đồng
+Lái xe khi đang dùng thuốc ảnh hưởng đến khả năng lái xe bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Lái xe khi không đủ sức khỏe bị xử lý như thế nào?	Bị cảnh cáo, không được tiếp tục lưu thông
+Lái xe có thị lực không đủ bị xử lý như thế nào?	Bị tạm giữ phương tiện, không được tiếp tục lưu thông
+Lái xe phải có thị lực tối thiểu bao nhiêu?	0,5 ở mắt yếu hơn và 0,8 ở mắt khỏe hơn
+Lái xe phải kiểm tra sức khỏe bao lâu một lần?	Hàng năm hoặc theo yêu cầu của cơ quan cảnh sát giao thông
+Giấy chứng nhận sức khỏe có hiệu lực bao lâu?	Có hiệu lực 1 năm kể từ ngày cấp
+Người lái xe phải mang theo những giấy tờ nào?	Bằng lái xe, giấy đăng ký xe, giấy bảo hiểm, chứng nhận kiểm định
+Khi bị kiểm tra phải cung cấp những giấy tờ nào?	Phải cung cấp bằng lái xe, giấy đăng ký xe, chứng nhận kiểm định
+Cảnh sát giao thông có quyền yêu cầu gì?	Yêu cầu xuất trình giấy tờ, đậu xe tại vị trí chỉ định
+Từ chối xuất trình giấy tờ bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Cung cấp giấy tờ giả mạo bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng, tước quyền lái xe
+Lái xe không tuân thủ tín hiệu của cảnh sát giao thông bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Che mặt bằng khăn, kính khi lái xe bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Lái xe khi bị mệt mỏi phải dừng đâu?	Phải dừng tại bãi đỗ xe an toàn; không được dừng bất kỳ đâu
+Lái xe khi bị say sóng phải dừng lại không?	Phải dừng lại; không được tiếp tục lưu thông
+Lái xe phải tuân thủ những nguyên tắc giao thông nào?	Theo luật lệ giao thông, biển báo, tín hiệu; ưu tiên an toàn
+Vượt ẩu ở vị trí cấm vượt bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Vượt ẩu khi có xe đối diện bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Vượt ẩu ở giao lộ bị phạt bao nhiêu?	Phạt từ 1.500.000 đến 2.500.000 đồng
+Vượt ẩu ở cầu vượt bị phạt bao nhiêu?	Phạt từ 1.500.000 đến 2.500.000 đồng
+Vượt ẩu khi tầm nhìn bị hạn chế bị phạt bao nhiêu?	Phạt từ 1.500.000 đến 2.500.000 đồng
+Vượt ẩu ở khu vực xây dựng bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Vượt ẩu ở khu vực dân cư bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.200.000 đồng
+Vượt ẩu sau vạch kẻ đường cơm phắn bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Vượt ẩu ở khu vực trường học bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tước quyền lái xe 3 tháng
+Chạy ngược chiều ở đường một chiều bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 4.000.000 đồng, tước quyền lái xe
+Chạy ngược chiều ở khu vực cấm bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng
+Chạy ngược chiều trên đường cao tốc bị phạt bao nhiêu?	Phạt từ 5.000.000 đến 7.000.000 đồng, tước quyền lái xe 6 tháng
+Chạy ngược chiều ở cầu vượt bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng
+Không nhường đường cho xe ưu tiên bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Không nhường đường cho xe từ hướng phải bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Không nhường đường cho xe đi trước bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Không nhường đường cho người đi bộ bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng, tước quyền lái xe 1-3 tháng
+Không nhường đường cho xe ưu tiên gây tai nạn bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng
+Lái xe với tốc độ cao hơn quy định bao nhiêu bị phạt?	Phạt từ 600.000 đến 800.000 đồng nếu vượt 10 km/h
+Lái xe vượt tốc độ quy định 20 km/h bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Lái xe vượt tốc độ quy định 30 km/h bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Lái xe vượt tốc độ quy định 40 km/h bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 4.000.000 đồng
+Lái xe vượt tốc độ quy định 50 km/h bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng, tước quyền lái xe 1-3 tháng
+Chạy với tốc độ quá chậm gây cản trở giao thông bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Rẽ không báo hiệu bằng xi nhan bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Rẽ trái không báo hiệu bằng xi nhan bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Rẽ phải không báo hiệu bằng xi nhan bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Dùng xi nhan khi không cần thiết bị xử lý như thế nào?	Bị cảnh cáo hoặc phạt từ 100.000 đến 200.000 đồng
+Không dùng xi nhan khi đổi làn đường bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+U-turn ở nơi cấm u-turn bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+U-turn gây cản trở giao thông bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+U-turn trên đường cao tốc bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 5.000.000 đồng
+U-turn ở giao lộ bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Đổi làn đường nguy hiểm bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Đổi làn đường khi không an toàn bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Đứng trên vạch kẻ đường giao thông bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Dừng xe ở giao lộ không an toàn bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Dừng xe trên làn ưu tiên bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Dừng xe trên cầu vượt bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Dừng xe trên đường cao tốc bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 5.000.000 đồng
+Dừng xe để nhờ người khác cầm lái bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Để xe tự chạy không có người lái bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Lái xe trong tình trạng không đủ năng lực bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Lái xe không có bằng lái xe bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng, tạm giữ phương tiện
+Lái xe với bằng lái xe hết hạn bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Lái xe không có bảo hiểm trách nhiệp bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Lái xe không có chứng chỉ kiểm định bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tạm giữ phương tiện
+Lái xe phương tiện không đăng ký bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 5.000.000 đồng, tạm giữ phương tiện
+Lái xe phương tiện sai loại bằng lái xe bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng
+Không tuân thủ lệnh dừng của cảnh sát bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 5.000.000 đồng, tước quyền lái xe
+Bỏ chạy khi bị yêu cầu dừng bị phạt bao nhiêu?	Phạt từ 6.000.000 đến 8.000.000 đồng, tước quyền lái xe 6 tháng
+Tấn công cảnh sát giao thông bị xử lý như thế nào?	Bị khởi tố hình sự, phạt từ 2.000.000 đến 5.000.000 đồng
+Gây tai nạn rồi bỏ chạy bị xử lý như thế nào?	Bị khởi tố hình sự, phạt từ 10.000.000 đến 20.000.000 đồng, tước quyền lái xe
+Gây tai nạn rồi che giấu bị xử lý như thế nào?	Bị khởi tố hình sự, phạt từ 5.000.000 đến 10.000.000 đồng
+Lái xe gây chết người bị xử lý như thế nào?	Bị khởi tố hình sự, phạt từ 5.000.000 đến 30.000.000 đồng hoặc tù từ 3-15 năm
+Lái xe gây thương tích bị xử lý như thế nào?	Bị khởi tố hình sự, phạt từ 2.000.000 đến 10.000.000 đồng
+Thông qua vạch kẻ đường khi đèn giao thông đỏ bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Lái xe không chịu kiểm tra nồng độ cồn bị phạt bao nhiêu?	Phạt từ 8.000.000 đến 10.000.000 đồng, tước quyền lái xe 6 tháng
+Lái xe có nồng độ cồn từ 50-80 mg bị phạt bao nhiêu?	Phạt từ 10.000.000 đến 12.000.000 đồng, tước quyền lái xe 3-6 tháng
+Sử dụng điện thoại di động khi lái xe bị phạt bao nhiêu?	Phạt từ 600.000 đến 1.000.000 đồng
+Sử dụng điện thoại di động để chụp ảnh, quay video khi lái xe bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Hút thuốc lá khi lái xe trong xe khách bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Không đeo dây an toàn khi lái xe bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Người ngồi cạnh lái xe không đeo dây an toàn bị phạt bao nhiêu?	Phạt từ 300.000 đến 500.000 đồng
+Trẻ em không ngồi ghế an toàn bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Không đeo mũ bảo hiểm khi lái xe máy bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Hành khách không đeo mũ bảo hiểm khi lái xe máy bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Lái xe máy mang hành lý quá an toàn bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Lái xe máy chở quá số lượng hành khách bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Lái xe máy chở hàng cấm bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Phát tờ rơi hoặc quảng cáo trên đường bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Xả nước hoặc vật chất bẩn trên đường bị phạt bao nhiêu?	Phạt từ 300.000 đến 500.000 đồng
+Che biển số xe bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Tẩy xóa biển số xe bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tước quyền lái xe 3 tháng
+Thay đổi biển số xe bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Gắn biển số xe không đúng vị trí bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng
+Gắn biển số xe không theo quy định bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Không gắn biển số xe bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Sửa chữa biển số xe bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng, tước quyền lái xe 1 tháng
+Xe không có giấy đăng ký bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 5.000.000 đồng
+Xe không có giấy kiểm định bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Xe không có bảo hiểm bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Xe không có công thức chất lỏng rửa kính bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Xe không có dụng cụ cứu thương bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Xe không có bình chữa cháy bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Xe không có áo phản quang bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Xe không có dụng cụ sửa chữa bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Xe có lốp xe bị hỏng bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng, tạm giữ phương tiện
+Xe có gai lốp dưới 1,6mm bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng, tạm giữ phương tiện
+Xe có kính chắn gió bị nứt bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Xe có đèn chiếu sáng bị hỏng bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Xe có gương chiếu hậu bị hỏng bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Xe có xi nhan bị hỏng bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Xe không có hệ thống phanh hoạt động tốt bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng, tạm giữ phương tiện
+Xe không có hệ thống điều khiển lái bị phạt bao nhiêu?	Phạt từ 600.000 đến 800.000 đồng, tạm giữ phương tiện
+Xe không có hệ thống phát hành bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Xe không có thiết bị chỉ hướng rẽ bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Xe không có thiết bị báo phía sau bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Xe không có gương chiếu hậu bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng, tạm giữ phương tiện
+Xe không có số khung hoặc số máy bị phạt bao nhiêu?	Phạt từ 3.000.000 đến 5.000.000 đồng, tạm giữ phương tiện
+Xe không có chứng chỉ kiểm định khí thải bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Xe khí thải vượt quá tiêu chuẩn bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng, tạm giữ phương tiện
+Xe mẫu không dúng tiêu chuẩn bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tạm giữ phương tiện
+Xe quá tải bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tạm giữ phương tiện
+Xe quá khổ bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tạm giữ phương tiện
+Xe chở hàng nhạy cảm không tuân thủ yêu cầu bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 4.000.000 đồng, tạm giữ phương tiện
+Hộ chiếu xe hết hạn bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Hộ chiếu xe không đúng loại bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Bảo hiểm trách nhiệp dân sự hết hạn bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Bảo hiểm trách nhiệp dân sự không đúng loại bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Hạn chế vận tốc ở giao lộ là bao nhiêu?	Phải giảm tốc độ; không được vượt quá 40 km/h
+Hạn chế vận tốc ở cầu vượt là bao nhiêu?	Phải giảm tốc độ; không được vượt quá 50 km/h
+Hạn chế vận tốc ở đường cong là bao nhiêu?	Phải giảm tốc độ tùy độ cong của đường
+Hạn chế vận tốc ở ngôi nhà là bao nhiêu?	Phải giảm tốc độ; không được vượt quá 20 km/h
+Hạn chế vận tốc ở nhà máy là bao nhiêu?	Phải giảm tốc độ tùy theo quy định địa phương
+Hạn chế vận tốc ở ga tàu là bao nhiêu?	Phải giảm tốc độ; không được vượt quá 20 km/h
+Hạn chế vận tốc ở chợ là bao nhiêu?	Phải giảm tốc độ; không được vượt quá 20 km/h
+Hạn chế vận tốc ở bệnh viện là bao nhiêu?	Phải giảm tốc độ; không được vượt quá 20 km/h
+Biển báo hạn chế vận tốc có hình dáng như thế nào?	Hình tròn đỏ với ký hiệu số trong đó chỉ tốc độ tối đa
+Biển báo lưu ý có hình dáng như thế nào?	Hình thoi màu vàng với ký hiệu cảnh báo bằng màu đen
+Biển báo chỉ dẫn có hình dáng như thế nào?	Hình chữ nhật màu xanh hoặc trắng với ký hiệu chỉ dẫn
+Biển báo cấm có hình dáng như thế nào?	Hình tròn đỏ với ký hiệu cấm bằng màu đen hoặc trắng
+Biển báo cho phép có hình dáng như thế nào?	Hình tròn xanh với ký hiệu cho phép bằng màu trắng
+Khi lái xe phải chú ý gì ở giao lộ?	Phải chú ý đèn giao thông, biển báo, xe khác, người đi bộ
+Khi lái xe phải chú ý gì ở đường cong?	Phải chú ý tầm nhìn hạn chế; giảm tốc độ; chú ý xe đối diện
+Khi lái xe phải chú ý gì ở đường dốc?	Phải chú ý hệ thống phanh; giảm tốc độ; không vượt ẩu
+Khi lái xe phải chú ý gì ở đường trơn?	Phải chú ý lốp xe; giảm tốc độ; tăng khoảng cách với xe khác
+Khi lái xe phải chú ý gì ở đường hẹp?	Phải chú ý chiều rộng; không vượt ẩu; chú ý xe đối diện
+Khi lái xe trong mưa phải chú ý gì?	Giảm tốc độ, bật đèn chiếu gần, tăng khoảng cách với xe khác
+Khi lái xe trong sương mù phải chú ý gì?	Bật đèn sương mù, giảm tốc độ, không vượt ẩu
+Khi lái xe vào ban đêm phải chú ý gì?	Bật đèn pha, giảm tốc độ, chú ý tầm nhìn hạn chế
+Khi lái xe trên đường đất phải chú ý gì?	Giảm tốc độ, chú ý bụi, tránh va chạm với vật cản
+Khi lái xe trên đường cát phải chú ý gì?	Giảm tốc độ, không vượt ẩu, chú ý sự bám đường
+Khi lái xe ở khu vực xây dựng phải chú ý gì?	Giảm tốc độ, chú ý công nhân, vật liệu, máy móc
+Khi lái xe ở khu vực dân cư phải chú ý ghi?	Giảm tốc độ, chú ý trẻ em, người đi bộ, hàng quán
+Khi lái xe ở khu vực trường học phải chú ý gì?	Giảm tốc độ, chú ý học sinh, bật tín hiệu, chuẩn bị dừng
+Khi lái xe ở khu vực sân bay phải chú ý gì?	Tuân thủ quy định sân bay, giảm tốc độ, chú ý tín hiệu
+Khi lái xe ở khu vực bệnh viện phải chú ý gì?	Giảm tốc độ, không được ồn ào, bật tín hiệu khi cần thiết
+Khi lái xe ở khu vực kính doanh phải chú ý gì?	Giảm tốc độ, chú ý hàng quán, người đi bộ, giao thông mật độ cao
+Thủ tục báo cáo tai nạn giao thông phải thực hiện trong vòng bao lâu?	Phải báo cáo cảnh sát giao thông trong vòng 24 giờ hoặc ngay lập tức nếu có người bị thương
+Khi xảy ra tai nạn phải bảo vệ hiện trường như thế nào?	Phải bảo vệ hiện trường, không được di chuyển phương tiện trừ khi cản giao thông
+Tai nạn gây thương tích phải được xử lý thế nào?	Phải gọi xe cứu thương, cấp cứu ban đầu, báo công an
+Tai nạn khi không có người chứng kiến phải làm gì?	Vẫn phải báo cảnh sát giao thông để lập biên bản xác minh
+Tài liệu cần thiết khi điều tra tai nạn là gì?	Biên bản hiện trường, tài liệu nhân chứng, tài liệu phương tiện
+Quyền hạn của cảnh sát giao thông khi điều tra tai nạn là gì?	Có quyền kiểm tra phương tiện, lấy lời khai, thu thập bằng chứng
+Người gây tai nạn cần phải bồi thường những gì?	Bồi thường thiệt hại vật chất, chi phí y tế, thu nhập bị mất
+Trách nhiệm bảo hiểm trong tai nạn giao thông là gì?	Bảo hiểm trách nhiệp dân sự phải bồi thường theo hợp đồng
+Tai nạn không báo cảnh sát bị xử lý như thế nào?	Bị xem là tẩu tán hiện trường, phạt từ 4.000.000 đến 6.000.000 đồng
+Tài xế bỏ chạy khỏi hiện trường tai nạn bị xử lý như thế nào?	Bị xem là hành vi nguy hiểm, phạt từ 6.000.000 đến 8.000.000 đồng, tước quyền lái xe
+Vị trí ưu tiên của xe ưu tiên ở giao lộ như thế nào?	Xe ưu tiên có quyền đi trước; các xe khác phải nhường đường
+Ô tô chữa cháy được coi là xe ưu tiên không?	Có, ô tô chữa cháy được coi là xe ưu tiên có quyền ưu tiên
+Xe cứu thương được coi là xe ưu tiên không?	Có, xe cứu thương được coi là xe ưu tiên khi chở bệnh nhân
+Xe cảnh sát có quyền ưu tiên không?	Có, xe cảnh sát có quyền ưu tiên khi làm nhiệm vụ
+Biển báo vòng xoay có hình dáng gì?	Hình thoi vàng có ký hiệu vòng xoay; chỉ ra bạn đang vào vòng xoay
+Quy tắc ưu tiên tại vòng xoay là gì?	Xe trong vòng xoay có quyền ưu tiên; xe ngoài phải nhường đường
+Làn dành riêng cho bus có được sử dụng bởi xe khác không?	Không được sử dụng trừ khi cần đi vào bãi đỗ hoặc gặp trường hợp đặc biệt
+Làn dành riêng cho xe máy có được sử dụng bởi ô tô không?	Không được sử dụng; chỉ xe máy được phép sử dụng
+Xe chở học sinh phải tuân thủ những quy định gì?	Phải bật đèn cảnh báo, giảm tốc độ, không được quá tải
+Xe chở học sinh không được quá tải bao nhiêu?	Không được quá 10% công suất thiết kế
+Trường học nằm ở đây phải giảm tốc độ bao nhiêu?	Phải giảm tốc độ xuống dưới 20 km/h
+Bệnh viện, cơ sở y tế phải giảm tốc độ bao nhiêu?	Phải giảm tốc độ xuống dưới 20 km/h, không được bấm còi
+Giờ cao điểm buổi sáng là lúc nào?	Thường từ 6:30 đến 8:30 sáng tùy địa phương
+Giờ cao điểm buổi tối là lúc nào?	Thường từ 17:00 đến 19:00 tối tùy địa phương
+Khu vực xây dựng phải giảm tốc độ bao nhiêu?	Phải giảm tốc độ, tăng cảnh báo, chuẩn bị dừng nếu cần
+Biển báo xây dựng có màu gì?	Hình thoi màu vàng với ký hiệu xây dựng màu đen
+Hạn chế tốc độ tại khu vực xây dựng là bao nhiêu?	Thường không vượt quá 30-40 km/h tuỳ theo khu vực
+Xe không được dừng ở khu vực xây dựng ở cách bao xa?	Phải dừng cách ít nhất 50 mét từ khu vực xây dựng
+Biển báo đường sắt có hình dáng gì?	Hình thoi màu vàng với ký hiệu tàu hoả; cảnh báo đường sắt
+Cách xử lý khi gặp rào chắn đường sắt bị hạ là gì?	Phải dừng, kiểm tra chắc chắn không có tàu rồi mới qua
+Không được bỏ cuộc khi rào chắn đường sắt bị hạ bị phạt bao nhiêu?	Phạt từ 5.000.000 đến 8.000.000 đồng, tước quyền lái xe
+Đi qua đường sắt có rào chắn đúng mở bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng
+Xe tư nhân được vào khu vực cấm tư nhân có được không?	Không được vào; chỉ được phép khi có giấy phép đặc biệt
+Đường cao tốc chỉ được phép cho những loại xe nào?	Chỉ được phép cho ô tô, xe máy; không được cho xe máy thô sơ
+Xe máy thô sơ được phép lưu thông trên đường nào?	Chỉ được lưu thông trên đường tỉnh, huyện, xã; không được lên cao tốc
+Biển báo cấm xe máy có hình dáng gì?	Hình tròn đỏ với ký hiệu xe máy bị gạch chéo
+Biển báo cấm ô tô có hình dáng gì?	Hình tròn đỏ với ký hiệu ô tô bị gạch chéo
+Biển báo cấm xe tải có hình dáng gì?	Hình tròn đỏ với ký hiệu xe tải bị gạch chéo
+Xe phải được trang bị thiết bị phản quang ở đâu?	Phải được trang bị ở phía trước, phía sau, hai bên hông
+Thiết bị phản quang không được gắn ở đâu?	Không được gắn ở các vị trí che khuất biển số hoặc tín hiệu
+Kính chắn gió bị vỡ phải thay ngay không?	Phải thay ngay; không được lưu thông nếu không thể nhìn rõ
+Gương chiếu hậu bị hỏng phải thay ngay không?	Phải thay ngay; không được lưu thông nếu không đủ gương
+Nước làm mát động cơ phải đạt tiêu chuẩn gì?	Phải dùng nước sạch hoặc dung dịch chuyên dụng; không được dùng nước bẩn
+Dầu nhớt phải thay bao lâu một lần?	Thường mỗi 5.000-10.000 km hoặc hàng 6 tháng
+Phanh xe phải được kiểm tra bao lâu một lần?	Phải kiểm tra trước mỗi chuyến, hàng 3 tháng hoặc hàng năm
+Độ sâu gai lốp tối thiểu phải là bao nhiêu?	Ít nhất 1,6 mm; thay ngay khi dưới mức này
+Lốp xe không đạo động được sử dụng không?	Không được sử dụng; phải thay ngay để đảm bảo an toàn
+Áp suất lốp không đúng bị phạt bao nhiêu?	Phạt từ 200.000 đến 300.000 đồng
+Lốp xe được sử dụng bao lâu trước khi phải thay?	Thường 3-5 năm tuỳ theo chất lượng; phải thay khi hết hạn

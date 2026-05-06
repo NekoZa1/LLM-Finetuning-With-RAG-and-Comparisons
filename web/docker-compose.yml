@@ -1,0 +1,51 @@
+services:
+  back-end:
+    build: ./BE
+    ports:
+      - 8000:8000
+    environment:
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./BE:/app
+    depends_on:
+      db:
+        condition: service_healthy
+    command: >
+      sh -c "
+        python wait_for_db.py &&
+        python manage.py migrate &&
+        python manage.py loaddata backup.json && 
+        python manage.py runserver 0.0.0.0:8000
+      "
+
+  front-end:
+    build: ./FE
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./FE:/app
+      - /app/node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    stdin_open: true
+    tty: true
+    working_dir: /app
+
+  db:
+    image: mysql:latest
+    environment:
+      - MYSQL_ROOT_PASSWORD=root_password
+      - MYSQL_DATABASE=fs
+      - MYSQL_ROOT_HOST=%   
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-proot_password"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+
+volumes:
+  mysql_data:

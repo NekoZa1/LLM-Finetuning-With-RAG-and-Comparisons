@@ -1,0 +1,1482 @@
+{
+  "name": "internal_test_10_percent",
+  "metrics": {
+    "BLEU": 0.6948,
+    "ROUGE-1": 0.8421,
+    "ROUGE-2": 0.7847,
+    "ROUGE-L": 0.8103,
+    "BERT-F1": 0.9272
+  },
+  "predictions": [
+    {
+      "Q": "Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô cần lưu ý gì?",
+      "gold": "Không được cho trẻ em ngồi cùng hàng ghế với người lái xe (trừ loại xe ô tô chỉ có một hàng ghế); người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.",
+      "pred": "Không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe chỉ có một hàng ghế.",
+      "contexts": [
+        {
+          "text": "Điều 10. Quy tắc chung 1. Người tham gia giao thông đường bộ phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định, chấp hành báo hiệu đường bộ và các quy tắc giao thông đường bộ khác. 2. Người lái xe và người được chở trên xe ô tô phải thắt dây đai an toàn tại những chỗ có trang bị dây đai an toàn khi tham gia giao thông đường bộ. 3. Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe ô tô chỉ có một hàng ghế; người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.",
+          "score": 0.8808416108290354,
+          "semantic_score": 0.8855665922164917,
+          "lexical_score": 0.8666666666666667,
+          "chunk_id": 17
+        },
+        {
+          "text": "Điều 46. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh 1. Xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh phải đáp ứng các yêu cầu sau đây: a) Bảo đảm các điều kiện quy định tại khoản 1 và khoản 2 Điều 35 của Luật này; có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ em trên xe; có niên hạn sử dụng không quá 20 năm; có màu sơn theo quy định của Chính phủ; b) Xe ô tô chở trẻ em mầm non hoặc học sinh tiểu học phải có dây đai an toàn phù hợp với lứa tuổi hoặc sử dụng xe có ghế ngồi phù hợp với lứa tuổi theo quy định của pháp luật. 2. Xe ô tô kinh doanh vận tải kết hợp với hoạt động đưa đón trẻ em mầm non, học sinh phải đáp ứng các yêu cầu theo quy định tại khoản 3 Điều 10, khoản 1 và khoản 2 Điều 35 của Luật này;",
+          "score": 0.787715353568395,
+          "semantic_score": 0.8725093603134155,
+          "lexical_score": 0.5333333333333333,
+          "chunk_id": 51
+        },
+        {
+          "text": "Điều 33. Người lái xe, người được chở, hàng hóa xếp trên xe mô tô, xe gắn máy 1. Người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ những trường hợp sau thì được chở tối đa hai người: a) Chở người bệnh đi cấp cứu; b) Áp giải người có hành vi vi phạm pháp luật; c) Trẻ em dưới 12 tuổi; d) Người già yếu hoặc người khuyết tật. 2. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách. 3. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi sau đây: a) Đi xe dàn hàng ngang; b) Đi xe vào phần đường dành cho người đi bộ và phương tiện khác; c) Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính; d) Buông cả hai tay; đi xe bằng một bánh đối với xe mô tô, xe gắn máy hai bánh;",
+          "score": 0.7762738098700841,
+          "semantic_score": 0.8572539687156677,
+          "lexical_score": 0.5333333333333333,
+          "chunk_id": 87
+        },
+        {
+          "text": "chức tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ cho đối tượng thuộc thẩm quyền quản lý. 7. Thành viên trong gia đình có trách nhiệm tuyên truyền, nhắc nhở thành viên khác chấp hành pháp luật về trật tự, an toàn giao thông đường bộ, sử dụng dây đai an toàn, ghế dành cho trẻ em hoặc có người lớn ngồi cùng trẻ em phía sau khi chở trẻ em dưới 06 tuổi bằng xe gắn máy, xe mô tô.",
+          "score": 0.7708209683497746,
+          "semantic_score": 0.8499835133552551,
+          "lexical_score": 0.5333333333333333,
+          "chunk_id": 294
+        },
+        {
+          "text": "chức tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ cho đối tượng thuộc thẩm quyền quản lý. 7. Thành viên trong gia đình có trách nhiệm tuyên truyền, nhắc nhở thành viên khác chấp hành pháp luật về trật tự, an toàn giao thông đường bộ, sử dụng dây đai an toàn, ghế dành cho trẻ em hoặc có người lớn ngồi cùng trẻ em phía sau khi chở trẻ em dưới 06 tuổi bằng xe gắn máy, xe mô tô. a) Lực lượng Cảnh sát giao thông; h) Phát hiện những bất cập về đường bộ, tổ chức giao thông đường bộ, nguyên nhân dẫn đến mất trật tự, an toàn giao thông đường bộ, thông báo cho cơ quan chức năng hoặc báo cáo cấp có thẩm quyền kiến nghị với cơ quan chức năng có biện pháp khắc phục;",
+          "score": 0.7633965690930684,
+          "semantic_score": 0.8400843143463135,
+          "lexical_score": 0.5333333333333333,
+          "chunk_id": 244
+        }
+      ]
+    },
+    {
+      "Q": "Người điều khiển phương tiện có quyền được thông báo về điều gì khi bị dừng xe kiểm tra?",
+      "gold": "Được thông báo về căn cứ dừng phương tiện; nội dung và kết quả kiểm tra; hành vi vi phạm pháp luật và biện pháp xử lý.",
+      "pred": "Được thông báo về căn cứ dừng phương tiện; nội dung và kết quả kiểm tra; hành vi vi phạm và biện pháp xử lý.",
+      "contexts": [
+        {
+          "text": "Điều 72. Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ b) Được thông báo về căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát; nội dung và kết quả kiểm tra, kiểm soát; hành vi vi phạm pháp luật và biện pháp xử lý;",
+          "score": 0.845561072230339,
+          "semantic_score": 0.8774147629737854,
+          "lexical_score": 0.75,
+          "chunk_id": 254
+        },
+        {
+          "text": "Điều 66. Căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát 1. Khi phát hiện hành vi vi phạm pháp luật hoặc có căn cứ xác định có hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ hoặc vi phạm pháp luật khác; 2. Thực hiện theo mệnh lệnh, kế hoạch tuần tra, kiểm soát của cấp có thẩm quyền để phát hiện hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ mà buộc phải dừng phương tiện để kiểm tra, kiểm soát mới phát hiện được; 3. Phục vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội và đấu tranh phòng, chống tội phạm; phòng, chống thiên tai; phòng cháy, chữa cháy và cứu nạn, cứu hộ; phòng, chống dịch bệnh; 4. Có tin báo, tố giác, phản ánh, kiến nghị, đề nghị của cơ quan, tổ chức, cá nhân về tội phạm, hành vi vi phạm pháp luật khác. NGƯỜI ĐIỀU KHIỂN PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.8332056552171707,
+          "semantic_score": 0.8609408736228943,
+          "lexical_score": 0.75,
+          "chunk_id": 395
+        },
+        {
+          "text": "Điều 72. Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ c) Giải trình, khiếu nại, khởi kiện quyết định hành chính, hành vi hành chính liên quan đến quyền và lợi ích hợp pháp của mình theo quy định của pháp luật; d) Tố cáo hành vi vi phạm pháp luật trong hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ theo quy định của pháp luật về tố cáo; đ) Báo tin, tố giác, phản ánh những trường hợp vi phạm pháp luật. 2. Người điều khiển phương tiện tham gia giao thông đường bộ có trách nhiệm sau đây: a) Chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ; b) Chấp hành hiệu lệnh dừng phương tiện tham gia giao thông đường bộ, yêu cầu kiểm tra, kiểm soát của lực lượng thực hiện tuần tra, kiểm soát;",
+          "score": 0.8267164528369904,
+          "semantic_score": 0.8522886037826538,
+          "lexical_score": 0.75,
+          "chunk_id": 255
+        },
+        {
+          "text": "Điều 72. Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ c) Giải trình, khiếu nại, khởi kiện quyết định hành chính, hành vi hành chính liên quan đến quyền và lợi ích hợp pháp của mình theo quy định của pháp luật; d) Tố cáo hành vi vi phạm pháp luật trong hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ theo quy định của pháp luật về tố cáo; đ) Báo tin, tố giác, phản ánh những trường hợp vi phạm pháp luật. 2. Người điều khiển phương tiện tham gia giao thông đường bộ có trách nhiệm sau đây: a) Chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ; b) Chấp hành hiệu lệnh dừng phương tiện tham gia giao thông đường bộ, yêu cầu kiểm tra, kiểm soát của lực lượng thực hiện tuần tra, kiểm soát; TUẦN TRA, KIỂM SOÁT VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.8262155055999756,
+          "semantic_score": 0.8516206741333008,
+          "lexical_score": 0.75,
+          "chunk_id": 326
+        },
+        {
+          "text": "Điều 72. Quyền và trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ c) Giải trình, khiếu nại, khởi kiện quyết định hành chính, hành vi hành chính liên quan đến quyền và lợi ích hợp pháp của mình theo quy định của pháp luật; d) Tố cáo hành vi vi phạm pháp luật trong hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ theo quy định của pháp luật về tố cáo; đ) Báo tin, tố giác, phản ánh những trường hợp vi phạm pháp luật. 2. Người điều khiển phương tiện tham gia giao thông đường bộ có trách nhiệm sau đây: a) Chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ; b) Chấp hành hiệu lệnh dừng phương tiện tham gia giao thông đường bộ, yêu cầu kiểm tra, kiểm soát của lực lượng thực hiện tuần tra, kiểm soát; a) Lực lượng Cảnh sát giao thông; 6.",
+          "score": 0.8251725733280182,
+          "semantic_score": 0.8502300977706909,
+          "lexical_score": 0.75,
+          "chunk_id": 328
+        }
+      ]
+    },
+    {
+      "Q": "Giao xe cơ giới cho người không đủ điều kiện điều khiển có bị nghiêm cấm không?",
+      "gold": "Có, đây là hành vi bị nghiêm cấm.",
+      "pred": "Có, đây là hành vi bị nghiêm cấm.",
+      "contexts": [
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 5. Đua xe, tổ chức đua xe, xúi giục, giúp sức, cổ vũ đua xe trái phép; điều khiển phương tiện tham gia giao thông đường bộ lạng lách, đánh võng, rú ga liên tục. 6. Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ. 7. Giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện theo quy định của pháp luật để điều khiển xe tham gia giao thông đường bộ. 8. Đưa xe cơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về an toàn kỹ thuật và bảo vệ môi trường, phương tiện khác không đủ điều kiện theo quy định của pháp luật để tham gia giao thông đường bộ. 9. Nhập khẩu, sản xuất, lắp ráp xe cơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về chất lượng an toàn kỹ thuật và bảo vệ môi trường. 10.",
+          "score": 0.899085283279419,
+          "semantic_score": 0.8654470443725586,
+          "lexical_score": 1.0,
+          "chunk_id": 130
+        },
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 1. Điều khiển xe cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng. 2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn. 3. Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng. 4. Xúc phạm, đe dọa, cản trở, chống đối hoặc không chấp hành hiệu lệnh, hướng dẫn, yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ.",
+          "score": 0.8388634439971712,
+          "semantic_score": 0.859225332736969,
+          "lexical_score": 0.7777777777777778,
+          "chunk_id": 270
+        },
+        {
+          "text": "Điều 56. Điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ b) Giấy phép lái xe phù hợp với loại xe đang điều khiển; c) Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới theo quy định của pháp luật; d) Chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới. 2. Người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải đủ tuổi, sức khỏe theo quy định của pháp luật; có bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng phù hợp loại xe máy chuyên dùng đang điều khiển; có giấy phép lái xe đang còn điểm, còn hiệu lực hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ. Khi tham gia giao thông đường bộ, người điều khiển xe máy chuyên dùng phải mang theo các loại giấy tờ sau đây:",
+          "score": 0.8060132513443629,
+          "semantic_score": 0.852462112903595,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 154
+        },
+        {
+          "text": "Điều 35. Điều kiện phương tiện tham gia giao thông đường bộ 1. Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện sau đây: a) Được cấp chứng nhận đăng ký xe và gắn biển số xe theo quy định của pháp luật; b) Bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định của pháp luật. 2. Xe ô tô kinh doanh vận tải phải lắp thiết bị giám sát hành trình. Xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của người lái xe) kinh doanh vận tải, xe ô tô đầu kéo, xe cứu thương phải lắp thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe. 3. Phương tiện giao thông thông minh bảo đảm các điều kiện quy định tại khoản 1 Điều này và được cơ quan có thẩm quyền cấp phép hoạt động. NGƯỜI ĐIỀU KHIỂN PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.7995511392752329,
+          "semantic_score": 0.8438459634780884,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 342
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.7733584129148059,
+          "semantic_score": 0.8459593653678894,
+          "lexical_score": 0.5555555555555556,
+          "chunk_id": 250
+        }
+      ]
+    },
+    {
+      "Q": "Trung tâm chỉ huy giao thông được kết nối, chia sẻ dữ liệu với những hệ thống nào?",
+      "gold": "Hệ thống đèn tín hiệu giao thông; hệ thống giám sát an ninh, trật tự; hệ thống quản lý dữ liệu thiết bị giám sát hành trình; hệ thống camera; thiết bị thông minh; trung tâm quản lý giao thông thông minh; công trình kiểm soát tải trọng xe.",
+      "pred": "Hệ thống đèn tín hiệu giao thông đường bộ; Lực lượng Cảnh sát giao thông.",
+      "contexts": [
+        {
+          "text": "g bao gồm: trung tâm chỉ huy giao thông quốc gia, trung tâm chỉ huy giao thông tỉnh, thành phố trực thuộc trung ương. 4. Trung tâm chỉ huy giao thông được kết nối, chia sẻ dữ liệu với các Bộ, ngành và các hệ thống, cơ sở dữ liệu sau đây: a) Hệ thống đèn tín hiệu giao thông đường bộ;",
+          "score": 0.9256051778793335,
+          "semantic_score": 0.9008069038391113,
+          "lexical_score": 1.0,
+          "chunk_id": 286
+        },
+        {
+          "text": "g bao gồm: trung tâm chỉ huy giao thông quốc gia, trung tâm chỉ huy giao thông tỉnh, thành phố trực thuộc trung ương. 4. Trung tâm chỉ huy giao thông được kết nối, chia sẻ dữ liệu với các Bộ, ngành và các hệ thống, cơ sở dữ liệu sau đây: a) Hệ thống đèn tín hiệu giao thông đường bộ; a) Lực lượng Cảnh sát giao thông; d) Vận hành, sử dụng hệ thống, phương tiện, thiết bị, dữ liệu theo quy định tại các khoản 1, 2, 3 và 4 Điều 67 của Luật này và vũ khí, công cụ hỗ trợ theo quy định tại Điều 70 của Luật này;",
+          "score": 0.9190219640731812,
+          "semantic_score": 0.8920292854309082,
+          "lexical_score": 1.0,
+          "chunk_id": 59
+        },
+        {
+          "text": "Điều 4. Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ 2. Hiện đại hoá các trung tâm chỉ huy giao thông; bảo đảm kết nối, chia sẻ Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ giữa các cơ quan nhà nước có liên quan. 3. Tạo điều kiện để cơ quan, tổ chức, cá nhân trong nước, nước ngoài nghiên cứu, ứng dụng và chuyển giao khoa học, công nghệ trong công tác bảo đảm trật tự, an toàn giao thông đường bộ, đầu tư, xây dựng, chuyển giao hệ thống, phương tiện, thiết bị giám sát phục vụ công tác bảo đảm trật tự, an toàn giao thông đường bộ; khuyến khích cơ quan, tổ chức, cá nhân tự nguyện tham gia phối hợp bảo đảm trật tự, an toàn giao thông đường bộ phù hợp với quy định của pháp luật, cung cấp thông tin, tài liệu phục vụ công tác bảo đảm trật tự, an toàn giao thông đường bộ và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 4.",
+          "score": 0.8717100322246552,
+          "semantic_score": 0.8289467096328735,
+          "lexical_score": 1.0,
+          "chunk_id": 5
+        },
+        {
+          "text": "Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới b) Việc xây dựng, quản lý, vận hành, sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải tuân thủ đúng quy trình, quy tắc, bảo đảm hoạt động liên tục và kết nối với Trung tâm chỉ huy giao thông;",
+          "score": 0.832932730515798,
+          "semantic_score": 0.8327991962432861,
+          "lexical_score": 0.8333333333333334,
+          "chunk_id": 156
+        },
+        {
+          "text": "Điều 75. Trung tâm chỉ huy giao thông 1. Trung tâm chỉ huy giao thông bao gồm các công trình hạ tầng kỹ thuật, hệ thống thiết bị công nghệ và cơ sở dữ liệu do lực lượng Cảnh sát giao thông quản lý, vận hành, khai thác. 2. Trung tâm chỉ huy giao thông có nhiệm vụ thu thập, lưu trữ, phân tích, xử lý dữ liệu về tình hình trật tự, an toàn giao thông đường bộ phục vụ chỉ huy, điều khiển giao thông đường bộ, giải quyết tai nạn giao thông đường bộ, tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ, đấu tranh phòng, chống tội phạm và các vi phạm pháp luật khác trên đường bộ; cung cấp thông tin về tình trạng giao thông cho người tham gia giao thông đường bộ; phục vụ điều hành hoạt động giao thông đường bộ trật tự, an toàn, thông suốt. 3. Trung tâm chỉ huy giao thông bao gồm: trung tâm chỉ huy giao thông quốc gia, trung tâm chỉ huy giao thông tỉnh, thành phố trực thuộc trung ương. 4.",
+          "score": 0.8191723028818766,
+          "semantic_score": 0.8700075149536133,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 58
+        }
+      ]
+    },
+    {
+      "Q": "Giấy phép lái xe hạng B1 số tự động cũ được đổi sang hạng nào và với điều kiện gì?",
+      "gold": "Được đổi sang hạng B với điều kiện hạn chế là chỉ được điều khiển xe ô tô số tự động.",
+      "pred": "Được đổi, cấp lại sang giấy phép lái xe hạng B với điều kiện hạn chế là chỉ được điều khiển xe ô tô số tự động.",
+      "contexts": [
+        {
+          "text": "Điều 89. Quy định chuyển tiếp đ) Giấy phép lái xe hạng B1 số tự động được đổi, cấp lại sang giấy phép lái xe hạng B với điều kiện hạn chế là chỉ được điều khiển xe ô tô số tự động;",
+          "score": 0.9101549152817046,
+          "semantic_score": 0.9040160775184631,
+          "lexical_score": 0.9285714285714286,
+          "chunk_id": 284
+        },
+        {
+          "text": "Điều 89. Quy định chuyển tiếp đ) Giấy phép lái xe hạng B1 số tự động cấp cho người không hành nghề lái xe được tiếp tục điều khiển xe ô tô số tự động chở người đến 08 chỗ (không kể chỗ của người lái xe); xe ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải dưới 3.500 kg;",
+          "score": 0.8476857053382056,
+          "semantic_score": 0.8921523690223694,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 227
+        },
+        {
+          "text": "Điều 89. Quy định chuyển tiếp a) Giấy phép lái xe hạng A1 được đổi, cấp lại sang giấy phép lái xe hạng A với điều kiện hạn chế là chỉ được điều khiển xe mô tô hai bánh có dung tích xi-lanh đến dưới 175 cm [3 ] hoặc có công suất động cơ điện đến dưới 14 kW;",
+          "score": 0.8298301952225822,
+          "semantic_score": 0.8683450222015381,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 107
+        },
+        {
+          "text": "Điều 89. Quy định chuyển tiếp e) Giấy phép lái xe hạng B1, B2 được đổi, cấp lại sang giấy phép lái xe hạng B hoặc hạng C1 và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 3.500 kg;",
+          "score": 0.8176269701548985,
+          "semantic_score": 0.8758835792541504,
+          "lexical_score": 0.6428571428571429,
+          "chunk_id": 403
+        },
+        {
+          "text": "phép lái xe không thời hạn được cấp trước ngày 01 tháng 7 năm 2012 sang giấy phép lái xe theo quy định của Luật này. 4. Chưa cấp, đổi, cấp lại giấy phép lái xe đối với người vi phạm pháp luật về trật tự, an toàn giao thông đường bộ khi người đó chưa thực hiện xong yêu cầu của cơ quan nhà nước có thẩm quyền về giải quyết vụ việc vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ. 5. Giấy phép lái xe bị thu hồi khi thuộc một trong các trường hợp sau đây: a) Người được cấp giấy phép lái xe không đủ điều kiện sức khỏe theo kết luận của cơ sở khám bệnh, chữa bệnh đối với từng hạng giấy phép lái xe; b) Giấy phép lái xe được cấp sai quy định; c) Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời hiệu thi hành quyết định xử phạt vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính nếu người vi phạm không đến nhận mà không có lý do chính đáng. 6.",
+          "score": 0.8085649268967765,
+          "semantic_score": 0.8399913311004639,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 219
+        }
+      ]
+    },
+    {
+      "Q": "Thứ tự ưu tiên chấp hành báo hiệu đường bộ từ cao xuống thấp là gì?",
+      "gold": "Hiệu lệnh của người điều khiển giao thông; tín hiệu đèn giao thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; thiết bị âm thanh báo hiệu đường bộ.",
+      "pred": "Hiệu lệnh của người điều khiển giao thông; tín hiệu đèn giao thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; thiết bị âm thanh báo hiệu đường bộ.",
+      "contexts": [
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ 2. Người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ theo thứ tự ưu tiên từ trên xuống dưới như sau: a) Hiệu lệnh của người điều khiển giao thông; b) Tín hiệu đèn giao thông; c) Biển báo hiệu đường bộ; d) Vạch kẻ đường và các dấu hiệu khác trên mặt đường; đ) Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; e) Thiết bị âm thanh báo hiệu đường bộ. 3. Hiệu lệnh của người điều khiển giao thông được quy định như sau: a) Tay bên phải giơ thẳng đứng để báo hiệu cho người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại;",
+          "score": 0.8495781173308691,
+          "semantic_score": 0.8549930453300476,
+          "lexical_score": 0.8333333333333334,
+          "chunk_id": 71
+        },
+        {
+          "text": "Điều 12. Chấp hành quy định về tốc độ và khoảng cách giữa các xe h) Tránh xe đi ngược chiều hoặc khi cho xe đi phía sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi cùng chiều phía trước; i) Điểm dừng xe, đỗ xe trên đường bộ có khách đang lên, xuống xe; k) Gặp xe vận chuyển hàng siêu trường, siêu trọng, hàng hóa nguy hiểm; đoàn người đi bộ; l) Gặp xe ưu tiên; m) Điều kiện trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ; n) Khu vực đang tổ chức kiểm soát giao thông đường bộ. 4. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ.",
+          "score": 0.7753832389911016,
+          "semantic_score": 0.8393998742103577,
+          "lexical_score": 0.5833333333333334,
+          "chunk_id": 123
+        },
+        {
+          "text": "ợc chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời. 5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở. 6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên. 7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam.",
+          "score": 0.7660008370876312,
+          "semantic_score": 0.8546677827835083,
+          "lexical_score": 0.5,
+          "chunk_id": 79
+        },
+        {
+          "text": "ợc chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời. 5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở. 6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên. 7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam. a) Lực lượng Cảnh sát giao thông; 6.",
+          "score": 0.7653656899929047,
+          "semantic_score": 0.8538209199905396,
+          "lexical_score": 0.5,
+          "chunk_id": 364
+        },
+        {
+          "text": "nh vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23. Lợi dụng chức vụ, quyền hạn, nghề nghiệp của bản thân hoặc người khác để vi phạm pháp luật về trật tự, an toàn giao thông đường bộ hoặc can thiệp, tác động vào quá trình xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 24. Sử dụng quyền của xe ưu tiên khi không thực hiện nhiệm vụ theo quy định của pháp luật; lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định của pháp luật. 25. Không khai báo, khai báo gian dối hoặc cung cấp thông tin, tài liệu không đúng sự thật để trốn tránh trách nhiệm khi bị phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 26. Bỏ trốn sau khi gây tai nạn giao thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ;",
+          "score": 0.7459993809461594,
+          "semantic_score": 0.8279991745948792,
+          "lexical_score": 0.5,
+          "chunk_id": 94
+        }
+      ]
+    },
+    {
+      "Q": "Xúc phạm, cản trở, chống đối người thi hành công vụ về bảo đảm trật tự, an toàn giao thông có bị nghiêm cấm không?",
+      "gold": "Có, đây là hành vi bị nghiêm cấm.",
+      "pred": "Có, đây là hành vi bị nghiêm cấm.",
+      "contexts": [
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 1. Điều khiển xe cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng. 2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn. 3. Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng. 4. Xúc phạm, đe dọa, cản trở, chống đối hoặc không chấp hành hiệu lệnh, hướng dẫn, yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ.",
+          "score": 0.8954113274812698,
+          "semantic_score": 0.8605484366416931,
+          "lexical_score": 1.0,
+          "chunk_id": 270
+        },
+        {
+          "text": "Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ 2. Trường hợp người điều khiển phương tiện tham gia giao thông đường bộ không chấp hành tín hiệu, hiệu lệnh dừng phương tiện và bỏ chạy thì người thi hành công vụ được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm. a) Lực lượng Cảnh sát giao thông; a) Dừng phương tiện tham gia giao thông đường bộ theo quy định tại Điều 66 của Luật này để kiểm tra việc chấp hành các quy định về quy tắc giao thông đường bộ; điều kiện của phương tiện tham gia giao thông đường bộ; điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ; các quy định về bảo đảm trật tự, an toàn giao thông đường bộ theo quy định của Luật này và quy định khác của pháp luật có liên quan; a) Lực lượng Cảnh sát giao thông; 6.",
+          "score": 0.8358000093384793,
+          "semantic_score": 0.8687859773635864,
+          "lexical_score": 0.7368421052631579,
+          "chunk_id": 333
+        },
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 20. Đặt, để chướng ngại vật, vật cản khác trái phép trên đường bộ; rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ; làm rơi vãi đất đá, hàng hóa, vật liệu xây dựng, phế thải trên đường bộ; đổ, xả thải, làm rơi vãi hóa chất, chất thải gây mất an toàn giao thông đường bộ. 21. Cản trở người, phương tiện tham gia giao thông trên đường bộ; ném gạch, đất, đá, cát hoặc vật thể khác vào người, phương tiện đang tham gia giao thông trên đường bộ. 22. Lợi dụng, lạm dụng nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ để thực hiện hành vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23.",
+          "score": 0.8232841068192532,
+          "semantic_score": 0.8520981073379517,
+          "lexical_score": 0.7368421052631579,
+          "chunk_id": 93
+        },
+        {
+          "text": "ao thông đường bộ và quy định khác của pháp luật có liên quan, có trách nhiệm giữ an toàn cho mình và cho người khác. 5. Mọi hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ phải được phát hiện, ngăn chặn kịp thời và phải bị xử lý nghiêm minh theo quy định của pháp luật. 6. Hoạt động bảo đảm trật tự, an toàn giao thông đường bộ phải công khai, minh bạch và thuận lợi cho người dân. 7. Công tác bảo đảm trật tự, an toàn giao thông đường bộ được thực hiện thống nhất trên cơ sở phân công, phân cấp, phù hợp với chức năng, nhiệm vụ và sự phối hợp chặt chẽ giữa các cơ quan, tổ chức, cá nhân có liên quan.",
+          "score": 0.8000294330872988,
+          "semantic_score": 0.8561795949935913,
+          "lexical_score": 0.631578947368421,
+          "chunk_id": 4
+        },
+        {
+          "text": "Điều 49. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa d) Hàng hóa vận chuyển trên xe phải được sắp xếp gọn gàng, chằng buộc chắc chắn, bảo đảm an toàn theo quy định của Bộ trưởng Bộ Giao thông vận tải; a) Lực lượng Cảnh sát giao thông; 6. Khi thực hiện nhiệm vụ, lực lượng thực hiện tuần tra, kiểm soát phải tuân thủ các nguyên tắc sau đây: a) Chấp hành quy định của pháp luật và mệnh lệnh, kế hoạch tuần tra, kiểm soát của cấp có thẩm quyền; b) Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; c) Kiên quyết đấu tranh phòng, chống tội phạm, vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác; d) Chịu trách nhiệm về quyết định, hành vi của mình theo quy định của pháp luật. 7. Bộ trưởng Bộ Công an quy định chi tiết điểm a và điểm b khoản 1, khoản 2, điểm b khoản 3 Điều này;",
+          "score": 0.7917502585210299,
+          "semantic_score": 0.8451406955718994,
+          "lexical_score": 0.631578947368421,
+          "chunk_id": 321
+        }
+      ]
+    },
+    {
+      "Q": "Phải giảm tốc độ hoặc dừng lại tại những nơi nào?",
+      "gold": "Nơi có vạch kẻ dành cho người đi bộ; nơi có báo hiệu cảnh báo nguy hiểm; nơi chuyển hướng hoặc tầm nhìn bị hạn chế; nơi đường giao nhau; khu vực trường học, bệnh viện; khu đông dân cư; nơi có vật nuôi...",
+      "pred": "Tại nơi có vạch kẻ đường hoặc báo hiệu dành cho người đi bộ; tại nơi người đi bộ, xe lăn của người khuyết tật đang qua đường; có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường; chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế.",
+      "contexts": [
+        {
+          "text": "Điều 12. Chấp hành quy định về tốc độ và khoảng cách giữa các xe 1. Người lái xe, người điều khiển xe máy chuyên dùng phải chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường. 2. Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm tốc độ phù hợp điều kiện của cầu, đường, mật độ giao thông, địa hình, thời tiết và các yếu tố ảnh hưởng khác để bảo đảm an toàn. 3. Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp sau đây: a) Tại nơi có vạch kẻ đường hoặc báo hiệu khác dành cho người đi bộ hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường; b) Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường; c) Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế;",
+          "score": 0.8807491213083267,
+          "semantic_score": 0.8409988284111023,
+          "lexical_score": 1.0,
+          "chunk_id": 360
+        },
+        {
+          "text": "ợc chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời. 5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở. 6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên. 7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam.",
+          "score": 0.8324835499127706,
+          "semantic_score": 0.832200288772583,
+          "lexical_score": 0.8333333333333334,
+          "chunk_id": 79
+        },
+        {
+          "text": "ợc chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời. 5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở. 6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên. 7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam. a) Lực lượng Cảnh sát giao thông; 6.",
+          "score": 0.831235205133756,
+          "semantic_score": 0.8305358290672302,
+          "lexical_score": 0.8333333333333334,
+          "chunk_id": 364
+        },
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ b) Tín hiệu đèn màu vàng phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;",
+          "score": 0.8273368378480276,
+          "semantic_score": 0.8253380060195923,
+          "lexical_score": 0.8333333333333334,
+          "chunk_id": 76
+        },
+        {
+          "text": "Điều 25. Giao thông trên đường cao tốc 1. Người lái xe, người điều khiển xe máy chuyên dùng trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ sau đây: a) Trước khi nhập vào làn đường của đường cao tốc phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường, quan sát xe phía sau bảo đảm khoảng cách an toàn mới cho xe nhập vào làn đường sát bên phải, nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi nhập vào làn đường của đường cao tốc; b) Khi chuẩn bị ra khỏi đường cao tốc phải quan sát biển báo hiệu chỉ dẫn, thực hiện chuyển dần sang làn đường sát bên phải, nếu có làn đường giảm tốc thì phải cho xe di chuyển trên làn đường đó trước khi ra khỏi đường cao tốc; c) Không được cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường; d) Các quy tắc giao thông đường bộ khác quy định tại Chương này. 2. Chỉ được dừng xe, đỗ xe ở nơi quy định;",
+          "score": 0.7930696258942286,
+          "semantic_score": 0.8352039456367493,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 279
+        }
+      ]
+    },
+    {
+      "Q": "Người điều khiển phương tiện gây tai nạn giao thông có trách nhiệm gì?",
+      "gold": "Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh hoặc Ủy ban nhân dân nơi gần nhất.",
+      "pred": "Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất.",
+      "contexts": [
+        {
+          "text": "Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ 1. Người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm sau đây: a) Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất; b) Ở lại hiện trường vụ tai nạn giao thông đường bộ cho đến khi người của cơ quan Công an đến, trừ trường hợp phải đi cấp cứu, đưa người bị nạn đi cấp cứu hoặc xét thấy bị đe dọa đến tính mạng, sức khỏe nhưng phải đến trình báo ngay cơ quan Công an, Ủy ban nhân dân nơi gần nhất;",
+          "score": 0.9235395193099976,
+          "semantic_score": 0.8980526924133301,
+          "lexical_score": 1.0,
+          "chunk_id": 256
+        },
+        {
+          "text": "Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ",
+          "score": 0.9208753705024719,
+          "semantic_score": 0.8945004940032959,
+          "lexical_score": 1.0,
+          "chunk_id": 259
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.8865569978952408,
+          "semantic_score": 0.848742663860321,
+          "lexical_score": 1.0,
+          "chunk_id": 250
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này.",
+          "score": 0.8860877454280853,
+          "semantic_score": 0.8481169939041138,
+          "lexical_score": 1.0,
+          "chunk_id": 95
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này. a) Lực lượng Cảnh sát giao thông;",
+          "score": 0.8851151764392853,
+          "semantic_score": 0.8468202352523804,
+          "lexical_score": 1.0,
+          "chunk_id": 389
+        }
+      ]
+    },
+    {
+      "Q": "Hệ thống giám sát bảo đảm an ninh, trật tự an toàn giao thông đường bộ có chức năng gì?",
+      "gold": "Thu thập tín hiệu, dữ liệu, âm thanh, hình ảnh về hành trình phương tiện, tình trạng giao thông; giám sát tình hình an ninh, trật tự; phát hiện vi phạm pháp luật.",
+      "pred": "Để phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ.",
+      "contexts": [
+        {
+          "text": "Điều 67. Biện pháp phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ 1. Vận hành, sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống camera trên tuyến giao thông, trong đô thị; công trình, hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra, kiểm soát tải trọng xe cơ giới. 2. Sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ. 3. Khai thác dữ liệu từ thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe; tiếp nhận dữ liệu thu thập từ công trình kiểm soát tải trọng xe. a) Lực lượng Cảnh sát giao thông; h) Phát hiện những bất cập về đường bộ, tổ chức giao thông đường bộ, nguyên nhân dẫn đến mất trật tự, an toàn giao thông đường bộ, thông báo cho cơ quan chức năng hoặc báo cáo cấp có thẩm quyền kiến nghị với cơ quan chức năng có biện pháp khắc phục;",
+          "score": 0.8829559534788132,
+          "semantic_score": 0.8439412713050842,
+          "lexical_score": 1.0,
+          "chunk_id": 409
+        },
+        {
+          "text": "Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới c) Dữ liệu thu thập được từ hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải được quản lý theo quy định của pháp luật; bảo đảm các yêu cầu về bảo vệ dữ liệu cá nhân, bảo vệ các quyền và lợi ích hợp pháp của cá nhân và tổ chức; được sử dụng để xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ, vi phạm pháp luật khác và phục vụ công tác quản lý nhà nước.",
+          "score": 0.8803594847520193,
+          "semantic_score": 0.8627015352249146,
+          "lexical_score": 0.9333333333333333,
+          "chunk_id": 158
+        },
+        {
+          "text": "Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới a) Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ là hệ thống thu thập tín hiệu, dữ liệu, âm thanh, hình ảnh về hành trình của phương tiện tham gia giao thông đường bộ, tình trạng giao thông và các dữ liệu liên quan khác được xây dựng, lắp đặt trên các tuyến giao thông đường bộ theo quy chuẩn kỹ thuật quốc gia để giám sát tình hình an ninh, trật tự, an toàn giao thông đường bộ; phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác;",
+          "score": 0.8794659505287806,
+          "semantic_score": 0.8837323784828186,
+          "lexical_score": 0.8666666666666667,
+          "chunk_id": 55
+        },
+        {
+          "text": "Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới a) Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ là hệ thống thu thập tín hiệu, dữ liệu, âm thanh, hình ảnh về hành trình của phương tiện tham gia giao thông đường bộ, tình trạng giao thông và các dữ liệu liên quan khác được xây dựng, lắp đặt trên các tuyến giao thông đường bộ theo quy chuẩn kỹ thuật quốc gia để giám sát tình hình an ninh, trật tự, an toàn giao thông đường bộ; phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác; a) Lực lượng Cảnh sát giao thông;",
+          "score": 0.8761917332808177,
+          "semantic_score": 0.8793667554855347,
+          "lexical_score": 0.8666666666666667,
+          "chunk_id": 413
+        },
+        {
+          "text": "Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới b) Việc xây dựng, quản lý, vận hành, sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải tuân thủ đúng quy trình, quy tắc, bảo đảm hoạt động liên tục và kết nối với Trung tâm chỉ huy giao thông;",
+          "score": 0.8658388535181681,
+          "semantic_score": 0.865562915802002,
+          "lexical_score": 0.8666666666666667,
+          "chunk_id": 156
+        }
+      ]
+    },
+    {
+      "Q": "Không được quay đầu xe ở những địa điểm nào?",
+      "gold": "Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều.",
+      "pred": "Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời.",
+      "contexts": [
+        {
+          "text": ", xe thô sơ, xe đi ngược chiều và chỉ chuyển hướng khi không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác. 4. Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời.",
+          "score": 0.8427400588989258,
+          "semantic_score": 0.8736534118652344,
+          "lexical_score": 0.75,
+          "chunk_id": 90
+        },
+        {
+          "text": "a điểm nhập khẩu, sửa chữa, bảo trì đến nơi sử dụng phương tiện và ngược lại hoặc giữa các địa điểm sử dụng phương tiện; b) Lưu hành xe quá khổ giới hạn, xe quá tải trọng để chở hàng hóa trên đường bộ trong các trường hợp: phục vụ nhiệm vụ quốc phòng, an ninh; phòng, chống, khắc phục hậu quả thiên tai; thực hiện nhiệm vụ trong trường hợp khẩn cấp; chở hàng siêu trường, siêu trọng khi các phương thức vận chuyển hàng hoá bằng đường sắt, đường thuỷ nội địa, hàng không, hàng hải không phù hợp hoặc phải kết hợp phương thức vận tải đường bộ với phương thức vận tải khác;",
+          "score": 0.7393359243869781,
+          "semantic_score": 0.8191145658493042,
+          "lexical_score": 0.5,
+          "chunk_id": 278
+        },
+        {
+          "text": "anh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh. 3. Người điều khiển phương tiện tham gia giao thông đường bộ khi dừng xe, đỗ xe trên đường phải thực hiện các quy định sau đây: a) Có tín hiệu báo cho người điều khiển phương tiện tham gia giao thông đường bộ khác biết khi ra, vào vị trí dừng xe, đỗ xe; b) Không làm ảnh hưởng đến người đi bộ và các phương tiện tham gia giao thông đường bộ. 4. Người điều khiển phương tiện tham gia giao thông đường bộ không được dừng xe, đỗ xe tại các vị trí sau đây: a) Bên trái đường một chiều; b) Trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; c) Trên cầu, trừ những trường hợp tổ chức giao thông cho phép; d) Gầm cầu vượt, trừ những nơi cho phép dừng xe, đỗ xe; đ) Song song cùng chiều với một xe khác đang dừng, đỗ trên đường;",
+          "score": 0.7376064360141754,
+          "semantic_score": 0.8168085813522339,
+          "lexical_score": 0.5,
+          "chunk_id": 117
+        },
+        {
+          "text": "ang dã. 15. Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn; chuyển tải, xuống khách hoặc các hành vi khác nhằm trốn tránh phát hiện xe chở quá tải, quá số người theo quy định của pháp luật. 16. Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe cơ giới, xe máy chuyên dùng gây mất trật tự, an toàn giao thông đường bộ. 17. Sản xuất, sử dụng, mua, bán trái phép biển số xe; điều khiển xe cơ giới, xe máy chuyên dùng gắn biển số xe không do cơ quan nhà nước có thẩm quyền cấp, gắn biển số xe không đúng vị trí; bẻ cong, che lấp biển số xe; làm thay đổi chữ, số, màu sắc, hình dạng, kích thước của biển số xe. 18. Làm gián đoạn hoạt động hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình, camera lắp trên xe theo quy định của Luật này. 19.",
+          "score": 0.6890675127506256,
+          "semantic_score": 0.8354233503341675,
+          "lexical_score": 0.25,
+          "chunk_id": 133
+        },
+        {
+          "text": "n thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật. 5. Trên đường bộ, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy; trường hợp lề đường hẹp hoặc không có lề đường thì chỉ được dừng xe, đỗ xe sát mép đường phía bên phải theo chiều đi của mình. 6. Trên đường phố, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe sát theo lề đường, vỉa hè phía bên phải theo chiều đi của mình; bánh xe gần nhất không được cách xa lề đường, vỉa hè quá 0,25 mét và không gây cản trở, nguy hiểm cho người và phương tiện tham gia giao thông đường bộ. 7.",
+          "score": 0.6881041526794434,
+          "semantic_score": 0.8341388702392578,
+          "lexical_score": 0.25,
+          "chunk_id": 103
+        }
+      ]
+    },
+    {
+      "Q": "Giấy phép lái xe hạng E cũ được đổi sang hạng nào theo Luật mới?",
+      "gold": "Được đổi, cấp lại sang giấy phép lái xe hạng D.",
+      "pred": "Được đổi, cấp lại sang giấy phép lái xe hạng D và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg.",
+      "contexts": [
+        {
+          "text": "Điều 89. Quy định chuyển tiếp i) Giấy phép lái xe hạng E được đổi, cấp lại sang giấy phép lái xe hạng D và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;",
+          "score": 0.8625062525272369,
+          "semantic_score": 0.8833416700363159,
+          "lexical_score": 0.8,
+          "chunk_id": 341
+        },
+        {
+          "text": "Điều 89. Quy định chuyển tiếp k) Giấy phép lái xe hạng FB2 được đổi, cấp lại sang giấy phép lái xe hạng BE hoặc hạng C1E và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 3.500 kg;",
+          "score": 0.8527202129364013,
+          "semantic_score": 0.8702936172485352,
+          "lexical_score": 0.8,
+          "chunk_id": 411
+        },
+        {
+          "text": "Điều 89. Quy định chuyển tiếp n) Giấy phép lái xe hạng FE được đổi, cấp lại sang giấy phép lái xe hạng DE và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg.",
+          "score": 0.8522195786237716,
+          "semantic_score": 0.8696261048316956,
+          "lexical_score": 0.8,
+          "chunk_id": 402
+        },
+        {
+          "text": "Điều 89. Quy định chuyển tiếp e) Giấy phép lái xe hạng B1, B2 được đổi, cấp lại sang giấy phép lái xe hạng B hoặc hạng C1 và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải đến 3.500 kg;",
+          "score": 0.849813950061798,
+          "semantic_score": 0.8664186000823975,
+          "lexical_score": 0.8,
+          "chunk_id": 403
+        },
+        {
+          "text": "Điều 89. Quy định chuyển tiếp h) Giấy phép lái xe hạng D được đổi, cấp lại sang giấy phép lái xe hạng D2 và chứng chỉ điều khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;",
+          "score": 0.8455880403518676,
+          "semantic_score": 0.8607840538024902,
+          "lexical_score": 0.8,
+          "chunk_id": 231
+        }
+      ]
+    },
+    {
+      "Q": "Lợi dụng, lạm dụng nhiệm vụ bảo đảm trật tự giao thông để nhũng nhiễu, xâm phạm lợi ích của cá nhân có bị nghiêm cấm không?",
+      "gold": "Có, đây là hành vi bị nghiêm cấm.",
+      "pred": "Có, đây là hành vi bị nghiêm cấm.",
+      "contexts": [
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 20. Đặt, để chướng ngại vật, vật cản khác trái phép trên đường bộ; rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ; làm rơi vãi đất đá, hàng hóa, vật liệu xây dựng, phế thải trên đường bộ; đổ, xả thải, làm rơi vãi hóa chất, chất thải gây mất an toàn giao thông đường bộ. 21. Cản trở người, phương tiện tham gia giao thông trên đường bộ; ném gạch, đất, đá, cát hoặc vật thể khác vào người, phương tiện đang tham gia giao thông trên đường bộ. 22. Lợi dụng, lạm dụng nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ để thực hiện hành vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23.",
+          "score": 0.8939153701066971,
+          "semantic_score": 0.8585538268089294,
+          "lexical_score": 1.0,
+          "chunk_id": 93
+        },
+        {
+          "text": "nh vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23. Lợi dụng chức vụ, quyền hạn, nghề nghiệp của bản thân hoặc người khác để vi phạm pháp luật về trật tự, an toàn giao thông đường bộ hoặc can thiệp, tác động vào quá trình xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 24. Sử dụng quyền của xe ưu tiên khi không thực hiện nhiệm vụ theo quy định của pháp luật; lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định của pháp luật. 25. Không khai báo, khai báo gian dối hoặc cung cấp thông tin, tài liệu không đúng sự thật để trốn tránh trách nhiệm khi bị phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 26. Bỏ trốn sau khi gây tai nạn giao thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ;",
+          "score": 0.8445411229675466,
+          "semantic_score": 0.8684790730476379,
+          "lexical_score": 0.7727272727272727,
+          "chunk_id": 94
+        },
+        {
+          "text": "ao thông đường bộ và quy định khác của pháp luật có liên quan, có trách nhiệm giữ an toàn cho mình và cho người khác. 5. Mọi hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ phải được phát hiện, ngăn chặn kịp thời và phải bị xử lý nghiêm minh theo quy định của pháp luật. 6. Hoạt động bảo đảm trật tự, an toàn giao thông đường bộ phải công khai, minh bạch và thuận lợi cho người dân. 7. Công tác bảo đảm trật tự, an toàn giao thông đường bộ được thực hiện thống nhất trên cơ sở phân công, phân cấp, phù hợp với chức năng, nhiệm vụ và sự phối hợp chặt chẽ giữa các cơ quan, tổ chức, cá nhân có liên quan.",
+          "score": 0.7889587350867011,
+          "semantic_score": 0.8549752831459045,
+          "lexical_score": 0.5909090909090909,
+          "chunk_id": 4
+        },
+        {
+          "text": "tác bảo đảm trật tự, an toàn giao thông đường bộ và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 4. Bảo đảm công bằng, bình đẳng, an toàn đối với người tham gia giao thông đường bộ; tạo thuận lợi cho trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật trong tham gia giao thông đường bộ; xây dựng văn hóa giao thông; giáo dục, phổ biến, bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho trẻ em, học sinh để hình thành, nâng cao ý thức tự bảo vệ bản thân và tự giác chấp hành pháp luật khi tham gia giao thông đường bộ. 5. Cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ cơ quan nhà nước thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ, có thành tích thì được khen thưởng, bị thiệt hại về tài sản thì được đền bù; người bị tổn hại về danh dự, nhân phẩm thì được khôi phục;",
+          "score": 0.7837820716879584,
+          "semantic_score": 0.8480730652809143,
+          "lexical_score": 0.5909090909090909,
+          "chunk_id": 6
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.7685475051403046,
+          "semantic_score": 0.8580633401870728,
+          "lexical_score": 0.5,
+          "chunk_id": 250
+        }
+      ]
+    },
+    {
+      "Q": "Dừng xe được định nghĩa như thế nào?",
+      "gold": "Là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác.",
+      "pred": "Để đảm bảo an toàn giao thông cho người tham gia giao thông đường bộ.",
+      "contexts": [
+        {
+          "text": "Điều 18. Dừng xe, đỗ xe e) Cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp, dưới 40 mét trên đường có một làn xe cơ giới trên một chiều đường; g) Trên phần đường dành cho người đi bộ qua đường; h) Nơi đường giao nhau và trong phạm vi 05 mét tính từ mép đường giao nhau; i) Điểm đón, trả khách; k) Trước cổng và trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào; l) Tại nơi phần đường có chiều rộng chỉ đủ cho một làn xe cơ giới; m) Trong phạm vi an toàn của đường sắt; n) Che khuất biển báo hiệu đường bộ, đèn tín hiệu giao thông; o) Trên đường dành riêng cho xe buýt, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật. 5.",
+          "score": 0.8125127702951431,
+          "semantic_score": 0.8333503603935242,
+          "lexical_score": 0.75,
+          "chunk_id": 102
+        },
+        {
+          "text": "n thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật. 5. Trên đường bộ, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy; trường hợp lề đường hẹp hoặc không có lề đường thì chỉ được dừng xe, đỗ xe sát mép đường phía bên phải theo chiều đi của mình. 6. Trên đường phố, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe sát theo lề đường, vỉa hè phía bên phải theo chiều đi của mình; bánh xe gần nhất không được cách xa lề đường, vỉa hè quá 0,25 mét và không gây cản trở, nguy hiểm cho người và phương tiện tham gia giao thông đường bộ. 7.",
+          "score": 0.8008343875408173,
+          "semantic_score": 0.8177791833877563,
+          "lexical_score": 0.75,
+          "chunk_id": 103
+        },
+        {
+          "text": "Điều 18. Dừng xe, đỗ xe 1. Dừng xe là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. Khi dừng xe không được tắt máy và không được rời khỏi vị trí lái, trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. 2. Đỗ xe là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh. 3.",
+          "score": 0.7762842029333115,
+          "semantic_score": 0.8683789372444153,
+          "lexical_score": 0.5,
+          "chunk_id": 116
+        },
+        {
+          "text": "anh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh. 3. Người điều khiển phương tiện tham gia giao thông đường bộ khi dừng xe, đỗ xe trên đường phải thực hiện các quy định sau đây: a) Có tín hiệu báo cho người điều khiển phương tiện tham gia giao thông đường bộ khác biết khi ra, vào vị trí dừng xe, đỗ xe; b) Không làm ảnh hưởng đến người đi bộ và các phương tiện tham gia giao thông đường bộ. 4. Người điều khiển phương tiện tham gia giao thông đường bộ không được dừng xe, đỗ xe tại các vị trí sau đây: a) Bên trái đường một chiều; b) Trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; c) Trên cầu, trừ những trường hợp tổ chức giao thông cho phép; d) Gầm cầu vượt, trừ những nơi cho phép dừng xe, đỗ xe; đ) Song song cùng chiều với một xe khác đang dừng, đỗ trên đường;",
+          "score": 0.7395439743995667,
+          "semantic_score": 0.8193919658660889,
+          "lexical_score": 0.5,
+          "chunk_id": 117
+        },
+        {
+          "text": "Điều 16. Lùi xe 1. Khi lùi xe, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát hai bên và phía sau xe, có tín hiệu lùi và chỉ lùi xe khi bảo đảm an toàn. 2. Không được lùi xe ở đường một chiều, khu vực cấm dừng, trên phần đường dành cho người đi bộ qua đường, nơi đường bộ giao nhau, đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ, trên đường cao tốc.",
+          "score": 0.7382802516222,
+          "semantic_score": 0.8177070021629333,
+          "lexical_score": 0.5,
+          "chunk_id": 115
+        }
+      ]
+    },
+    {
+      "Q": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ đầu tiên là gì?",
+      "gold": "Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên.",
+      "pred": "Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+      "contexts": [
+        {
+          "text": "Điều 3. Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ 1. Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. 2. Bảo đảm giao thông đường bộ được trật tự, an toàn, thông suốt, góp phần phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh và bảo vệ môi trường; phòng ngừa vi phạm pháp luật về trật tự, an toàn giao thông đường bộ, tai nạn giao thông đường bộ và ùn tắc giao thông; bảo vệ tính mạng, sức khỏe, tài sản của cá nhân và tài sản của cơ quan, tổ chức. 3. Bảo đảm trật tự, an toàn giao thông đường bộ là trách nhiệm của cơ quan, tổ chức, cá nhân. 4. Người tham gia giao thông đường bộ phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ và quy định khác của pháp luật có liên quan, có trách nhiệm giữ an toàn cho mình và cho người khác. 5.",
+          "score": 0.8694013221697374,
+          "semantic_score": 0.8864744901657104,
+          "lexical_score": 0.8181818181818182,
+          "chunk_id": 3
+        },
+        {
+          "text": "Điều 49. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô vận chuyển hàng hóa d) Hàng hóa vận chuyển trên xe phải được sắp xếp gọn gàng, chằng buộc chắc chắn, bảo đảm an toàn theo quy định của Bộ trưởng Bộ Giao thông vận tải; a) Lực lượng Cảnh sát giao thông; 6. Khi thực hiện nhiệm vụ, lực lượng thực hiện tuần tra, kiểm soát phải tuân thủ các nguyên tắc sau đây: a) Chấp hành quy định của pháp luật và mệnh lệnh, kế hoạch tuần tra, kiểm soát của cấp có thẩm quyền; b) Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; c) Kiên quyết đấu tranh phòng, chống tội phạm, vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác; d) Chịu trách nhiệm về quyết định, hành vi của mình theo quy định của pháp luật. 7. Bộ trưởng Bộ Công an quy định chi tiết điểm a và điểm b khoản 1, khoản 2, điểm b khoản 3 Điều này;",
+          "score": 0.8458785279230638,
+          "semantic_score": 0.855110764503479,
+          "lexical_score": 0.8181818181818182,
+          "chunk_id": 321
+        },
+        {
+          "text": "Điều 2. Giải thích từ ngữ 1. Trật tự, an toàn giao thông đường bộ là trạng thái giao thông trên đường bộ có trật tự, bảo đảm an toàn, thông suốt; được hình thành và điều chỉnh bởi các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ. 2. Phương tiện giao thông đường bộ là các loại xe, bao gồm: phương tiện giao thông cơ giới đường bộ (sau đây gọi là xe cơ giới), phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ), xe máy chuyên dùng và các loại xe tương tự. 3. Phương tiện tham gia giao thông đường bộ là phương tiện giao thông đường bộ tham gia giao thông trên đường bộ.",
+          "score": 0.8426722152666613,
+          "semantic_score": 0.8508356809616089,
+          "lexical_score": 0.8181818181818182,
+          "chunk_id": 15
+        },
+        {
+          "text": "Điều 8. Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ 1. Thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ trên cơ sở tuân thủ pháp luật Việt Nam và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế; bảo đảm độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 2. Nội dung hợp tác quốc tế về trật tự, an toàn giao thông đường bộ bao gồm: a) Ký kết điều ước quốc tế, thỏa thuận quốc tế có liên quan đến trật tự, an toàn giao thông đường bộ; b) Trao đổi thông tin, chuyển giao công nghệ có liên quan đến trật tự, an toàn giao thông đường bộ; c) Đào tạo, tập huấn, nâng cao năng lực cho lực lượng bảo đảm trật tự, an toàn giao thông đường bộ;",
+          "score": 0.8420727862553163,
+          "semantic_score": 0.8500364422798157,
+          "lexical_score": 0.8181818181818182,
+          "chunk_id": 241
+        },
+        {
+          "text": "Điều 86. Nội dung quản lý nhà nước về trật tự, an toàn giao thông đường bộ 1. Chính phủ thống nhất quản lý nhà nước về trật tự, an toàn giao thông đường bộ. 2. Bộ Công an là cơ quan đầu mối giúp Chính phủ thực hiện thống nhất quản lý nhà nước về trật tự, an toàn giao thông đường bộ; xây dựng lực lượng Cảnh sát giao thông chính quy, tinh nhuệ, hiện đại đáp ứng yêu cầu nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ. 3. Bộ Giao thông vận tải thực hiện quản lý nhà nước về đào tạo, sát hạch, cấp giấy phép lái xe; chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới và nhiệm vụ quản lý khác theo quy định của Luật này; ban hành quy chuẩn kỹ thuật quốc gia về thiết bị an toàn cho trẻ em quy định tại khoản 3 Điều 10 của Luật này. 4.",
+          "score": 0.8275139575654811,
+          "semantic_score": 0.8609277009963989,
+          "lexical_score": 0.7272727272727273,
+          "chunk_id": 238
+        }
+      ]
+    },
+    {
+      "Q": "Xe của lực lượng công an, kiểm sát đi làm nhiệm vụ khẩn cấp có màu đèn ưu tiên là gì?",
+      "gold": "Đèn nhấp nháy màu xanh và đỏ.",
+      "pred": "Đèn nhấp nháy màu xanh và đỏ.",
+      "contexts": [
+        {
+          "text": "g khác được huy động đi làm nhiệm vụ chữa cháy; b) Xe của lực lượng quân sự, công an, kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; c) Xe cứu thương đi làm nhiệm vụ cấp cứu; d) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đ) Đoàn xe tang. 3. Xe ưu tiên quy định tại các điểm a, b, c và d khoản 2 Điều này phải có tín hiệu ưu tiên theo quy định của pháp luật. Màu của tín hiệu đèn ưu tiên được quy định như sau:",
+          "score": 0.9158889204263687,
+          "semantic_score": 0.887851893901825,
+          "lexical_score": 1.0,
+          "chunk_id": 28
+        },
+        {
+          "text": "Điều 27. Xe ưu tiên b) Xe của lực lượng công an, kiểm sát đi làm nhiệm vụ khẩn cấp, xe Cảnh sát giao thông dẫn đường có đèn nhấp nháy màu xanh và đỏ; c) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật có đèn nhấp nháy màu xanh. 4. Xe ưu tiên quy định tại các điểm a, b, c và d khoản 2 Điều này không bị hạn chế tốc độ; được phép đi không phụ thuộc vào tín hiệu đèn giao thông, đi vào đường ngược chiều, các đường khác có thể đi được; riêng đối với đường cao tốc, chỉ được đi ngược chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời. 5.",
+          "score": 0.9154326319694519,
+          "semantic_score": 0.8872435092926025,
+          "lexical_score": 1.0,
+          "chunk_id": 78
+        },
+        {
+          "text": "Điều 27. Xe ưu tiên 1. Xe ưu tiên gồm xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; xe của lực lượng quân sự, công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đoàn xe tang. 2. Xe ưu tiên được quyền đi trước xe khác khi qua đường giao nhau từ bất kỳ hướng nào tới theo thứ tự ưu tiên từ trên xuống dưới như sau: a) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; b) Xe của lực lượng quân sự, công an, kiểm sát đi làm nhiệm vụ khẩn cấp;",
+          "score": 0.8812627625816009,
+          "semantic_score": 0.8808993697166443,
+          "lexical_score": 0.8823529411764706,
+          "chunk_id": 27
+        },
+        {
+          "text": "Điều 27. Xe ưu tiên a) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy, xe của lực lượng quân sự đi làm nhiệm vụ khẩn cấp, xe cứu thương đang làm nhiệm vụ cấp cứu có đèn nhấp nháy màu đỏ;",
+          "score": 0.8752544794012518,
+          "semantic_score": 0.8924961686134338,
+          "lexical_score": 0.8235294117647058,
+          "chunk_id": 29
+        },
+        {
+          "text": "ợc chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời. 5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở. 6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên. 7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam. a) Lực lượng Cảnh sát giao thông; 6.",
+          "score": 0.8067126817563001,
+          "semantic_score": 0.8599306344985962,
+          "lexical_score": 0.6470588235294118,
+          "chunk_id": 364
+        }
+      ]
+    },
+    {
+      "Q": "Cải tạo xe được định nghĩa như thế nào?",
+      "gold": "Là việc thay đổi đặc điểm của xe đã được cấp đăng ký xe, biển số xe hoặc xe đã qua sử dụng được nhập khẩu dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền.",
+      "pred": "Là việc thay đổi đặc điểm của xe đã được cấp đăng ký xe, biển số xe hoặc xe đã qua sử dụng được nhập khẩu dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền.",
+      "contexts": [
+        {
+          "text": "Điều 2. Giải thích từ ngữ 5. Phần đường xe chạy là phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại. 6. Làn đường là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn. 7. Cải tạo xe (sau đây gọi là cải tạo) là việc thay đổi đặc điểm của xe đã được cấp đăng ký xe, biển số xe hoặc xe đã qua sử dụng được nhập khẩu dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền. 8. Người tham gia giao thông đường bộ bao gồm: người điều khiển, người được chở trên phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt vật nuôi trên đường bộ; người đi bộ trên đường bộ.",
+          "score": 0.7926091343164444,
+          "semantic_score": 0.8568121790885925,
+          "lexical_score": 0.6,
+          "chunk_id": 31
+        },
+        {
+          "text": "ơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về chất lượng an toàn kỹ thuật và bảo vệ môi trường. 10. Cải tạo xe ô tô loại khác thành xe ô tô chở người, trừ cải tạo thành xe ô tô chở người phục vụ mục đích quốc phòng, an ninh. 11. Cải tạo trái phép; cố ý can thiệp làm sai lệch chỉ số trên đồng hồ báo quãng đường đã chạy của xe ô tô; cắt, hàn, tẩy xóa, đục sửa, đóng lại trái phép số khung, số động cơ của xe cơ giới, xe máy chuyên dùng. 12. Cố ý can thiệp, thay đổi phần mềm điều khiển của xe, động cơ của xe đã được đăng ký với cơ quan quản lý, nhằm mục đích gian lận kết quả kiểm tra, thử nghiệm, kiểm định; thuê, mượn phụ tùng xe cơ giới chỉ để thực hiện việc kiểm định. 13.",
+          "score": 0.7708897233009339,
+          "semantic_score": 0.8278529644012451,
+          "lexical_score": 0.6,
+          "chunk_id": 131
+        },
+        {
+          "text": "Điều 40. Niên hạn sử dụng của xe cơ giới b) Xe không có niên hạn sử dụng cải tạo thành xe có niên hạn sử dụng thì áp dụng quy định về niên hạn của xe sau khi cải tạo;",
+          "score": 0.7610391318798065,
+          "semantic_score": 0.8147188425064087,
+          "lexical_score": 0.6,
+          "chunk_id": 34
+        },
+        {
+          "text": "Điều 40. Niên hạn sử dụng của xe cơ giới a) Xe có niên hạn sử dụng cải tạo thành xe không có niên hạn sử dụng thì áp dụng quy định về niên hạn của xe trước khi cải tạo;",
+          "score": 0.7608562052249909,
+          "semantic_score": 0.8144749402999878,
+          "lexical_score": 0.6,
+          "chunk_id": 35
+        },
+        {
+          "text": "ình tự, thủ tục chứng nhận an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới cải tạo, xe máy chuyên dùng cải tạo; d) Trình tự, thủ tục kiểm định, miễn kiểm định lần đầu cho xe cơ giới, xe máy chuyên dùng; đ) Trình tự, thủ tục kiểm định khí thải xe mô tô, xe gắn máy; e) Quy chuẩn kỹ thuật quốc gia về cơ sở vật chất kỹ thuật và vị trí cơ sở đăng kiểm xe cơ giới, cơ sở kiểm định khí thải xe mô tô, xe gắn máy; quy chuẩn kỹ thuật quốc gia về xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ; g) Giới hạn kích thước, giới hạn tải trọng đối với xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ; h) Yêu cầu kỹ thuật đối với xe cơ giới, xe máy chuyên dùng thuộc đối tượng nghiên cứu phát triển có nhu cầu tham gia giao thông đường bộ. NGƯỜI ĐIỀU KHIỂN PHƯƠNG TIỆN THAM GIA GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.7603015244007111,
+          "semantic_score": 0.8137353658676147,
+          "lexical_score": 0.6,
+          "chunk_id": 153
+        }
+      ]
+    },
+    {
+      "Q": "Thời gian lái xe ô tô không quá bao nhiêu giờ trong một tuần?",
+      "gold": "Không quá 48 giờ trong một tuần.",
+      "pred": "Không quá 48 giờ trong một tuần.",
+      "contexts": [
+        {
+          "text": "Điều 64. Thời gian làm việc của người lái xe ô tô kinh doanh vận tải và vận tải nội bộ 1. Thời gian lái xe của người lái xe ô tô không quá 10 giờ trong một ngày và không quá 48 giờ trong một tuần; lái xe liên tục không quá 04 giờ và bảo đảm các quy định có liên quan của Bộ luật Lao động. 2. Đơn vị kinh doanh vận tải, đơn vị hoạt động vận tải nội bộ và người lái xe ô tô kinh doanh vận tải và vận tải nội bộ chịu trách nhiệm thực hiện các quy định tại Điều này.",
+          "score": 0.8677414327859878,
+          "semantic_score": 0.8903219103813171,
+          "lexical_score": 0.8,
+          "chunk_id": 233
+        },
+        {
+          "text": "Điều 57. Giấy phép lái xe 3. Người điều khiển xe chở hàng bốn bánh có gắn động cơ, xe chở người bốn bánh có gắn động cơ phải sử dụng giấy phép lái xe có hạng phù hợp với xe ô tô tải hoặc xe ô tô chở người tương ứng. 4. Người điều khiển xe ô tô có thiết kế, cải tạo với số chỗ ít hơn xe cùng loại, kích thước giới hạn tương đương phải sử dụng giấy phép lái xe có hạng phù hợp với xe ô tô cùng loại, kích thước giới hạn tương đương và có số chỗ nhiều nhất. 5. Thời hạn của giấy phép lái xe được quy định như sau: a) Giấy phép lái xe các hạng A1, A, B1 không thời hạn; b) Giấy phép lái xe hạng B và hạng C1 có thời hạn 10 năm kể từ ngày cấp; c) Giấy phép lái xe các hạng C, D1, D2, D, BE, C1E, CE, D1E, D2E và DE có thời hạn 05 năm kể từ ngày cấp. 6. Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ Việt Nam bao gồm: a) Giấy phép lái xe do cơ quan có thẩm quyền của Việt Nam cấp;",
+          "score": 0.755909338593483,
+          "semantic_score": 0.8412124514579773,
+          "lexical_score": 0.5,
+          "chunk_id": 200
+        },
+        {
+          "text": "phép lái xe do cơ quan nhà nước có thẩm quyền của quốc gia là thành viên của Công ước Viên cấp theo một mẫu thống nhất; có thời hạn không quá 03 năm kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia; b) Người có giấy phép lái xe quốc tế do quốc gia là thành viên của Công ước Viên cấp khi lái xe tham gia giao thông đường bộ trên lãnh thổ Việt Nam phải mang theo giấy phép lái xe quốc tế và giấy phép lái xe quốc gia được cấp phù hợp với hạng xe điều khiển, còn thời hạn sử dụng; phải tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam; c) Người có giấy phép lái xe quốc tế vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam mà bị tước quyền sử dụng giấy phép lái xe có thời hạn thì thời gian bị tước quyền sử dụng không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam;",
+          "score": 0.7555226981639862,
+          "semantic_score": 0.8406969308853149,
+          "lexical_score": 0.5,
+          "chunk_id": 222
+        },
+        {
+          "text": "Điều 20. Sử dụng đèn 1. Người lái xe, người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải bật đèn chiếu sáng phía trước trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn. 2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây: a) Khi gặp người đi bộ qua đường; b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;",
+          "score": 0.7521864324808121,
+          "semantic_score": 0.8362485766410828,
+          "lexical_score": 0.5,
+          "chunk_id": 136
+        },
+        {
+          "text": "có thời hạn thì thời gian bị tước quyền sử dụng không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam; d) Người Việt Nam hoặc người nước ngoài có thẻ thường trú hoặc thẻ tạm trú tại Việt Nam có giấy phép lái xe do Việt Nam hoặc quốc gia là thành viên của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên cấp, còn giá trị sử dụng, nếu có nhu cầu được cấp giấy phép lái xe quốc tế. 9. Bộ trưởng Bộ Giao thông vận tải quy định mẫu giấy phép lái xe và giấy phép lái xe quốc tế, trình tự, thủ tục cấp và việc sử dụng giấy phép lái xe, giấy phép lái xe quốc tế; đối với mẫu giấy phép lái xe, trình tự, thủ tục cấp và việc sử dụng giấy phép lái xe của lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh do Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định.",
+          "score": 0.7508932948112488,
+          "semantic_score": 0.834524393081665,
+          "lexical_score": 0.5,
+          "chunk_id": 223
+        }
+      ]
+    },
+    {
+      "Q": "Kết luận vụ tai nạn giao thông đường bộ phải xác định những nội dung gì?",
+      "gold": "Diễn biến, hậu quả thiệt hại, nguyên nhân, lỗi và điều kiện liên quan trực tiếp; đề xuất xử lý; kiến nghị khắc phục sơ hở, thiếu sót.",
+      "pred": "Phải xác định diễn biến, hậu quả thiệt hại, nguyên nhân, lỗi và điều kiện liên quan trực tiếp đến vụ tai nạn giao thông đường bộ.",
+      "contexts": [
+        {
+          "text": "Điều 83. Điều tra, giải quyết tai nạn giao thông đường bộ g) Giám định chuyên môn; dựng lại hiện trường; h) Các hoạt động khác theo quy định của pháp luật. 3. Kết luận vụ tai nạn giao thông đường bộ phải xác định diễn biến, hậu quả thiệt hại, nguyên nhân, lỗi và điều kiện liên quan trực tiếp đến vụ tai nạn giao thông đường bộ; đề xuất xử lý vụ tai nạn giao thông đường bộ; kiến nghị cơ quan, tổ chức, cá nhân khắc phục khi phát hiện sơ hở, thiếu sót nhằm bảo đảm trật tự, an toàn giao thông đường bộ. 4. Bộ trưởng Bộ Công an quy định quy trình điều tra, giải quyết tai nạn giao thông đường bộ của Cảnh sát giao thông.",
+          "score": 0.8568736728694704,
+          "semantic_score": 0.8832389712333679,
+          "lexical_score": 0.7777777777777778,
+          "chunk_id": 303
+        },
+        {
+          "text": "Điều 84. Thống kê tai nạn giao thông đường bộ 1. Thông tin về tai nạn giao thông đường bộ phải được thống kê chính xác, đầy đủ, kịp thời; kết quả thống kê, tổng hợp về tai nạn giao thông đường bộ phục vụ nghiên cứu, đề ra các giải pháp phòng ngừa tai nạn giao thông đường bộ. 2. Cơ quan Cảnh sát giao thông chủ trì, phối hợp thống kê tai nạn giao thông đường bộ. 3. Cơ sở khám bệnh, chữa bệnh cung cấp thông tin thống kê người bị tai nạn giao thông đường bộ vào khám bệnh, chữa bệnh tại cơ sở khám bệnh, chữa bệnh cho cơ quan Cảnh sát giao thông. 4. Cơ quan điều tra khi giải quyết tai nạn giao thông đường bộ phải cung cấp thông tin, tài liệu, kết quả điều tra, giải quyết cho cơ quan Cảnh sát giao thông có thẩm quyền để phục vụ thống kê, tổng hợp về tai nạn giao thông đường bộ, xây dựng Cơ sở dữ liệu về tai nạn giao thông đường bộ. 5. Bộ trưởng Bộ Công an quy định chi tiết Điều này.",
+          "score": 0.814477543036143,
+          "semantic_score": 0.8637478351593018,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 306
+        },
+        {
+          "text": "giao thông đường bộ; c) Đào tạo, tập huấn, nâng cao năng lực cho lực lượng bảo đảm trật tự, an toàn giao thông đường bộ; d) Tăng cường điều kiện vật chất để bảo đảm trật tự, an toàn giao thông đường bộ; đ) Giải quyết tai nạn giao thông đường bộ; e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của pháp luật Việt Nam và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. 3. Bộ Công an chủ trì, phối hợp với các Bộ, ngành liên quan giúp Chính phủ đàm phán, ký kết điều ước quốc tế, thỏa thuận quốc tế hoặc đề xuất cấp có thẩm quyền ký kết điều ước quốc tế, thỏa thuận quốc tế về trật tự, an toàn giao thông đường bộ; chủ trì, phối hợp với các Bộ, ngành liên quan thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.7998442600170771,
+          "semantic_score": 0.8442367911338806,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 318
+        },
+        {
+          "text": "Điều 83. Điều tra, giải quyết tai nạn giao thông đường bộ b) Khám nghiệm hiện trường, phương tiện, tử thi, công trình đường bộ liên quan trực tiếp đến vụ tai nạn giao thông đường bộ; thu thập thông tin, dữ liệu; xác định hậu quả thiệt hại về người và tài sản do tai nạn giao thông đường bộ gây ra;",
+          "score": 0.7925505571895175,
+          "semantic_score": 0.8715488910675049,
+          "lexical_score": 0.5555555555555556,
+          "chunk_id": 48
+        },
+        {
+          "text": "xét thấy bị đe dọa đến tính mạng, sức khỏe nhưng phải đến trình báo ngay cơ quan Công an, Ủy ban nhân dân nơi gần nhất; c) Cung cấp thông tin xác định danh tính về bản thân, người liên quan đến vụ tai nạn giao thông đường bộ và thông tin liên quan của vụ tai nạn giao thông đường bộ cho cơ quan có thẩm quyền. 2. Người có mặt tại nơi xảy ra vụ tai nạn giao thông đường bộ có trách nhiệm sau đây: a) Giúp đỡ, cứu chữa kịp thời người bị nạn; b) Báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất; c) Tham gia bảo vệ hiện trường; d) Tham gia bảo vệ tài sản của người bị nạn; đ) Cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền. 3.",
+          "score": 0.7885710530810885,
+          "semantic_score": 0.8662428855895996,
+          "lexical_score": 0.5555555555555556,
+          "chunk_id": 257
+        }
+      ]
+    },
+    {
+      "Q": "Bỏ trốn sau khi gây tai nạn giao thông để trốn tránh trách nhiệm có bị nghiêm cấm không?",
+      "gold": "Có, đây là hành vi bị nghiêm cấm.",
+      "pred": "Có, đây là hành vi bị nghiêm cấm.",
+      "contexts": [
+        {
+          "text": "nh vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23. Lợi dụng chức vụ, quyền hạn, nghề nghiệp của bản thân hoặc người khác để vi phạm pháp luật về trật tự, an toàn giao thông đường bộ hoặc can thiệp, tác động vào quá trình xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 24. Sử dụng quyền của xe ưu tiên khi không thực hiện nhiệm vụ theo quy định của pháp luật; lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định của pháp luật. 25. Không khai báo, khai báo gian dối hoặc cung cấp thông tin, tài liệu không đúng sự thật để trốn tránh trách nhiệm khi bị phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 26. Bỏ trốn sau khi gây tai nạn giao thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ;",
+          "score": 0.8618085214069912,
+          "semantic_score": 0.8633637428283691,
+          "lexical_score": 0.8571428571428571,
+          "chunk_id": 94
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.8243965762002128,
+          "semantic_score": 0.8611001968383789,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 250
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này.",
+          "score": 0.8232544916016715,
+          "semantic_score": 0.8595774173736572,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 95
+        },
+        {
+          "text": "thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ; xâm phạm tính mạng, sức khỏe, tài sản của người bị nạn, người gây tai nạn giao thông đường bộ hoặc người giúp đỡ, cứu chữa, đưa người bị nạn đi cấp cứu; lợi dụng việc xảy ra tai nạn giao thông đường bộ để hành hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông đường bộ. 27. Điều khiển vật thể bay, tàu bay không người lái, phương tiện bay siêu nhẹ hoạt động trong phạm vi khổ giới hạn đường bộ gây cản trở hoặc nguy cơ mất an toàn cho người, phương tiện tham gia giao thông đường bộ, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay. 28. Hành vi khác vi phạm quy tắc giao thông đường bộ quy định tại Chương II của Luật này. a) Lực lượng Cảnh sát giao thông;",
+          "score": 0.8210557954651969,
+          "semantic_score": 0.8566458225250244,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 389
+        },
+        {
+          "text": "Điều 80. Trách nhiệm của người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan và người có mặt tại hiện trường vụ tai nạn giao thông đường bộ 1. Người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ, người liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm sau đây: a) Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất; b) Ở lại hiện trường vụ tai nạn giao thông đường bộ cho đến khi người của cơ quan Công an đến, trừ trường hợp phải đi cấp cứu, đưa người bị nạn đi cấp cứu hoặc xét thấy bị đe dọa đến tính mạng, sức khỏe nhưng phải đến trình báo ngay cơ quan Công an, Ủy ban nhân dân nơi gần nhất;",
+          "score": 0.7615610659122467,
+          "semantic_score": 0.8487480878829956,
+          "lexical_score": 0.5,
+          "chunk_id": 256
+        }
+      ]
+    },
+    {
+      "Q": "Biển số xe có ký hiệu 'CV' được cấp cho đối tượng nào?",
+      "gold": "Cấp cho xe của các nhân viên hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc tế.",
+      "pred": "Cấp cho xe của các nhân viên hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc gia.",
+      "contexts": [
+        {
+          "text": "màu đen cấp cho xe của các tổ chức, cá nhân trong nước, không thuộc đối tượng quy định tại các điểm a, b và c khoản này; đ) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “NG” cấp cho xe của cơ quan đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao của cơ quan đó;",
+          "score": 0.867308689488305,
+          "semantic_score": 0.8601152896881104,
+          "lexical_score": 0.8888888888888888,
+          "chunk_id": 162
+        },
+        {
+          "text": "Điều 36. Biển số xe h) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “NN” cấp cho xe của tổ chức, văn phòng đại diện, cá nhân nước ngoài, trừ đối tượng quy định tại điểm g khoản này; i) Biển số xe loại khác theo quy định của Bộ trưởng Bộ Công an. 3. Biển số xe được quản lý theo mã định danh, trừ biển số xe quy định tại điểm b khoản 2 Điều này. Việc quản lý biển số xe theo mã định danh được quy định như sau: a) Biển số xe được cấp và quản lý theo mã định danh của chủ xe là cá nhân, tổ chức; trường hợp tổ chức chưa có mã định danh thì quản lý theo mã số thuế, quyết định thành lập hoặc giấy tờ tương đương;",
+          "score": 0.8615839613808526,
+          "semantic_score": 0.8524823188781738,
+          "lexical_score": 0.8888888888888888,
+          "chunk_id": 164
+        },
+        {
+          "text": "Điều 36. Biển số xe g) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “CV” cấp cho xe của các nhân viên hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc tế;",
+          "score": 0.8579062786367204,
+          "semantic_score": 0.8846157789230347,
+          "lexical_score": 0.7777777777777778,
+          "chunk_id": 139
+        },
+        {
+          "text": "Điều 36. Biển số xe e) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “QT” cấp cho xe của cơ quan đại diện của tổ chức quốc tế và nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ chức đó;",
+          "score": 0.8100813130537668,
+          "semantic_score": 0.8578861951828003,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 163
+        },
+        {
+          "text": "Điều 36. Biển số xe 1. Biển số xe do cơ quan nhà nước có thẩm quyền cấp theo quy định tại Điều 37 và Điều 39 của Luật này; được gắn vào phương tiện giao thông đường bộ theo quy định của Luật này để phục vụ quản lý nhà nước. 2. Biển số xe được phân loại như sau: a) Biển số xe nền màu xanh, chữ và số màu trắng cấp cho xe của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội, đơn vị sự nghiệp công lập; b) Biển số xe nền màu đỏ, chữ và số màu trắng cấp cho xe quân sự; c) Biển số xe nền màu vàng, chữ và số màu đen cấp cho xe hoạt động kinh doanh vận tải; d) Biển số xe nền màu trắng, chữ và số màu đen cấp cho xe của các tổ chức, cá nhân trong nước, không thuộc đối tượng quy định tại các điểm a, b và c khoản này;",
+          "score": 0.7979347954193751,
+          "semantic_score": 0.8416908383369446,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 161
+        }
+      ]
+    },
+    {
+      "Q": "Trước khi mở cửa xe, người mở cửa phải làm gì?",
+      "gold": "Phải quan sát phía trước, phía sau và bên phía mở cửa xe, khi thấy an toàn mới được mở cửa xe.",
+      "pred": "Phải quan sát phía trước, phía sau và bên phía mở cửa xe, khi thấy an toàn mới được mở cửa xe, ra khỏi xe.",
+      "contexts": [
+        {
+          "text": "Điều 19. Mở cửa xe 1. Chỉ được mở cửa xe khi xe đã dừng, đỗ. 2. Trước khi mở cửa xe, người mở cửa phải quan sát phía trước, phía sau và bên phía mở cửa xe, khi thấy an toàn mới được mở cửa xe, ra khỏi xe; không để cửa xe mở nếu không bảo đảm an toàn.",
+          "score": 0.8770388194492885,
+          "semantic_score": 0.8836708068847656,
+          "lexical_score": 0.8571428571428571,
+          "chunk_id": 135
+        },
+        {
+          "text": "Điều 18. Dừng xe, đỗ xe 1. Dừng xe là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. Khi dừng xe không được tắt máy và không được rời khỏi vị trí lái, trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. 2. Đỗ xe là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh. 3.",
+          "score": 0.8026616530758994,
+          "semantic_score": 0.8321202993392944,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 116
+        },
+        {
+          "text": "Điều 20. Sử dụng đèn 1. Người lái xe, người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải bật đèn chiếu sáng phía trước trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn. 2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây: a) Khi gặp người đi bộ qua đường; b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;",
+          "score": 0.7270949695791517,
+          "semantic_score": 0.8266028165817261,
+          "lexical_score": 0.42857142857142855,
+          "chunk_id": 136
+        },
+        {
+          "text": "Điều 27. Xe ưu tiên 1. Xe ưu tiên gồm xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; xe của lực lượng quân sự, công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đoàn xe tang. 2. Xe ưu tiên được quyền đi trước xe khác khi qua đường giao nhau từ bất kỳ hướng nào tới theo thứ tự ưu tiên từ trên xuống dưới như sau: a) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; b) Xe của lực lượng quân sự, công an, kiểm sát đi làm nhiệm vụ khẩn cấp;",
+          "score": 0.7192604158605848,
+          "semantic_score": 0.8161567449569702,
+          "lexical_score": 0.42857142857142855,
+          "chunk_id": 27
+        },
+        {
+          "text": "quá khối lượng cho phép hoặc vi phạm quy định khác của pháp luật; e) Không chở hàng hóa trong khoang chở hành khách. 2. Người lái xe, nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm sau đây: a) Thực hiện quy định tại khoản 1 Điều này; b) Trước khi cho xe khởi hành phải kiểm tra các điều kiện bảo đảm an toàn của xe, hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố; c) Hướng dẫn, yêu cầu, kiểm tra người trên xe thực hiện quy định tại khoản 2 Điều 10 của Luật này; d) Kiểm tra việc sắp xếp, chằng buộc hành lý, hàng hóa bảo đảm an toàn; đ) Giữ gìn trật tự, vệ sinh trong xe; e) Phối hợp thực hiện các nhiệm vụ khác theo yêu cầu của cơ quan Công an trong công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội; g) Thực hiện các quy tắc giao thông đường bộ khác quy định tại Chương II của Luật này.",
+          "score": 0.6968931151287896,
+          "semantic_score": 0.8339527249336243,
+          "lexical_score": 0.2857142857142857,
+          "chunk_id": 64
+        }
+      ]
+    },
+    {
+      "Q": "Biển báo cấm có tác dụng gì?",
+      "gold": "Để biểu thị các điều cấm.",
+      "pred": "Để biểu thị các điều cấm.",
+      "contexts": [
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ c) Tín hiệu đèn màu đỏ là cấm đi. 5. Báo hiệu của biển báo hiệu đường bộ được quy định như sau: a) Biển báo cấm để biểu thị các điều cấm; b) Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra; c) Biển hiệu lệnh để báo hiệu lệnh phải thi hành; d) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết;",
+          "score": 0.7668035119771958,
+          "semantic_score": 0.822404682636261,
+          "lexical_score": 0.6,
+          "chunk_id": 77
+        },
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ đ) Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.",
+          "score": 0.7634731471538544,
+          "semantic_score": 0.8179641962051392,
+          "lexical_score": 0.6,
+          "chunk_id": 92
+        },
+        {
+          "text": "nh vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23. Lợi dụng chức vụ, quyền hạn, nghề nghiệp của bản thân hoặc người khác để vi phạm pháp luật về trật tự, an toàn giao thông đường bộ hoặc can thiệp, tác động vào quá trình xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 24. Sử dụng quyền của xe ưu tiên khi không thực hiện nhiệm vụ theo quy định của pháp luật; lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định của pháp luật. 25. Không khai báo, khai báo gian dối hoặc cung cấp thông tin, tài liệu không đúng sự thật để trốn tránh trách nhiệm khi bị phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 26. Bỏ trốn sau khi gây tai nạn giao thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ;",
+          "score": 0.735117056965828,
+          "semantic_score": 0.7801560759544373,
+          "lexical_score": 0.6,
+          "chunk_id": 94
+        },
+        {
+          "text": "phương tiện tham gia giao thông đường bộ; không cản trở tầm nhìn của người lái xe; không được che khuất đèn, biển số xe; đ) Khi vận chuyển hàng rời, vật liệu xây dựng, phế thải không để rơi vãi xuống đường hoặc gây ra tiếng ồn, bụi bẩn trong suốt quá trình vận chuyển trên đường; e) Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe thì ban ngày phải có báo hiệu màu đỏ tại điểm đầu và điểm cuối cùng của hàng hoá, ban đêm hoặc khi trời tối phải có đèn hoặc báo hiệu cho người tham gia giao thông đường bộ để nhận biết. 2. Ủy ban nhân dân cấp tỉnh quy định về sử dụng xe mô tô, xe gắn máy, xe thô sơ để kinh doanh vận chuyển hành khách, hàng hóa tại địa phương.",
+          "score": 0.7334945887327194,
+          "semantic_score": 0.7779927849769592,
+          "lexical_score": 0.6,
+          "chunk_id": 70
+        },
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 20. Đặt, để chướng ngại vật, vật cản khác trái phép trên đường bộ; rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ; làm rơi vãi đất đá, hàng hóa, vật liệu xây dựng, phế thải trên đường bộ; đổ, xả thải, làm rơi vãi hóa chất, chất thải gây mất an toàn giao thông đường bộ. 21. Cản trở người, phương tiện tham gia giao thông trên đường bộ; ném gạch, đất, đá, cát hoặc vật thể khác vào người, phương tiện đang tham gia giao thông trên đường bộ. 22. Lợi dụng, lạm dụng nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ để thực hiện hành vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23.",
+          "score": 0.6965354889631271,
+          "semantic_score": 0.7953806519508362,
+          "lexical_score": 0.4,
+          "chunk_id": 93
+        }
+      ]
+    },
+    {
+      "Q": "Tình huống đột xuất gây mất trật tự an toàn giao thông trên đường bộ bao gồm những tình huống nào?",
+      "gold": "Ùn tắc giao thông; tai nạn giao thông đường bộ; hư hỏng kết cấu hạ tầng giao thông; thiên tai, cháy, nổ; tình huống phức tạp về an ninh, trật tự trên đường bộ.",
+      "pred": "Ởn tắc giao thông; tai nạn giao thông đường bộ; hư hỏng kết cấu hạ tầng giao thông đường bộ; thiên tai, cháy, nổ gây mất an toàn giao thông đường bộ; tình huống phức tạp về an ninh, trật tự trên đường bộ.",
+      "contexts": [
+        {
+          "text": "Điều 76. Giải quyết tình huống đột xuất gây mất trật tự, an toàn giao thông trên đường bộ 1. Tình huống đột xuất gây mất trật tự, an toàn giao thông trên đường bộ bao gồm: ùn tắc giao thông; tai nạn giao thông đường bộ; hư hỏng kết cấu hạ tầng giao thông đường bộ; thiên tai, cháy, nổ gây mất an toàn giao thông đường bộ; tình huống phức tạp về an ninh, trật tự trên đường bộ. 2. Cơ quan, tổ chức, cá nhân khi phát hiện tình huống quy định tại khoản 1 Điều này kịp thời báo cho cơ quan Công an nơi gần nhất hoặc cơ quan quản lý đường bộ; trường hợp phát hiện vụ tai nạn giao thông đường bộ phải báo ngay cho cơ quan, tổ chức quy định tại khoản 1 Điều 81 của Luật này; trường hợp tình huống đột xuất có thể gây mất an toàn cho người, phương tiện tham gia giao thông đường bộ phải thực hiện biện pháp cảnh báo an toàn ngay cho người tham gia giao thông đường bộ biết. 3.",
+          "score": 0.926030844449997,
+          "semantic_score": 0.9013744592666626,
+          "lexical_score": 1.0,
+          "chunk_id": 349
+        },
+        {
+          "text": "m gia giao thông đường bộ phải thực hiện biện pháp cảnh báo an toàn ngay cho người tham gia giao thông đường bộ biết. 3. Cơ quan Công an, cơ quan quản lý đường bộ khi phát hiện hoặc tiếp nhận thông tin về tình huống quy định tại khoản 1 Điều này, theo chức năng, nhiệm vụ của mình, có trách nhiệm sau đây: a) Tổ chức ngay lực lượng đến nơi xảy ra tình huống đột xuất để bảo đảm trật tự, an toàn giao thông đường bộ tại nơi xảy ra tình huống; b) Thực hiện các biện pháp quy định tại khoản 2 Điều 74 của Luật này; c) Khắc phục kịp thời các hư hỏng về kết cấu hạ tầng giao thông đường bộ gây mất trật tự, an toàn giao thông đường bộ; d) Trường hợp vượt quá khả năng, thẩm quyền, chức năng, nhiệm vụ phải kịp thời thông báo cho cơ quan có thẩm quyền để giải quyết; đ) Thực hiện các biện pháp khác theo quy định của pháp luật.",
+          "score": 0.8691085557142894,
+          "semantic_score": 0.8699225187301636,
+          "lexical_score": 0.8666666666666667,
+          "chunk_id": 350
+        },
+        {
+          "text": "m gia giao thông đường bộ phải thực hiện biện pháp cảnh báo an toàn ngay cho người tham gia giao thông đường bộ biết. 3. Cơ quan Công an, cơ quan quản lý đường bộ khi phát hiện hoặc tiếp nhận thông tin về tình huống quy định tại khoản 1 Điều này, theo chức năng, nhiệm vụ của mình, có trách nhiệm sau đây: a) Tổ chức ngay lực lượng đến nơi xảy ra tình huống đột xuất để bảo đảm trật tự, an toàn giao thông đường bộ tại nơi xảy ra tình huống; b) Thực hiện các biện pháp quy định tại khoản 2 Điều 74 của Luật này; c) Khắc phục kịp thời các hư hỏng về kết cấu hạ tầng giao thông đường bộ gây mất trật tự, an toàn giao thông đường bộ; d) Trường hợp vượt quá khả năng, thẩm quyền, chức năng, nhiệm vụ phải kịp thời thông báo cho cơ quan có thẩm quyền để giải quyết; đ) Thực hiện các biện pháp khác theo quy định của pháp luật. a) Lực lượng Cảnh sát giao thông;",
+          "score": 0.8686536977688472,
+          "semantic_score": 0.869316041469574,
+          "lexical_score": 0.8666666666666667,
+          "chunk_id": 367
+        },
+        {
+          "text": "g án phân luồng giao thông tạm thời; c) Giải quyết các tình huống gây mất an ninh, trật tự, an toàn giao thông đường bộ; trường hợp sử dụng tạm thời lòng đường, vỉa hè không bảo đảm yêu cầu về an ninh, trật tự, an toàn giao thông đường bộ thì tạm thời đình chỉ hoạt động, kiến nghị cơ quan có thẩm quyền điều chỉnh phương án sử dụng cho phù hợp. 4. Chính phủ quy định chi tiết Điều này.",
+          "score": 0.8216471781333288,
+          "semantic_score": 0.8510851263999939,
+          "lexical_score": 0.7333333333333333,
+          "chunk_id": 101
+        },
+        {
+          "text": "g án phân luồng giao thông tạm thời; c) Giải quyết các tình huống gây mất an ninh, trật tự, an toàn giao thông đường bộ; trường hợp sử dụng tạm thời lòng đường, vỉa hè không bảo đảm yêu cầu về an ninh, trật tự, an toàn giao thông đường bộ thì tạm thời đình chỉ hoạt động, kiến nghị cơ quan có thẩm quyền điều chỉnh phương án sử dụng cho phù hợp. 4. Chính phủ quy định chi tiết Điều này. a) Lực lượng Cảnh sát giao thông; c) Hướng dẫn, tuyên truyền, vận động người tham gia giao thông đường bộ chấp hành pháp luật về trật tự, an toàn giao thông đường bộ; a) Lực lượng Cảnh sát giao thông; g) Đấu tranh phòng, chống tội phạm hoạt động trên tuyến giao thông đường bộ, bảo đảm an ninh, trật tự theo quy định của pháp luật; tham gia phòng, chống khủng bố, biểu tình gây rối, dịch bệnh, thiên tai, hỏa hoạn; tham gia cứu nạn, cứu hộ;",
+          "score": 0.8163459261258443,
+          "semantic_score": 0.8440167903900146,
+          "lexical_score": 0.7333333333333333,
+          "chunk_id": 302
+        }
+      ]
+    },
+    {
+      "Q": "Khi qua phà, ai được phép ở lại trên xe?",
+      "gold": "Người lái xe, người điều khiển xe máy chuyên dùng, trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người bệnh.",
+      "pred": "Trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người bệnh.",
+      "contexts": [
+        {
+          "text": "Điều 23. Qua phà, qua cầu phao a) Khi xe xuống phà, đang ở trên phà và khi lên bến, mọi người không được ở trên xe, trừ người lái xe, người điều khiển xe máy chuyên dùng, trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người bệnh;",
+          "score": 0.8153923988342285,
+          "semantic_score": 0.8871898651123047,
+          "lexical_score": 0.6,
+          "chunk_id": 141
+        },
+        {
+          "text": "Điều 23. Qua phà, qua cầu phao b) Khi xuống phà, xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau; khi lên bến, người đi bộ lên trước, các phương tiện giao thông đường bộ lên sau theo hướng dẫn của người điều khiển giao thông.",
+          "score": 0.7974001854658127,
+          "semantic_score": 0.8632002472877502,
+          "lexical_score": 0.6,
+          "chunk_id": 298
+        },
+        {
+          "text": "Điều 23. Qua phà, qua cầu phao 4. Khi qua cầu phao, phải chấp hành quy định sau đây: a) Xe cơ giới, xe máy chuyên dùng phải đi theo một hàng theo chiều di chuyển, không gây cản trở người, phương tiện đi ngược chiều; b) Xe thô sơ, người đi bộ phải đi sát về phía bên phải theo chiều đi của mình, không gây cản trở xe cơ giới, xe máy chuyên dùng; c) Xe cơ giới, xe máy chuyên dùng, xe thô sơ, người đi bộ phải tuân thủ hướng dẫn của người điều khiển giao thông.",
+          "score": 0.7907191157341004,
+          "semantic_score": 0.8542921543121338,
+          "lexical_score": 0.6,
+          "chunk_id": 299
+        },
+        {
+          "text": "Điều 23. Qua phà, qua cầu phao 1. Khi đến bến phà, cầu phao, các xe phải xếp hàng theo quy định, không làm cản trở giao thông. 2. Các xe qua phà, qua cầu phao theo thứ tự ưu tiên từ trên xuống dưới như sau: a) Xe ưu tiên; b) Xe chở thư báo; c) Xe chở thực phẩm tươi sống; d) Xe chở khách công cộng.",
+          "score": 0.7889335691928864,
+          "semantic_score": 0.8519114255905151,
+          "lexical_score": 0.6,
+          "chunk_id": 297
+        },
+        {
+          "text": "Điều 23. Qua phà, qua cầu phao Trong trường hợp các xe cùng thứ tự ưu tiên đến bến phà, cầu phao thì xe nào đến trước được qua trước.",
+          "score": 0.7879711031913758,
+          "semantic_score": 0.850628137588501,
+          "lexical_score": 0.6,
+          "chunk_id": 30
+        }
+      ]
+    },
+    {
+      "Q": "Tín hiệu đèn màu vàng nhấp nháy có ý nghĩa gì đối với người điều khiển phương tiện?",
+      "gold": "Được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác.",
+      "pred": "Phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác.",
+      "contexts": [
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ b) Tín hiệu đèn màu vàng phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;",
+          "score": 0.8476017087697982,
+          "semantic_score": 0.8634689450263977,
+          "lexical_score": 0.8,
+          "chunk_id": 76
+        },
+        {
+          "text": "Điều 27. Xe ưu tiên b) Xe của lực lượng công an, kiểm sát đi làm nhiệm vụ khẩn cấp, xe Cảnh sát giao thông dẫn đường có đèn nhấp nháy màu xanh và đỏ; c) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật có đèn nhấp nháy màu xanh. 4. Xe ưu tiên quy định tại các điểm a, b, c và d khoản 2 Điều này không bị hạn chế tốc độ; được phép đi không phụ thuộc vào tín hiệu đèn giao thông, đi vào đường ngược chiều, các đường khác có thể đi được; riêng đối với đường cao tốc, chỉ được đi ngược chiều trên làn dừng xe khẩn cấp; phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời. 5.",
+          "score": 0.8171636879444122,
+          "semantic_score": 0.8228849172592163,
+          "lexical_score": 0.8,
+          "chunk_id": 78
+        },
+        {
+          "text": "Điều 29. Xe kéo xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc c) Phía trước của xe kéo và phía sau của xe được kéo phải có biển báo hiệu, có đèn cảnh báo nhấp nháy màu vàng.",
+          "score": 0.7668286800384522,
+          "semantic_score": 0.8224382400512695,
+          "lexical_score": 0.6,
+          "chunk_id": 159
+        },
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ 4. Tín hiệu đèn giao thông có 03 màu, gồm: màu xanh, màu vàng, màu đỏ; có hiển thị thời gian hoặc không hiển thị thời gian. Người tham gia giao thông đường bộ phải chấp hành như sau:",
+          "score": 0.7619058191776276,
+          "semantic_score": 0.8492077589035034,
+          "lexical_score": 0.5,
+          "chunk_id": 74
+        },
+        {
+          "text": "Điều 24. Giao thông tại đường ngang, cầu chung đường sắt 1. Khi có hiệu lệnh của nhân viên gác chắn, đèn đỏ sáng nhấp nháy, chuông kêu, chắn đường bộ đang dịch chuyển hoặc đã đóng, người tham gia giao thông đường bộ phải dừng lại về bên phải đường của mình, trước vạch dừng xe. 2. Khi tới đường ngang không có người gác, chắn đường bộ, chuông, đèn tín hiệu, người tham gia giao thông đường bộ phải dừng lại về bên phải đường của mình, trước vạch dừng xe và quan sát hai phía, khi không có phương tiện giao thông đường sắt tới mới được đi qua. 3. Khi phương tiện tham gia giao thông đường bộ bị hư hỏng, bị tai nạn hoặc hàng hóa rơi đổ trên đường ngang, cầu chung đường sắt mà không thể di chuyển ngay khỏi phạm vi an toàn đường sắt, người điều khiển phương tiện tham gia giao thông đường bộ và người có mặt phải ngay lập tức báo hiệu để dừng tàu, thực hiện các biện pháp bảo đảm an toàn.",
+          "score": 0.7606602251529694,
+          "semantic_score": 0.8142136335372925,
+          "lexical_score": 0.6,
+          "chunk_id": 138
+        }
+      ]
+    },
+    {
+      "Q": "Chở quá số người theo quy định của pháp luật có bị nghiêm cấm không?",
+      "gold": "Có, đây là hành vi bị nghiêm cấm.",
+      "pred": "Có, đây là hành vi bị nghiêm cấm.",
+      "contexts": [
+        {
+          "text": "ch gian lận kết quả kiểm tra, thử nghiệm, kiểm định; thuê, mượn phụ tùng xe cơ giới chỉ để thực hiện việc kiểm định. 13. Chở hàng hóa vượt quá khối lượng toàn bộ, tải trọng trục, kích thước cho phép của xe hoặc vượt quá tải trọng, kích thước giới hạn cho phép của đường bộ khi chưa được cơ quan quản lý cấp phép hoặc không bảo đảm yêu cầu theo quy định của Luật này; chở hàng hóa trên xe có quy định phải chằng buộc nhưng không chằng buộc hoặc chằng buộc không đúng quy định của pháp luật; chở quá số người theo quy định của pháp luật. 14. Vận chuyển hàng hóa cấm lưu hành, vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định của pháp luật về vận chuyển hàng hóa nguy hiểm, động vật hoang dã. 15. Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn;",
+          "score": 0.7868271874529975,
+          "semantic_score": 0.8110076785087585,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 132
+        },
+        {
+          "text": "ang dã. 15. Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn; chuyển tải, xuống khách hoặc các hành vi khác nhằm trốn tránh phát hiện xe chở quá tải, quá số người theo quy định của pháp luật. 16. Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe cơ giới, xe máy chuyên dùng gây mất trật tự, an toàn giao thông đường bộ. 17. Sản xuất, sử dụng, mua, bán trái phép biển số xe; điều khiển xe cơ giới, xe máy chuyên dùng gắn biển số xe không do cơ quan nhà nước có thẩm quyền cấp, gắn biển số xe không đúng vị trí; bẻ cong, che lấp biển số xe; làm thay đổi chữ, số, màu sắc, hình dạng, kích thước của biển số xe. 18. Làm gián đoạn hoạt động hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình, camera lắp trên xe theo quy định của Luật này. 19.",
+          "score": 0.7798027949673789,
+          "semantic_score": 0.8016418218612671,
+          "lexical_score": 0.7142857142857143,
+          "chunk_id": 133
+        },
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 5. Đua xe, tổ chức đua xe, xúi giục, giúp sức, cổ vũ đua xe trái phép; điều khiển phương tiện tham gia giao thông đường bộ lạng lách, đánh võng, rú ga liên tục. 6. Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ. 7. Giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện theo quy định của pháp luật để điều khiển xe tham gia giao thông đường bộ. 8. Đưa xe cơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về an toàn kỹ thuật và bảo vệ môi trường, phương tiện khác không đủ điều kiện theo quy định của pháp luật để tham gia giao thông đường bộ. 9. Nhập khẩu, sản xuất, lắp ráp xe cơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về chất lượng an toàn kỹ thuật và bảo vệ môi trường. 10.",
+          "score": 0.7536412413631166,
+          "semantic_score": 0.8143787980079651,
+          "lexical_score": 0.5714285714285714,
+          "chunk_id": 130
+        },
+        {
+          "text": "Điều 52. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích lưu hành trên đường bộ 1. Hàng siêu trường, siêu trọng là hàng không thể chia nhỏ, tháo rời, khi vận chuyển trên đường bộ làm cho phương tiện hoặc tổ hợp phương tiện bị vượt quá giới hạn cho phép tham gia giao thông đường bộ về kích thước, khối lượng theo quy định của pháp luật. 2. Xe vận chuyển hàng siêu trường, siêu trọng phải phù hợp với loại hàng, kích thước, khối lượng của hàng và phải có giấy phép lưu hành xe do cơ quan quản lý đường bộ có thẩm quyền cấp. 3. Xe vận chuyển hàng siêu trường, siêu trọng được phép ghép, nối thành tổ hợp nhiều xe gồm xe ô tô đầu kéo, xe ô tô kéo rơ moóc để kéo hoặc vừa kéo vừa đẩy các rơ moóc, sơ mi rơ moóc chuyên dùng, rơ moóc kiểu mô đun, bao gồm cả trường hợp ghép nối thông qua hàng được chở. 4.",
+          "score": 0.7450271035943712,
+          "semantic_score": 0.8028932809829712,
+          "lexical_score": 0.5714285714285714,
+          "chunk_id": 272
+        },
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 1. Điều khiển xe cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng. 2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn. 3. Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng. 4. Xúc phạm, đe dọa, cản trở, chống đối hoặc không chấp hành hiệu lệnh, hướng dẫn, yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ.",
+          "score": 0.744295128754207,
+          "semantic_score": 0.801917314529419,
+          "lexical_score": 0.5714285714285714,
+          "chunk_id": 270
+        }
+      ]
+    },
+    {
+      "Q": "Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được hình thành từ những nguồn nào?",
+      "gold": "Từ hỗ trợ, viện trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước và nước ngoài; từ các nguồn khác theo quy định pháp luật.",
+      "pred": "Hỗ trợ, viện trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước, nước ngoài; và các nguồn khác theo quy định của pháp luật.",
+      "contexts": [
+        {
+          "text": "Điều 85. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ 1. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ là quỹ tài chính nhà nước ngoài ngân sách, được hình thành ở trung ương để huy động nguồn lực xã hội hỗ trợ giảm thiểu thiệt hại tai nạn giao thông đường bộ. 2. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được hình thành từ các nguồn tài chính sau đây: a) Hỗ trợ, viện trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước, nước ngoài; b) Từ các nguồn khác theo quy định của pháp luật. 3. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được chi cho các hoạt động sau đây: a) Hỗ trợ nạn nhân, gia đình nạn nhân do tai nạn giao thông đường bộ gây ra; tổ chức, cá nhân giúp đỡ, cứu chữa, đưa người bị tai nạn giao thông đường bộ đi cấp cứu;",
+          "score": 0.9245908111333847,
+          "semantic_score": 0.8994544148445129,
+          "lexical_score": 1.0,
+          "chunk_id": 265
+        },
+        {
+          "text": "nạn giao thông đường bộ gây ra; tổ chức, cá nhân giúp đỡ, cứu chữa, đưa người bị tai nạn giao thông đường bộ đi cấp cứu; b) Hỗ trợ cho tổ chức, cá nhân tham gia tuyên truyền giảm thiểu thiệt hại tai nạn giao thông đường bộ mà không được Nhà nước bảo đảm kinh phí. 4. Nguyên tắc hoạt động của Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ: a) Không vì mục đích lợi nhuận; b) Quản lý, sử dụng đúng mục đích, đúng pháp luật, kịp thời, hiệu quả, bảo đảm công khai, minh bạch; c) Chỉ được chi hỗ trợ cho các hoạt động quy định tại khoản 3 Điều này khi ngân sách nhà nước chưa chi hoặc chi chưa đáp ứng yêu cầu. 5. Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này; quy định việc thành lập, quản lý, sử dụng Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ.",
+          "score": 0.8661245568232103,
+          "semantic_score": 0.8821054697036743,
+          "lexical_score": 0.8181818181818182,
+          "chunk_id": 266
+        },
+        {
+          "text": "tác bảo đảm trật tự, an toàn giao thông đường bộ và xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 4. Bảo đảm công bằng, bình đẳng, an toàn đối với người tham gia giao thông đường bộ; tạo thuận lợi cho trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật trong tham gia giao thông đường bộ; xây dựng văn hóa giao thông; giáo dục, phổ biến, bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho trẻ em, học sinh để hình thành, nâng cao ý thức tự bảo vệ bản thân và tự giác chấp hành pháp luật khi tham gia giao thông đường bộ. 5. Cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ cơ quan nhà nước thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ, có thành tích thì được khen thưởng, bị thiệt hại về tài sản thì được đền bù; người bị tổn hại về danh dự, nhân phẩm thì được khôi phục;",
+          "score": 0.7428898404945027,
+          "semantic_score": 0.839004635810852,
+          "lexical_score": 0.45454545454545453,
+          "chunk_id": 6
+        },
+        {
+          "text": "Điều 2. Giải thích từ ngữ 12. Tai nạn giao thông đường bộ là va chạm liên quan đến người, phương tiện khi tham gia giao thông đường bộ, xảy ra ngoài ý muốn của người tham gia giao thông đường bộ, gây thiệt hại đến tính mạng, sức khỏe, tài sản của cá nhân hoặc tài sản của cơ quan, tổ chức.",
+          "score": 0.7333547662604939,
+          "semantic_score": 0.8262912034988403,
+          "lexical_score": 0.45454545454545453,
+          "chunk_id": 46
+        },
+        {
+          "text": "giao thông đường bộ; c) Đào tạo, tập huấn, nâng cao năng lực cho lực lượng bảo đảm trật tự, an toàn giao thông đường bộ; d) Tăng cường điều kiện vật chất để bảo đảm trật tự, an toàn giao thông đường bộ; đ) Giải quyết tai nạn giao thông đường bộ; e) Thực hiện nội dung hợp tác quốc tế khác theo quy định của pháp luật Việt Nam và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. 3. Bộ Công an chủ trì, phối hợp với các Bộ, ngành liên quan giúp Chính phủ đàm phán, ký kết điều ước quốc tế, thỏa thuận quốc tế hoặc đề xuất cấp có thẩm quyền ký kết điều ước quốc tế, thỏa thuận quốc tế về trật tự, an toàn giao thông đường bộ; chủ trì, phối hợp với các Bộ, ngành liên quan thực hiện hợp tác quốc tế về trật tự, an toàn giao thông đường bộ. QUẢN LÝ NHÀ NƯỚC VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ",
+          "score": 0.711386648091403,
+          "semantic_score": 0.827303409576416,
+          "lexical_score": 0.36363636363636365,
+          "chunk_id": 318
+        }
+      ]
+    },
+    {
+      "Q": "Chỉ được sử dụng tín hiệu còi trong những trường hợp nào?",
+      "gold": "Khi xuất hiện tình huống có thể mất an toàn giao thông; khi chuẩn bị vượt xe.",
+      "pred": "Báo hiệu cho người tham gia giao thông đường bộ khi xuất hiện tình huống có thể mất an toàn giao thông; báo hiệu chuẩn bị vượt xe.",
+      "contexts": [
+        {
+          "text": "Điều 21. Sử dụng tín hiệu còi 1. Chỉ được sử dụng tín hiệu còi của phương tiện tham gia giao thông đường bộ trong các trường hợp sau đây: a) Báo hiệu cho người tham gia giao thông đường bộ khi xuất hiện tình huống có thể mất an toàn giao thông; b) Báo hiệu chuẩn bị vượt xe. 2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.",
+          "score": 0.9145389646291733,
+          "semantic_score": 0.8860519528388977,
+          "lexical_score": 1.0,
+          "chunk_id": 137
+        },
+        {
+          "text": "Điều 14. Vượt xe và nhường đường cho xe xin vượt 5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn. 6. Không được vượt xe trong trường hợp sau đây: a) Khi không bảo đảm các điều kiện quy định tại khoản 3 Điều này; b) Trên cầu hẹp có một làn đường; c) Đường cong có tầm nhìn bị hạn chế; d) Trên đường hai chiều tại khu vực đỉnh dốc có tầm nhìn bị hạn chế; đ) Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; e) Khi điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt;",
+          "score": 0.8648979365825653,
+          "semantic_score": 0.8198639154434204,
+          "lexical_score": 1.0,
+          "chunk_id": 82
+        },
+        {
+          "text": "Điều 30. Người đi bộ; trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người mất năng lực hành vi dân sự tham gia giao thông đường bộ b) Chỉ được qua đường ở những nơi có đèn tín hiệu, có vạch kẻ đường hoặc có cầu vượt, hầm dành cho người đi bộ và phải tuân thủ tín hiệu chỉ dẫn, báo hiệu đường bộ. Trường hợp không có đèn tín hiệu, vạch kẻ đường, cầu vượt, hầm dành cho người đi bộ thì phải quan sát các xe đang đi tới, chỉ qua đường khi bảo đảm an toàn, khi qua đường phải có tín hiệu bằng tay;",
+          "score": 0.7700845301151276,
+          "semantic_score": 0.8184460401535034,
+          "lexical_score": 0.625,
+          "chunk_id": 61
+        },
+        {
+          "text": "Điều 68. Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách 1. Khi thực hiện nhiệm vụ tuần tra, kiểm soát, chỉ huy, điều khiển giao thông đường bộ, giải quyết tai nạn giao thông đường bộ, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra, người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường được huy động người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó.",
+          "score": 0.758584201335907,
+          "semantic_score": 0.803112268447876,
+          "lexical_score": 0.625,
+          "chunk_id": 393
+        },
+        {
+          "text": "Điều 33. Người lái xe, người được chở, hàng hóa xếp trên xe mô tô, xe gắn máy 1. Người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ những trường hợp sau thì được chở tối đa hai người: a) Chở người bệnh đi cấp cứu; b) Áp giải người có hành vi vi phạm pháp luật; c) Trẻ em dưới 12 tuổi; d) Người già yếu hoặc người khuyết tật. 2. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách. 3. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi sau đây: a) Đi xe dàn hàng ngang; b) Đi xe vào phần đường dành cho người đi bộ và phương tiện khác; c) Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính; d) Buông cả hai tay; đi xe bằng một bánh đối với xe mô tô, xe gắn máy hai bánh;",
+          "score": 0.7584900557994843,
+          "semantic_score": 0.802986741065979,
+          "lexical_score": 0.625,
+          "chunk_id": 87
+        }
+      ]
+    },
+    {
+      "Q": "Người lái xe và người được chở trên xe ô tô có trách nhiệm gì khi tham gia giao thông?",
+      "gold": "Phải thắt dây đai an toàn tại những chỗ có trang bị dây đai an toàn khi tham gia giao thông đường bộ.",
+      "pred": "Phải tuân thủ các quy định giao thông đường bộ, hướng dẫn cho hành khách về an toàn giao thông và thoát hiểm khi gặp sự cố.",
+      "contexts": [
+        {
+          "text": "quá khối lượng cho phép hoặc vi phạm quy định khác của pháp luật; e) Không chở hàng hóa trong khoang chở hành khách. 2. Người lái xe, nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm sau đây: a) Thực hiện quy định tại khoản 1 Điều này; b) Trước khi cho xe khởi hành phải kiểm tra các điều kiện bảo đảm an toàn của xe, hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố; c) Hướng dẫn, yêu cầu, kiểm tra người trên xe thực hiện quy định tại khoản 2 Điều 10 của Luật này; d) Kiểm tra việc sắp xếp, chằng buộc hành lý, hàng hóa bảo đảm an toàn; đ) Giữ gìn trật tự, vệ sinh trong xe; e) Phối hợp thực hiện các nhiệm vụ khác theo yêu cầu của cơ quan Công an trong công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội; g) Thực hiện các quy tắc giao thông đường bộ khác quy định tại Chương II của Luật này.",
+          "score": 0.9070172905921936,
+          "semantic_score": 0.8760230541229248,
+          "lexical_score": 1.0,
+          "chunk_id": 64
+        },
+        {
+          "text": "Điều 46. Bảo đảm trật tự, an toàn giao thông đường bộ đối với xe ô tô chở trẻ em mầm non, học sinh 3. Khi đưa đón trẻ em mầm non, học sinh tiểu học phải bố trí tối thiểu 01 người quản lý trên mỗi xe ô tô để hướng dẫn, giám sát, duy trì trật tự và bảo đảm an toàn cho trẻ em mầm non, học sinh tiểu học trong suốt chuyến đi. Trường hợp xe từ 29 chỗ trở lên (không kể chỗ của người lái xe) mà chở từ 27 trẻ em mầm non và học sinh tiểu học trở lên phải bố trí tối thiểu 02 người quản lý trên mỗi xe ô tô. Người quản lý, người lái xe có trách nhiệm kiểm tra trẻ em mầm non, học sinh tiểu học khi xuống xe; không được để trẻ em mầm non, học sinh tiểu học trên xe khi người quản lý và người lái xe đã rời xe. 4. Người lái xe ô tô đưa đón trẻ em mầm non, học sinh phải có tối thiểu 02 năm kinh nghiệm lái xe vận tải hành khách. 5.",
+          "score": 0.8868785947561264,
+          "semantic_score": 0.8491714596748352,
+          "lexical_score": 1.0,
+          "chunk_id": 267
+        },
+        {
+          "text": "9 chỗ (không kể chỗ của người lái xe), xe ô tô chở người giường nằm là đủ 57 tuổi đối với nam, đủ 55 tuổi đối với nữ. 2. Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm điều kiện sức khỏe phù hợp với từng loại phương tiện được phép điều khiển. Bộ trưởng Bộ Y tế quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng; việc khám sức khỏe định kỳ đối với người hành nghề lái xe ô tô; xây dựng cơ sở dữ liệu về sức khỏe của người lái xe, người điều khiển xe máy chuyên dùng. 3. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định độ tuổi của người lái xe trong lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh.",
+          "score": 0.8611527660063335,
+          "semantic_score": 0.8624894022941589,
+          "lexical_score": 0.8571428571428571,
+          "chunk_id": 225
+        },
+        {
+          "text": "chức tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ cho đối tượng thuộc thẩm quyền quản lý. 7. Thành viên trong gia đình có trách nhiệm tuyên truyền, nhắc nhở thành viên khác chấp hành pháp luật về trật tự, an toàn giao thông đường bộ, sử dụng dây đai an toàn, ghế dành cho trẻ em hoặc có người lớn ngồi cùng trẻ em phía sau khi chở trẻ em dưới 06 tuổi bằng xe gắn máy, xe mô tô.",
+          "score": 0.858804715531213,
+          "semantic_score": 0.8593586683273315,
+          "lexical_score": 0.8571428571428571,
+          "chunk_id": 294
+        },
+        {
+          "text": "Điều 28. Trường hợp chở người trên xe ô tô chở hàng 1. Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp sau đây: a) Chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp; chở người bị nạn đi cấp cứu; đưa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật; b) Chở người thuộc lực lượng vũ trang nhân dân đi làm nhiệm vụ khẩn cấp; c) Chở người đi thực hành lái xe trên xe tập lái; chở người dự sát hạch lái xe trên xe sát hạch; chở công nhân đang làm nhiệm vụ duy tu, bảo dưỡng đường bộ; d) Chở người diễu hành theo đoàn khi được cơ quan có thẩm quyền cho phép. 2. Xe ô tô chở hàng mà chở người trong các trường hợp quy định tại khoản 1 Điều này phải bảo đảm an toàn khi tham gia giao thông đường bộ.",
+          "score": 0.8518147000244686,
+          "semantic_score": 0.8500386476516724,
+          "lexical_score": 0.8571428571428571,
+          "chunk_id": 275
+        }
+      ]
+    },
+    {
+      "Q": "Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe gây mất trật tự an toàn giao thông có bị nghiêm cấm không?",
+      "gold": "Có, đây là hành vi bị nghiêm cấm.",
+      "pred": "Có, đây là hành vi bị nghiêm cấm.",
+      "contexts": [
+        {
+          "text": "ang dã. 15. Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn; chuyển tải, xuống khách hoặc các hành vi khác nhằm trốn tránh phát hiện xe chở quá tải, quá số người theo quy định của pháp luật. 16. Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe cơ giới, xe máy chuyên dùng gây mất trật tự, an toàn giao thông đường bộ. 17. Sản xuất, sử dụng, mua, bán trái phép biển số xe; điều khiển xe cơ giới, xe máy chuyên dùng gắn biển số xe không do cơ quan nhà nước có thẩm quyền cấp, gắn biển số xe không đúng vị trí; bẻ cong, che lấp biển số xe; làm thay đổi chữ, số, màu sắc, hình dạng, kích thước của biển số xe. 18. Làm gián đoạn hoạt động hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình, camera lắp trên xe theo quy định của Luật này. 19.",
+          "score": 0.8692495733499527,
+          "semantic_score": 0.8589994311332703,
+          "lexical_score": 0.9,
+          "chunk_id": 133
+        },
+        {
+          "text": "nh vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. 23. Lợi dụng chức vụ, quyền hạn, nghề nghiệp của bản thân hoặc người khác để vi phạm pháp luật về trật tự, an toàn giao thông đường bộ hoặc can thiệp, tác động vào quá trình xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 24. Sử dụng quyền của xe ưu tiên khi không thực hiện nhiệm vụ theo quy định của pháp luật; lắp đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định của pháp luật. 25. Không khai báo, khai báo gian dối hoặc cung cấp thông tin, tài liệu không đúng sự thật để trốn tránh trách nhiệm khi bị phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. 26. Bỏ trốn sau khi gây tai nạn giao thông đường bộ để trốn tránh trách nhiệm; khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông đường bộ;",
+          "score": 0.78964584171772,
+          "semantic_score": 0.8361944556236267,
+          "lexical_score": 0.65,
+          "chunk_id": 94
+        },
+        {
+          "text": "Điều 71. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới a) Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ là hệ thống thu thập tín hiệu, dữ liệu, âm thanh, hình ảnh về hành trình của phương tiện tham gia giao thông đường bộ, tình trạng giao thông và các dữ liệu liên quan khác được xây dựng, lắp đặt trên các tuyến giao thông đường bộ theo quy chuẩn kỹ thuật quốc gia để giám sát tình hình an ninh, trật tự, an toàn giao thông đường bộ; phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ và vi phạm pháp luật khác; a) Lực lượng Cảnh sát giao thông;",
+          "score": 0.781890133023262,
+          "semantic_score": 0.8425201773643494,
+          "lexical_score": 0.6,
+          "chunk_id": 413
+        },
+        {
+          "text": "o đảm an ninh, trật tự, an toàn giao thông đường bộ, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ; quy định việc quản lý, vận hành, sử dụng hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe; quy định việc trang bị, lắp đặt, quản lý, vận hành, sử dụng hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới. a) Lực lượng Cảnh sát giao thông; d) Vận hành, sử dụng hệ thống, phương tiện, thiết bị, dữ liệu theo quy định tại các khoản 1, 2, 3 và 4 Điều 67 của Luật này và vũ khí, công cụ hỗ trợ theo quy định tại Điều 70 của Luật này;",
+          "score": 0.781424367427826,
+          "semantic_score": 0.8418991565704346,
+          "lexical_score": 0.6,
+          "chunk_id": 412
+        },
+        {
+          "text": "hoạt động hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình, camera lắp trên xe theo quy định của Luật này. 19. Hủy hoại, làm hư hỏng, làm mất tác dụng thiết bị điều khiển, giám sát giao thông đường bộ, thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ. a) Lực lượng Cảnh sát giao thông; c) Hướng dẫn, tuyên truyền, vận động người tham gia giao thông đường bộ chấp hành pháp luật về trật tự, an toàn giao thông đường bộ;",
+          "score": 0.7811086595058441,
+          "semantic_score": 0.8581448793411255,
+          "lexical_score": 0.55,
+          "chunk_id": 380
+        }
+      ]
+    },
+    {
+      "Q": "Khi người điều khiển phương tiện không chấp hành tín hiệu dừng xe và bỏ chạy, người thi hành công vụ có thể làm gì?",
+      "gold": "Được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm.",
+      "pred": "Được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm.",
+      "contexts": [
+        {
+          "text": "Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ 2. Trường hợp người điều khiển phương tiện tham gia giao thông đường bộ không chấp hành tín hiệu, hiệu lệnh dừng phương tiện và bỏ chạy thì người thi hành công vụ được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm.",
+          "score": 0.8751145124435424,
+          "semantic_score": 0.9001526832580566,
+          "lexical_score": 0.8,
+          "chunk_id": 336
+        },
+        {
+          "text": "Điều 73. Ngăn chặn hành vi không chấp hành yêu cầu kiểm tra, kiểm soát, cản trở, chống người thi hành công vụ 2. Trường hợp người điều khiển phương tiện tham gia giao thông đường bộ không chấp hành tín hiệu, hiệu lệnh dừng phương tiện và bỏ chạy thì người thi hành công vụ được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm. a) Lực lượng Cảnh sát giao thông; a) Dừng phương tiện tham gia giao thông đường bộ theo quy định tại Điều 66 của Luật này để kiểm tra việc chấp hành các quy định về quy tắc giao thông đường bộ; điều kiện của phương tiện tham gia giao thông đường bộ; điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ; các quy định về bảo đảm trật tự, an toàn giao thông đường bộ theo quy định của Luật này và quy định khác của pháp luật có liên quan; a) Lực lượng Cảnh sát giao thông; 6.",
+          "score": 0.8715734153985977,
+          "semantic_score": 0.8954312205314636,
+          "lexical_score": 0.8,
+          "chunk_id": 333
+        },
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 1. Điều khiển xe cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng. 2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn. 3. Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng. 4. Xúc phạm, đe dọa, cản trở, chống đối hoặc không chấp hành hiệu lệnh, hướng dẫn, yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ.",
+          "score": 0.7920351872841517,
+          "semantic_score": 0.8338246941566467,
+          "lexical_score": 0.6666666666666666,
+          "chunk_id": 270
+        },
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ b) Tín hiệu đèn màu vàng phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;",
+          "score": 0.7659414490063985,
+          "semantic_score": 0.8434774875640869,
+          "lexical_score": 0.5333333333333333,
+          "chunk_id": 76
+        },
+        {
+          "text": "Điều 11. Chấp hành báo hiệu đường bộ a) Tín hiệu đèn màu xanh là được đi; trường hợp người đi bộ, xe lăn của người khuyết tật đang đi ở lòng đường, người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường;",
+          "score": 0.7573158224423726,
+          "semantic_score": 0.8319766521453857,
+          "lexical_score": 0.5333333333333333,
+          "chunk_id": 73
+        }
+      ]
+    },
+    {
+      "Q": "Đỗ xe được định nghĩa như thế nào?",
+      "gold": "Là trạng thái đứng yên của xe không giới hạn thời gian.",
+      "pred": "Đỗ xe là hành vi đỗ xe, dừng xe, đỗ xe, đỗ phương tiện ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy.",
+      "contexts": [
+        {
+          "text": "n thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật. 5. Trên đường bộ, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy; trường hợp lề đường hẹp hoặc không có lề đường thì chỉ được dừng xe, đỗ xe sát mép đường phía bên phải theo chiều đi của mình. 6. Trên đường phố, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe sát theo lề đường, vỉa hè phía bên phải theo chiều đi của mình; bánh xe gần nhất không được cách xa lề đường, vỉa hè quá 0,25 mét và không gây cản trở, nguy hiểm cho người và phương tiện tham gia giao thông đường bộ. 7.",
+          "score": 0.8010463714599609,
+          "semantic_score": 0.8180618286132812,
+          "lexical_score": 0.75,
+          "chunk_id": 103
+        },
+        {
+          "text": "Điều 18. Dừng xe, đỗ xe e) Cách xe ô tô đang đỗ ngược chiều dưới 20 mét trên đường phố hẹp, dưới 40 mét trên đường có một làn xe cơ giới trên một chiều đường; g) Trên phần đường dành cho người đi bộ qua đường; h) Nơi đường giao nhau và trong phạm vi 05 mét tính từ mép đường giao nhau; i) Điểm đón, trả khách; k) Trước cổng và trong phạm vi 05 mét hai bên cổng trụ sở cơ quan, tổ chức có bố trí đường cho xe ra, vào; l) Tại nơi phần đường có chiều rộng chỉ đủ cho một làn xe cơ giới; m) Trong phạm vi an toàn của đường sắt; n) Che khuất biển báo hiệu đường bộ, đèn tín hiệu giao thông; o) Trên đường dành riêng cho xe buýt, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật. 5.",
+          "score": 0.8005493581295013,
+          "semantic_score": 0.8173991441726685,
+          "lexical_score": 0.75,
+          "chunk_id": 102
+        },
+        {
+          "text": "Điều 18. Dừng xe, đỗ xe 1. Dừng xe là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. Khi dừng xe không được tắt máy và không được rời khỏi vị trí lái, trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. 2. Đỗ xe là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh. 3.",
+          "score": 0.7613873481750488,
+          "semantic_score": 0.8485164642333984,
+          "lexical_score": 0.5,
+          "chunk_id": 116
+        },
+        {
+          "text": "anh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh. 3. Người điều khiển phương tiện tham gia giao thông đường bộ khi dừng xe, đỗ xe trên đường phải thực hiện các quy định sau đây: a) Có tín hiệu báo cho người điều khiển phương tiện tham gia giao thông đường bộ khác biết khi ra, vào vị trí dừng xe, đỗ xe; b) Không làm ảnh hưởng đến người đi bộ và các phương tiện tham gia giao thông đường bộ. 4. Người điều khiển phương tiện tham gia giao thông đường bộ không được dừng xe, đỗ xe tại các vị trí sau đây: a) Bên trái đường một chiều; b) Trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; c) Trên cầu, trừ những trường hợp tổ chức giao thông cho phép; d) Gầm cầu vượt, trừ những nơi cho phép dừng xe, đỗ xe; đ) Song song cùng chiều với một xe khác đang dừng, đỗ trên đường;",
+          "score": 0.7438275516033173,
+          "semantic_score": 0.8251034021377563,
+          "lexical_score": 0.5,
+          "chunk_id": 117
+        },
+        {
+          "text": "lề đường, vỉa hè quá 0,25 mét và không gây cản trở, nguy hiểm cho người và phương tiện tham gia giao thông đường bộ. 7. Trong trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải đỗ xe, khi đỗ xe chiếm một phần đường xe chạy hoặc tại nơi không được phép đỗ, phải có báo hiệu bằng đèn khẩn cấp hoặc đặt biển cảnh báo về phía sau xe để người điều khiển phương tiện tham gia giao thông đường bộ khác biết.",
+          "score": 0.7375950813293457,
+          "semantic_score": 0.8167934417724609,
+          "lexical_score": 0.5,
+          "chunk_id": 104
+        }
+      ]
+    },
+    {
+      "Q": "Người đủ bao nhiêu tuổi được cấp giấy phép lái xe hạng D?",
+      "gold": "Người đủ 27 tuổi trở lên.",
+      "pred": "Người đủ 27 tuổi trở lên.",
+      "contexts": [
+        {
+          "text": "Điều 59. Tuổi, sức khỏe của người điều khiển phương tiện tham gia giao thông đường bộ 1. Độ tuổi của người lái xe, người điều khiển xe máy chuyên dùng được quy định như sau: a) Người đủ 16 tuổi trở lên được điều khiển xe gắn máy; b) Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1, được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ; c) Người đủ 21 tuổi trở lên được cấp giấy phép lái xe hạng C, BE; d) Người đủ 24 tuổi trở lên được cấp giấy phép lái xe hạng D1, D2, C1E, CE; đ) Người đủ 27 tuổi trở lên được cấp giấy phép lái xe hạng D, D1E, D2E, DE; e) Tuổi tối đa của người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe), xe ô tô chở người giường nằm là đủ 57 tuổi đối với nam, đủ 55 tuổi đối với nữ. 2.",
+          "score": 0.85959033370018,
+          "semantic_score": 0.8794537782669067,
+          "lexical_score": 0.8,
+          "chunk_id": 224
+        },
+        {
+          "text": "Điều 57. Giấy phép lái xe 3. Người điều khiển xe chở hàng bốn bánh có gắn động cơ, xe chở người bốn bánh có gắn động cơ phải sử dụng giấy phép lái xe có hạng phù hợp với xe ô tô tải hoặc xe ô tô chở người tương ứng. 4. Người điều khiển xe ô tô có thiết kế, cải tạo với số chỗ ít hơn xe cùng loại, kích thước giới hạn tương đương phải sử dụng giấy phép lái xe có hạng phù hợp với xe ô tô cùng loại, kích thước giới hạn tương đương và có số chỗ nhiều nhất. 5. Thời hạn của giấy phép lái xe được quy định như sau: a) Giấy phép lái xe các hạng A1, A, B1 không thời hạn; b) Giấy phép lái xe hạng B và hạng C1 có thời hạn 10 năm kể từ ngày cấp; c) Giấy phép lái xe các hạng C, D1, D2, D, BE, C1E, CE, D1E, D2E và DE có thời hạn 05 năm kể từ ngày cấp. 6. Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ Việt Nam bao gồm: a) Giấy phép lái xe do cơ quan có thẩm quyền của Việt Nam cấp;",
+          "score": 0.8225739032030106,
+          "semantic_score": 0.8634318709373474,
+          "lexical_score": 0.7,
+          "chunk_id": 200
+        },
+        {
+          "text": "Điều 56. Điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ 1. Người lái xe tham gia giao thông đường bộ phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp, trừ người lái xe gắn máy quy định tại khoản 4 Điều này. Khi tham gia giao thông đường bộ, người lái xe phải mang theo các giấy tờ sau đây:",
+          "score": 0.8190168917179108,
+          "semantic_score": 0.8586891889572144,
+          "lexical_score": 0.7,
+          "chunk_id": 195
+        },
+        {
+          "text": "Điều 57. Giấy phép lái xe 1. Giấy phép lái xe bao gồm các hạng sau đây: a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm [3] hoặc có công suất động cơ điện đến 11 kW; b) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm [3] hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1; c) Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;",
+          "score": 0.8181904584169388,
+          "semantic_score": 0.8575872778892517,
+          "lexical_score": 0.7,
+          "chunk_id": 197
+        },
+        {
+          "text": "Điều 57. Giấy phép lái xe g) Hạng D1 cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định cho giấy phép lái xe các hạng B, C1, C;",
+          "score": 0.8015681594610214,
+          "semantic_score": 0.8687575459480286,
+          "lexical_score": 0.6,
+          "chunk_id": 196
+        }
+      ]
+    },
+    {
+      "Q": "Dùng tay cầm và sử dụng điện thoại khi điều khiển phương tiện đang di chuyển có bị nghiêm cấm không?",
+      "gold": "Có, đây là hành vi bị nghiêm cấm.",
+      "pred": "Có, đây là hành vi bị nghiêm cấm.",
+      "contexts": [
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 5. Đua xe, tổ chức đua xe, xúi giục, giúp sức, cổ vũ đua xe trái phép; điều khiển phương tiện tham gia giao thông đường bộ lạng lách, đánh võng, rú ga liên tục. 6. Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ. 7. Giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện theo quy định của pháp luật để điều khiển xe tham gia giao thông đường bộ. 8. Đưa xe cơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về an toàn kỹ thuật và bảo vệ môi trường, phương tiện khác không đủ điều kiện theo quy định của pháp luật để tham gia giao thông đường bộ. 9. Nhập khẩu, sản xuất, lắp ráp xe cơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về chất lượng an toàn kỹ thuật và bảo vệ môi trường. 10.",
+          "score": 0.8923110067844391,
+          "semantic_score": 0.8564146757125854,
+          "lexical_score": 1.0,
+          "chunk_id": 130
+        },
+        {
+          "text": "Điều 9. Các hành vi bị nghiêm cấm 1. Điều khiển xe cơ giới tham gia giao thông đường bộ không có giấy phép lái xe theo quy định của pháp luật; điều khiển xe máy chuyên dùng tham gia giao thông đường bộ không có giấy phép lái xe hoặc chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng. 2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn. 3. Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng. 4. Xúc phạm, đe dọa, cản trở, chống đối hoặc không chấp hành hiệu lệnh, hướng dẫn, yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ.",
+          "score": 0.7606376707553864,
+          "semantic_score": 0.8475168943405151,
+          "lexical_score": 0.5,
+          "chunk_id": 270
+        },
+        {
+          "text": "ang dã. 15. Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; đe doạ, cưỡng ép hành khách sử dụng dịch vụ ngoài ý muốn; chuyển tải, xuống khách hoặc các hành vi khác nhằm trốn tránh phát hiện xe chở quá tải, quá số người theo quy định của pháp luật. 16. Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe cơ giới, xe máy chuyên dùng gây mất trật tự, an toàn giao thông đường bộ. 17. Sản xuất, sử dụng, mua, bán trái phép biển số xe; điều khiển xe cơ giới, xe máy chuyên dùng gắn biển số xe không do cơ quan nhà nước có thẩm quyền cấp, gắn biển số xe không đúng vị trí; bẻ cong, che lấp biển số xe; làm thay đổi chữ, số, màu sắc, hình dạng, kích thước của biển số xe. 18. Làm gián đoạn hoạt động hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình, camera lắp trên xe theo quy định của Luật này. 19.",
+          "score": 0.7341232959713254,
+          "semantic_score": 0.8359739184379578,
+          "lexical_score": 0.42857142857142855,
+          "chunk_id": 133
+        },
+        {
+          "text": "Điều 68. Huy động người, phương tiện, thiết bị dân sự trong trường hợp cấp bách 1. Khi thực hiện nhiệm vụ tuần tra, kiểm soát, chỉ huy, điều khiển giao thông đường bộ, giải quyết tai nạn giao thông đường bộ, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra, người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường được huy động người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó.",
+          "score": 0.7116162755659649,
+          "semantic_score": 0.8297740817070007,
+          "lexical_score": 0.35714285714285715,
+          "chunk_id": 393
+        },
+        {
+          "text": "iết bị âm thanh, trừ thiết bị trợ thính; d) Buông cả hai tay; đi xe bằng một bánh đối với xe mô tô, xe gắn máy hai bánh; đi xe bằng hai bánh đối với xe mô tô, xe gắn máy ba bánh; đ) Sử dụng xe để kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang, vác và chở vật cồng kềnh; chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái; xếp hàng hóa trên xe quá giới hạn quy định;",
+          "score": 0.7029505712645394,
+          "semantic_score": 0.842029333114624,
+          "lexical_score": 0.2857142857142857,
+          "chunk_id": 88
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "Q": "Luật Trật tự, an toàn giao thông đường bộ có hiệu lực thi hành từ ngày nào?",
+    "A": "Ngày 01 tháng 01 năm 2025"
+  },
+  {
+    "Q": "Khoản 3 Điều 10 của Luật này có hiệu lực thi hành từ ngày nào?",
+    "A": "Ngày 01 tháng 01 năm 2026"
+  },
+  {
+    "Q": "Trật tự, an toàn giao thông đường bộ được định nghĩa như thế nào?",
+    "A": "Là trạng thái giao thông trên đường bộ có trật tự, bảo đảm an toàn, thông suốt; được hình thành và điều chỉnh bởi các quy tắc, nguyên tắc, quy phạm pháp luật trong lĩnh vực giao thông đường bộ."
+  },
+  {
+    "Q": "Phương tiện giao thông đường bộ bao gồm những loại nào?",
+    "A": "Phương tiện giao thông cơ giới đường bộ (xe cơ giới), phương tiện giao thông thô sơ đường bộ (xe thô sơ), xe máy chuyên dùng và các loại xe tương tự."
+  },
+  {
+    "Q": "Đường ưu tiên được định nghĩa như thế nào?",
+    "A": "Là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên."
+  },
+  {
+    "Q": "Làn đường là gì?",
+    "A": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn."
+  },
+  {
+    "Q": "Cải tạo xe được định nghĩa như thế nào?",
+    "A": "Là việc thay đổi đặc điểm của xe đã được cấp đăng ký xe, biển số xe hoặc xe đã qua sử dụng được nhập khẩu dẫn đến thay đổi về kiểu loại xe theo quy định của cơ quan có thẩm quyền."
+  },
+  {
+    "Q": "Người tham gia giao thông đường bộ bao gồm những ai?",
+    "A": "Người điều khiển, người được chở trên phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt vật nuôi trên đường bộ; người đi bộ trên đường bộ."
+  },
+  {
+    "Q": "Người điều khiển giao thông đường bộ gồm những lực lượng nào?",
+    "A": "Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ."
+  },
+  {
+    "Q": "Ùn tắc giao thông đường bộ được định nghĩa như thế nào?",
+    "A": "Là tình trạng người, phương tiện tham gia giao thông đường bộ bị dồn ứ, di chuyển với tốc độ rất chậm hoặc không thể di chuyển được."
+  },
+  {
+    "Q": "Tai nạn giao thông đường bộ được định nghĩa như thế nào?",
+    "A": "Là va chạm liên quan đến người, phương tiện khi tham gia giao thông đường bộ, xảy ra ngoài ý muốn của người tham gia giao thông đường bộ, gây thiệt hại đến tính mạng, sức khỏe, tài sản của cá nhân hoặc tài sản của cơ quan, tổ chức."
+  },
+  {
+    "Q": "Thiết bị an toàn cho trẻ em là gì?",
+    "A": "Là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xảy ra va chạm hoặc xe ô tô giảm tốc độ đột ngột, bằng cách hạn chế sự di chuyển của cơ thể trẻ em."
+  },
+  {
+    "Q": "Thiết bị thông minh hỗ trợ chỉ huy điều khiển giao thông là gì?",
+    "A": "Là thiết bị kỹ thuật công nghệ có khả năng phát hiện, phân tích, đánh giá các tình huống giao thông đường bộ, vi phạm pháp luật trên đường bộ; do lực lượng chức năng sử dụng để hỗ trợ chỉ huy, điều khiển giao thông đường bộ, giải quyết tình huống và xử lý vi phạm pháp luật trên đường bộ."
+  },
+  {
+    "Q": "Người tham gia giao thông đường bộ phải đi về phía nào theo chiều đi của mình?",
+    "A": "Phải đi bên phải theo chiều đi của mình."
+  },
+  {
+    "Q": "Người lái xe và người được chở trên xe ô tô có trách nhiệm gì khi tham gia giao thông?",
+    "A": "Phải thắt dây đai an toàn tại những chỗ có trang bị dây đai an toàn khi tham gia giao thông đường bộ."
+  },
+  {
+    "Q": "Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô cần lưu ý gì?",
+    "A": "Không được cho trẻ em ngồi cùng hàng ghế với người lái xe (trừ loại xe ô tô chỉ có một hàng ghế); người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em."
+  },
+  {
+    "Q": "Thứ tự ưu tiên chấp hành báo hiệu đường bộ từ cao xuống thấp là gì?",
+    "A": "Hiệu lệnh của người điều khiển giao thông; tín hiệu đèn giao thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; thiết bị âm thanh báo hiệu đường bộ."
+  },
+  {
+    "Q": "Tín hiệu đèn giao thông màu đỏ có ý nghĩa gì?",
+    "A": "Cấm đi."
+  },
+  {
+    "Q": "Tín hiệu đèn giao thông màu vàng có ý nghĩa gì?",
+    "A": "Phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp."
+  },
+  {
+    "Q": "Tín hiệu đèn giao thông màu xanh có ý nghĩa gì?",
+    "A": "Được đi."
+  },
+  {
+    "Q": "Khi tay bên phải của người điều khiển giao thông giơ thẳng đứng có ý nghĩa gì?",
+    "A": "Báo hiệu cho người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại."
+  },
+  {
+    "Q": "Khi hai tay hoặc một tay của người điều khiển giao thông dang ngang có ý nghĩa gì?",
+    "A": "Báo hiệu cho người tham gia giao thông đường bộ ở phía trước và phía sau phải dừng lại; người ở phía bên phải và bên trái được đi."
+  },
+  {
+    "Q": "Biển báo cấm có tác dụng gì?",
+    "A": "Để biểu thị các điều cấm."
+  },
+  {
+    "Q": "Biển báo nguy hiểm có tác dụng gì?",
+    "A": "Để cảnh báo các tình huống nguy hiểm có thể xảy ra."
+  },
+  {
+    "Q": "Biển hiệu lệnh có tác dụng gì?",
+    "A": "Để báo hiệu lệnh phải thi hành."
+  },
+  {
+    "Q": "Biển chỉ dẫn có tác dụng gì?",
+    "A": "Để chỉ dẫn hướng đi hoặc các điều cần biết."
+  },
+  {
+    "Q": "Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển có ý nghĩa khác nhau thì xử lý như thế nào?",
+    "A": "Người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển báo hiệu tạm thời."
+  },
+  {
+    "Q": "Trên đường có nhiều làn đường cùng chiều, mỗi lần chuyển làn được phép chuyển sang bao nhiêu làn?",
+    "A": "Chỉ được phép chuyển sang một làn đường liền kề."
+  },
+  {
+    "Q": "Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi ở đâu?",
+    "A": "Phải đi trên làn đường bên phải trong cùng."
+  },
+  {
+    "Q": "Vượt xe là gì?",
+    "A": "Là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước."
+  },
+  {
+    "Q": "Khi vượt xe phải vượt về phía nào?",
+    "A": "Phải vượt bên trái."
+  },
+  {
+    "Q": "Khi nào được vượt về bên phải?",
+    "A": "Khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái, hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái."
+  },
+  {
+    "Q": "Không được vượt xe trong hầm đường bộ, đúng hay sai?",
+    "A": "Đúng, không được vượt xe trong hầm đường bộ."
+  },
+  {
+    "Q": "Trước khi chuyển hướng, người điều khiển phương tiện phải làm gì?",
+    "A": "Phải quan sát, bảo đảm khoảng cách an toàn với xe phía sau, giảm tốc độ và có tín hiệu báo hướng rẽ, chuyển dần sang làn gần nhất với hướng rẽ."
+  },
+  {
+    "Q": "Không được quay đầu xe ở những địa điểm nào?",
+    "A": "Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều."
+  },
+  {
+    "Q": "Dừng xe được định nghĩa như thế nào?",
+    "A": "Là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác."
+  },
+  {
+    "Q": "Đỗ xe được định nghĩa như thế nào?",
+    "A": "Là trạng thái đứng yên của xe không giới hạn thời gian."
+  },
+  {
+    "Q": "Xe đỗ trên đoạn đường dốc phải làm gì?",
+    "A": "Phải đánh lái về phía lề đường, chèn bánh."
+  },
+  {
+    "Q": "Không được dừng xe, đỗ xe cách xe ô tô đang đỗ ngược chiều bao nhiêu mét trên đường phố hẹp?",
+    "A": "Dưới 20 mét."
+  },
+  {
+    "Q": "Không được dừng xe, đỗ xe trong phạm vi bao nhiêu mét tính từ mép đường giao nhau?",
+    "A": "Trong phạm vi 05 mét."
+  },
+  {
+    "Q": "Không được dừng xe, đỗ xe trong phạm vi bao nhiêu mét hai bên cổng trụ sở cơ quan, tổ chức?",
+    "A": "Trong phạm vi 05 mét."
+  },
+  {
+    "Q": "Trước khi mở cửa xe, người mở cửa phải làm gì?",
+    "A": "Phải quan sát phía trước, phía sau và bên phía mở cửa xe, khi thấy an toàn mới được mở cửa xe."
+  },
+  {
+    "Q": "Người lái xe phải bật đèn chiếu sáng phía trước trong thời gian nào?",
+    "A": "Từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn."
+  },
+  {
+    "Q": "Người lái xe phải tắt đèn chiếu xa, bật đèn chiếu gần khi gặp xe đi ngược chiều, trừ trường hợp nào?",
+    "A": "Trừ trường hợp dải phân cách có khả năng chống chói."
+  },
+  {
+    "Q": "Không sử dụng còi trong thời gian nào trong khu đông dân cư?",
+    "A": "Từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau."
+  },
+  {
+    "Q": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đến từ hướng nào?",
+    "A": "Phải nhường đường cho xe đi đến từ bên phải."
+  },
+  {
+    "Q": "Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đến từ hướng nào?",
+    "A": "Phải nhường đường cho xe đi đến từ bên trái."
+  },
+  {
+    "Q": "Xe ưu tiên gồm những loại xe nào?",
+    "A": "Xe chữa cháy đi làm nhiệm vụ; xe của lực lượng quân sự, công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ; đoàn xe tang."
+  },
+  {
+    "Q": "Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy có màu đèn ưu tiên là gì?",
+    "A": "Đèn nhấp nháy màu đỏ."
+  },
+  {
+    "Q": "Xe của lực lượng công an, kiểm sát đi làm nhiệm vụ khẩn cấp có màu đèn ưu tiên là gì?",
+    "A": "Đèn nhấp nháy màu xanh và đỏ."
+  },
+  {
+    "Q": "Xe hộ đê đi làm nhiệm vụ có màu đèn ưu tiên là gì?",
+    "A": "Đèn nhấp nháy màu xanh."
+  },
+  {
+    "Q": "Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông phải làm gì?",
+    "A": "Phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường."
+  },
+  {
+    "Q": "Trẻ em dưới mấy tuổi khi đi qua đường phải có người lớn dẫn dắt?",
+    "A": "Trẻ em dưới 07 tuổi."
+  },
+  {
+    "Q": "Người lái xe mô tô hai bánh, xe gắn máy chỉ được chở bao nhiêu người?",
+    "A": "Chỉ được chở một người, trừ một số trường hợp đặc biệt được chở tối đa hai người."
+  },
+  {
+    "Q": "Người lái xe và người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải làm gì?",
+    "A": "Phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách."
+  },
+  {
+    "Q": "Người lái xe đạp, xe đạp máy chỉ được chở bao nhiêu người?",
+    "A": "Chỉ được chở một người, trừ trường hợp chở thêm một trẻ em dưới 07 tuổi thì được chở tối đa hai người."
+  },
+  {
+    "Q": "Hàng hóa xếp trên xe thô sơ không được vượt quá bao nhiêu chiều dài thân xe về phía trước và phía sau?",
+    "A": "Không vượt quá 01 mét phía trước và phía sau xe."
+  },
+  {
+    "Q": "Hàng hóa xếp trên xe thô sơ không được vượt quá bao nhiêu mét mỗi bên bánh xe?",
+    "A": "Không vượt quá 0,4 mét mỗi bên bánh xe."
+  },
+  {
+    "Q": "Hàng hóa xếp trên xe mô tô, xe gắn máy không được vượt quá bao nhiêu mét về phía sau giá đèo hàng?",
+    "A": "Không vượt quá 0,5 mét về phía sau giá đèo hàng."
+  },
+  {
+    "Q": "Chiều cao xếp hàng hóa trên xe mô tô, xe gắn máy tính từ mặt đường không được vượt quá bao nhiêu mét?",
+    "A": "Không vượt quá 02 mét."
+  },
+  {
+    "Q": "Xe ô tô bao gồm những loại xe nào theo Luật này?",
+    "A": "Xe có từ bốn bánh trở lên chạy bằng động cơ; xe ba bánh có khối lượng bản thân lớn hơn 400 kg. Xe ô tô không bao gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ."
+  },
+  {
+    "Q": "Xe gắn máy được định nghĩa như thế nào?",
+    "A": "Là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ nhiệt thì dung tích không lớn hơn 50 cm³; nếu động cơ điện thì công suất không lớn hơn 04 kW."
+  },
+  {
+    "Q": "Xe đạp máy (xe đạp điện) được định nghĩa như thế nào?",
+    "A": "Là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h."
+  },
+  {
+    "Q": "Phương tiện giao thông thông minh là gì?",
+    "A": "Là xe cơ giới cho phép tự động hóa một phần hoặc toàn bộ hoạt động điều khiển phương tiện, xác định lộ trình và xử lý tình huống khi tham gia giao thông đường bộ."
+  },
+  {
+    "Q": "Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng những điều kiện gì?",
+    "A": "Được cấp chứng nhận đăng ký xe và gắn biển số xe theo quy định; bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định."
+  },
+  {
+    "Q": "Xe ô tô kinh doanh vận tải phải lắp thiết bị gì?",
+    "A": "Phải lắp thiết bị giám sát hành trình."
+  },
+  {
+    "Q": "Xe ô tô chở người từ 08 chỗ trở lên kinh doanh vận tải, xe ô tô đầu kéo, xe cứu thương phải lắp thiết bị gì?",
+    "A": "Phải lắp thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe."
+  },
+  {
+    "Q": "Biển số xe nền màu xanh, chữ và số màu trắng được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe của cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội, đơn vị sự nghiệp công lập."
+  },
+  {
+    "Q": "Biển số xe nền màu đỏ, chữ và số màu trắng được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe quân sự."
+  },
+  {
+    "Q": "Biển số xe nền màu vàng, chữ và số màu đen được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe hoạt động kinh doanh vận tải."
+  },
+  {
+    "Q": "Biển số xe nền màu trắng, chữ và số màu đen được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe của các tổ chức, cá nhân trong nước không thuộc các đối tượng đặc biệt khác."
+  },
+  {
+    "Q": "Biển số xe có ký hiệu 'NG' được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe của cơ quan đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao."
+  },
+  {
+    "Q": "Giá khởi điểm của một biển số xe ô tô đưa ra đấu giá không thấp hơn bao nhiêu?",
+    "A": "Không thấp hơn 40 triệu đồng."
+  },
+  {
+    "Q": "Giá khởi điểm của một biển số xe mô tô, xe gắn máy đưa ra đấu giá không thấp hơn bao nhiêu?",
+    "A": "Không thấp hơn 05 triệu đồng."
+  },
+  {
+    "Q": "Người trúng đấu giá biển số xe phải nộp đủ tiền trúng đấu giá trong thời hạn bao nhiêu ngày?",
+    "A": "Trong thời hạn 30 ngày kể từ ngày có thông báo kết quả trúng đấu giá."
+  },
+  {
+    "Q": "Người trúng đấu giá biển số xe phải thực hiện thủ tục đăng ký xe trong thời hạn bao nhiêu tháng?",
+    "A": "Trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá."
+  },
+  {
+    "Q": "Khi chủ xe thay đổi địa chỉ thì biển số xe định danh có bị thay đổi không?",
+    "A": "Không, được giữ lại số biển số xe định danh."
+  },
+  {
+    "Q": "Chủ xe khi xe hết niên hạn sử dụng hoặc hư hỏng được giữ lại số biển số xe trong thời hạn bao nhiêu năm?",
+    "A": "Trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình."
+  },
+  {
+    "Q": "Niên hạn sử dụng của xe cơ giới được tính bắt đầu từ khi nào?",
+    "A": "Từ năm sản xuất xe đến hết ngày 31 tháng 12 của năm hết niên hạn sử dụng."
+  },
+  {
+    "Q": "Loại xe cơ giới nào không áp dụng niên hạn sử dụng?",
+    "A": "Xe mô tô, xe gắn máy, xe ô tô chở người có số người cho phép chở đến 08 người (không kể người lái xe), xe ô tô chuyên dùng, rơ moóc, sơ mi rơ moóc; xe cơ giới của quân đội, công an phục vụ mục đích quốc phòng, an ninh."
+  },
+  {
+    "Q": "Việc kiểm định đối với xe mô tô, xe gắn máy chỉ thực hiện kiểm định gì?",
+    "A": "Chỉ thực hiện kiểm định khí thải."
+  },
+  {
+    "Q": "Người lái xe tham gia giao thông đường bộ phải mang theo những giấy tờ gì?",
+    "A": "Chứng nhận đăng ký xe; giấy phép lái xe phù hợp; chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường; chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự."
+  },
+  {
+    "Q": "Người lái xe gắn máy tham gia giao thông cần những điều kiện gì?",
+    "A": "Phải hiểu biết quy tắc giao thông đường bộ, có kỹ năng điều khiển phương tiện; đủ điều kiện về độ tuổi và sức khỏe theo quy định."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng A1 cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm³ hoặc có công suất động cơ điện đến 11 kW."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng A cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm³ hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho hạng A1."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng B cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái xe ô tô chở người đến 08 chỗ (không kể chỗ người lái xe); xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ đến 3.500 kg; các loại xe ô tô hạng B kéo rơ moóc đến 750 kg."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng D cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ người lái xe); xe ô tô chở người giường nằm; và các loại xe hạng B, C1, C, D1, D2."
+  },
+  {
+    "Q": "Thời hạn của giấy phép lái xe hạng A1, A, B1 là bao lâu?",
+    "A": "Không thời hạn."
+  },
+  {
+    "Q": "Thời hạn của giấy phép lái xe hạng B và hạng C1 là bao lâu?",
+    "A": "Có thời hạn 10 năm kể từ ngày cấp."
+  },
+  {
+    "Q": "Thời hạn của giấy phép lái xe hạng C, D1, D2, D và các hạng E là bao lâu?",
+    "A": "Có thời hạn 05 năm kể từ ngày cấp."
+  },
+  {
+    "Q": "Điểm của giấy phép lái xe bao gồm bao nhiêu điểm?",
+    "A": "12 điểm."
+  },
+  {
+    "Q": "Sau bao nhiêu tháng nếu giấy phép lái xe không bị trừ điểm thì được phục hồi đủ 12 điểm?",
+    "A": "Sau 12 tháng từ ngày bị trừ điểm gần nhất mà không bị trừ điểm thêm."
+  },
+  {
+    "Q": "Khi giấy phép lái xe bị trừ hết điểm, sau bao nhiêu tháng người lái xe được tham gia kiểm tra để phục hồi điểm?",
+    "A": "Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm."
+  },
+  {
+    "Q": "Người đủ bao nhiêu tuổi được điều khiển xe gắn máy?",
+    "A": "Người đủ 16 tuổi trở lên."
+  },
+  {
+    "Q": "Người đủ bao nhiêu tuổi được cấp giấy phép lái xe hạng B?",
+    "A": "Người đủ 18 tuổi trở lên."
+  },
+  {
+    "Q": "Người đủ bao nhiêu tuổi được cấp giấy phép lái xe hạng C?",
+    "A": "Người đủ 21 tuổi trở lên."
+  },
+  {
+    "Q": "Người đủ bao nhiêu tuổi được cấp giấy phép lái xe hạng D1, D2?",
+    "A": "Người đủ 24 tuổi trở lên."
+  },
+  {
+    "Q": "Người đủ bao nhiêu tuổi được cấp giấy phép lái xe hạng D?",
+    "A": "Người đủ 27 tuổi trở lên."
+  },
+  {
+    "Q": "Tuổi tối đa của người lái xe ô tô chở người trên 29 chỗ đối với nam là bao nhiêu?",
+    "A": "Đủ 57 tuổi đối với nam."
+  },
+  {
+    "Q": "Tuổi tối đa của người lái xe ô tô chở người trên 29 chỗ đối với nữ là bao nhiêu?",
+    "A": "Đủ 55 tuổi đối với nữ."
+  },
+  {
+    "Q": "Thời gian lái xe của người lái xe ô tô không quá bao nhiêu giờ trong một ngày?",
+    "A": "Không quá 10 giờ trong một ngày."
+  },
+  {
+    "Q": "Thời gian lái xe liên tục không quá bao nhiêu giờ?",
+    "A": "Không quá 04 giờ."
+  },
+  {
+    "Q": "Thời gian lái xe ô tô không quá bao nhiêu giờ trong một tuần?",
+    "A": "Không quá 48 giờ trong một tuần."
+  },
+  {
+    "Q": "Cảnh sát giao thông được dừng phương tiện để kiểm tra, kiểm soát dựa trên những căn cứ nào?",
+    "A": "Khi phát hiện hành vi vi phạm pháp luật; thực hiện theo mệnh lệnh, kế hoạch tuần tra của cấp có thẩm quyền; phục vụ bảo vệ an ninh quốc gia; có tin báo, tố giác, phản ánh về tội phạm, vi phạm pháp luật."
+  },
+  {
+    "Q": "Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ bao gồm những loại dữ liệu nào?",
+    "A": "Dữ liệu về đăng ký, quản lý xe cơ giới; đăng kiểm; đào tạo, sát hạch, cấp giấy phép lái xe; người điều khiển; bảo hiểm; xử lý vi phạm hành chính; tai nạn giao thông; hành trình phương tiện; quản lý thời gian điều khiển."
+  },
+  {
+    "Q": "Bộ nào là cơ quan đầu mối giúp Chính phủ thực hiện thống nhất quản lý nhà nước về trật tự, an toàn giao thông đường bộ?",
+    "A": "Bộ Công an."
+  },
+  {
+    "Q": "Bộ Giao thông vận tải thực hiện quản lý nhà nước về những lĩnh vực nào liên quan đến giao thông đường bộ?",
+    "A": "Đào tạo, sát hạch, cấp giấy phép lái xe; chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới."
+  },
+  {
+    "Q": "Bộ Y tế thực hiện quản lý nhà nước về những lĩnh vực nào liên quan đến giao thông đường bộ?",
+    "A": "Điều kiện sức khỏe của người lái xe, người điều khiển xe máy chuyên dùng; quy định về xác định nồng độ cồn và nồng độ cồn nội sinh trong máu."
+  },
+  {
+    "Q": "Bộ Khoa học và Công nghệ có trách nhiệm gì về mũ bảo hiểm?",
+    "A": "Ban hành quy chuẩn kỹ thuật quốc gia về mũ bảo hiểm cho người đi xe mô tô, xe gắn máy, xe đạp máy."
+  },
+  {
+    "Q": "Người điều khiển phương tiện có quyền được thông báo về điều gì khi bị dừng xe kiểm tra?",
+    "A": "Được thông báo về căn cứ dừng phương tiện; nội dung và kết quả kiểm tra; hành vi vi phạm pháp luật và biện pháp xử lý."
+  },
+  {
+    "Q": "Người điều khiển phương tiện gây tai nạn giao thông có trách nhiệm gì?",
+    "A": "Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh hoặc Ủy ban nhân dân nơi gần nhất."
+  },
+  {
+    "Q": "Người có mặt tại hiện trường vụ tai nạn giao thông có trách nhiệm gì?",
+    "A": "Giúp đỡ, cứu chữa kịp thời người bị nạn; báo tin cho cơ quan Công an hoặc cơ sở khám bệnh; tham gia bảo vệ hiện trường và tài sản của người bị nạn."
+  },
+  {
+    "Q": "Cơ sở khám bệnh, chữa bệnh cấp cứu ban đầu người bị tai nạn giao thông có trách nhiệm gì?",
+    "A": "Phải báo ngay cho cơ quan Công an nơi gần nhất; thực hiện xét nghiệm nồng độ cồn, chất ma túy trong máu của người điều khiển phương tiện."
+  },
+  {
+    "Q": "Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được hình thành từ những nguồn nào?",
+    "A": "Từ hỗ trợ, viện trợ, đóng góp tự nguyện của các tổ chức, cá nhân trong nước và nước ngoài; từ các nguồn khác theo quy định pháp luật."
+  },
+  {
+    "Q": "Xe buýt phải hoạt động như thế nào theo Luật này?",
+    "A": "Phải hoạt động đúng tuyến, đúng lịch trình, thời gian được phép hoạt động và dừng xe, đỗ xe đúng nơi quy định."
+  },
+  {
+    "Q": "Xe ô tô chở trẻ em mầm non, học sinh tiểu học phải có dây đai an toàn như thế nào?",
+    "A": "Phải có dây đai an toàn phù hợp với lứa tuổi hoặc sử dụng xe có ghế ngồi phù hợp với lứa tuổi."
+  },
+  {
+    "Q": "Khi đưa đón trẻ em mầm non, học sinh tiểu học phải bố trí tối thiểu bao nhiêu người quản lý trên mỗi xe?",
+    "A": "Tối thiểu 01 người quản lý trên mỗi xe ô tô."
+  },
+  {
+    "Q": "Khi xe từ 29 chỗ trở lên chở từ 27 trẻ em mầm non và học sinh tiểu học trở lên phải bố trí bao nhiêu người quản lý?",
+    "A": "Tối thiểu 02 người quản lý trên mỗi xe ô tô."
+  },
+  {
+    "Q": "Người lái xe ô tô đưa đón trẻ em mầm non, học sinh phải có tối thiểu bao nhiêu năm kinh nghiệm?",
+    "A": "Tối thiểu 02 năm kinh nghiệm lái xe vận tải hành khách."
+  },
+  {
+    "Q": "Hàng hóa nguy hiểm là gì?",
+    "A": "Là hàng hóa có chứa các chất hoặc vật phẩm nguy hiểm khi chở trên đường bộ có khả năng gây nguy hại tới tính mạng, sức khỏe con người, môi trường, an toàn và an ninh quốc gia."
+  },
+  {
+    "Q": "Xe ô tô vận chuyển hàng hoá nguy hiểm phải có những gì?",
+    "A": "Phải dán biểu trưng nhận diện hàng hóa nguy hiểm; lắp đèn, tín hiệu cảnh báo."
+  },
+  {
+    "Q": "Hàng siêu trường, siêu trọng được định nghĩa như thế nào?",
+    "A": "Là hàng không thể chia nhỏ, tháo rời, khi vận chuyển trên đường bộ làm cho phương tiện hoặc tổ hợp phương tiện bị vượt quá giới hạn cho phép về kích thước, khối lượng."
+  },
+  {
+    "Q": "Khi gặp sự cố kỹ thuật buộc phải đỗ xe trên đường cao tốc, cần đặt biển cảnh báo về phía sau xe tối thiểu bao nhiêu mét?",
+    "A": "Tối thiểu 150 mét."
+  },
+  {
+    "Q": "Những phương tiện nào không được đi trên đường cao tốc?",
+    "A": "Xe mô tô, xe gắn máy, xe thô sơ, người đi bộ, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ (trừ người và phương tiện phục vụ quản lý, bảo trì đường cao tốc)."
+  },
+  {
+    "Q": "Khi điều khiển phương tiện trong hầm đường bộ, xe cơ giới phải bật loại đèn gì?",
+    "A": "Phải bật đèn chiếu gần."
+  },
+  {
+    "Q": "Người điều khiển, dẫn dắt vật nuôi đi trên đường bộ phải đi về phía nào?",
+    "A": "Phải cho vật nuôi đi sát mép đường bên phải."
+  },
+  {
+    "Q": "Có được thả vật nuôi trên đường bộ không?",
+    "A": "Không được thả vật nuôi trên đường bộ."
+  },
+  {
+    "Q": "Người khuyết tật điều khiển xe ô tô số tự động có kết cấu phù hợp được cấp giấy phép lái xe hạng nào?",
+    "A": "Được cấp giấy phép lái xe hạng B."
+  },
+  {
+    "Q": "Giấy phép lái xe quốc tế có thời hạn tối đa bao nhiêu năm?",
+    "A": "Không quá 03 năm kể từ ngày cấp."
+  },
+  {
+    "Q": "Người có giấy phép lái xe quốc tế khi lái xe tại Việt Nam phải mang theo những gì?",
+    "A": "Phải mang theo giấy phép lái xe quốc tế và giấy phép lái xe quốc gia được cấp phù hợp với hạng xe điều khiển."
+  },
+  {
+    "Q": "Trung tâm chỉ huy giao thông bao gồm những cấp nào?",
+    "A": "Trung tâm chỉ huy giao thông quốc gia và trung tâm chỉ huy giao thông tỉnh, thành phố trực thuộc trung ương."
+  },
+  {
+    "Q": "Chỉ huy giao thông đường bộ được thực hiện thông qua những hình thức nào?",
+    "A": "Thông qua người có thẩm quyền chỉ huy giao thông; trung tâm chỉ huy giao thông; thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ."
+  },
+  {
+    "Q": "Xe ô tô chở trẻ em mầm non, học sinh phải có niên hạn sử dụng không quá bao nhiêu năm?",
+    "A": "Không quá 20 năm."
+  },
+  {
+    "Q": "Khi nào được dừng xe, đỗ xe trên làn dừng khẩn cấp của đường cao tốc?",
+    "A": "Trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe."
+  },
+  {
+    "Q": "Điều khiển phương tiện có nồng độ cồn trong máu hoặc hơi thở có bị nghiêm cấm không?",
+    "A": "Có, đây là một trong các hành vi bị nghiêm cấm theo Điều 9 của Luật."
+  },
+  {
+    "Q": "Đua xe trái phép, tổ chức đua xe, cổ vũ đua xe có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Dùng tay cầm và sử dụng điện thoại khi điều khiển phương tiện đang di chuyển có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Giao xe cơ giới cho người không đủ điều kiện điều khiển có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Cải tạo xe ô tô loại khác thành xe ô tô chở người có bị nghiêm cấm không?",
+    "A": "Có, trừ cải tạo thành xe ô tô chở người phục vụ mục đích quốc phòng, an ninh."
+  },
+  {
+    "Q": "Bỏ trốn sau khi gây tai nạn giao thông để trốn tránh trách nhiệm có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Cố ý can thiệp làm sai lệch chỉ số đồng hồ báo quãng đường của xe ô tô có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe gây mất trật tự an toàn giao thông có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Sản xuất, sử dụng, mua, bán trái phép biển số xe có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Làm gián đoạn hoạt động hoặc làm sai lệch dữ liệu thiết bị giám sát hành trình có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Điều khiển vật thể bay, tàu bay không người lái trong phạm vi khổ giới hạn đường bộ gây cản trở có bị nghiêm cấm không?",
+    "A": "Có, trừ tàu bay không người lái được cấp phép bay."
+  },
+  {
+    "Q": "Lợi dụng chức vụ để can thiệp vào quá trình xử lý vi phạm giao thông có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Sử dụng quyền xe ưu tiên khi không thực hiện nhiệm vụ có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Xe xuống dốc phải nhường đường cho xe nào khi tránh nhau?",
+    "A": "Phải nhường đường cho xe lên dốc."
+  },
+  {
+    "Q": "Trên đường không phân chia thành hai chiều xe chạy riêng biệt, khi tránh nhau phải đi về phía nào?",
+    "A": "Phải cho xe đi về bên phải theo chiều xe chạy của mình."
+  },
+  {
+    "Q": "Điều kiện để xe xin vượt được phép vượt là gì?",
+    "A": "Không có chướng ngại vật phía trước; không có xe chạy ngược chiều trong đoạn đường định vượt; xe chạy trước không có tín hiệu vượt xe khác; đã có tín hiệu rẽ phải và tránh về bên phải."
+  },
+  {
+    "Q": "Khi xe xin vượt, người điều khiển phía trước phải làm gì nếu đủ điều kiện an toàn?",
+    "A": "Phải giảm tốc độ, có tín hiệu rẽ phải và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua."
+  },
+  {
+    "Q": "Trong đô thị và khu đông dân cư từ 22 giờ đến 05 giờ, xe xin vượt được báo hiệu bằng gì?",
+    "A": "Chỉ được báo hiệu xin vượt bằng đèn."
+  },
+  {
+    "Q": "Lòng đường được sử dụng cho mục đích gì?",
+    "A": "Được sử dụng cho mục đích giao thông."
+  },
+  {
+    "Q": "Vỉa hè được sử dụng cho mục đích gì?",
+    "A": "Được sử dụng cho người đi bộ."
+  },
+  {
+    "Q": "Khi muốn sử dụng tạm thời lòng đường, vỉa hè phục vụ sự kiện, cần làm gì?",
+    "A": "Cơ quan, tổ chức, cá nhân có nhu cầu phải có phương án và được cơ quan có thẩm quyền cho phép; cơ quan cho phép phải gửi thông báo ngay cho cơ quan Cảnh sát giao thông."
+  },
+  {
+    "Q": "Thành viên trong gia đình có trách nhiệm gì về tuyên truyền giao thông?",
+    "A": "Có trách nhiệm tuyên truyền, nhắc nhở thành viên khác chấp hành pháp luật về trật tự, an toàn giao thông đường bộ."
+  },
+  {
+    "Q": "Giáo dục kiến thức pháp luật về giao thông đường bộ được thực hiện cho đối tượng nào?",
+    "A": "Trẻ em của cơ sở giáo dục mầm non, học sinh của cơ sở giáo dục phổ thông và cơ sở giáo dục nghề nghiệp."
+  },
+  {
+    "Q": "Lực lượng Cảnh sát giao thông có trách nhiệm gì về hướng dẫn kỹ năng lái xe cho học sinh?",
+    "A": "Có trách nhiệm chủ trì, phối hợp với cơ quan quản lý trường trung học phổ thông, cơ sở giáo dục nghề nghiệp tổ chức hướng dẫn kỹ năng lái xe gắn máy an toàn cho học sinh."
+  },
+  {
+    "Q": "Khi nào người bị nạn trong tai nạn giao thông có thể rời khỏi hiện trường?",
+    "A": "Trường hợp phải đi cấp cứu, đưa người bị nạn đi cấp cứu hoặc xét thấy bị đe dọa đến tính mạng, sức khỏe nhưng phải đến trình báo ngay cơ quan Công an, Ủy ban nhân dân nơi gần nhất."
+  },
+  {
+    "Q": "Xe ô tô chở hàng chở người trên thùng xe trong những trường hợp nào được phép?",
+    "A": "Chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp; chở người bị nạn đi cấp cứu; chở lực lượng vũ trang đi làm nhiệm vụ khẩn cấp; chở người đi thực hành lái xe, dự sát hạch; chở người diễu hành khi được phép."
+  },
+  {
+    "Q": "Khi lùi xe không được thực hiện ở những địa điểm nào?",
+    "A": "Không được lùi xe ở đường một chiều, khu vực cấm dừng, trên phần đường dành cho người đi bộ, nơi đường giao nhau, đường sắt giao nhau, nơi tầm nhìn bị che khuất, trong hầm đường bộ, trên đường cao tốc."
+  },
+  {
+    "Q": "Khi qua phà, ai được phép ở lại trên xe?",
+    "A": "Người lái xe, người điều khiển xe máy chuyên dùng, trẻ em, phụ nữ mang thai, người già yếu, người khuyết tật, người bệnh."
+  },
+  {
+    "Q": "Thứ tự ưu tiên qua phà từ cao xuống thấp là gì?",
+    "A": "Xe ưu tiên; xe chở thư báo; xe chở thực phẩm tươi sống; xe chở khách công cộng."
+  },
+  {
+    "Q": "Khi xe bị hư hỏng tại đường ngang đường sắt, người điều khiển phải làm gì?",
+    "A": "Phải ngay lập tức báo hiệu để dừng tàu, thực hiện các biện pháp bảo đảm an toàn."
+  },
+  {
+    "Q": "Khi đến đường ngang không có người gác, chuông, đèn tín hiệu, người tham gia giao thông phải làm gì?",
+    "A": "Phải dừng lại về bên phải đường của mình, trước vạch dừng xe và quan sát hai phía, khi không có phương tiện giao thông đường sắt tới mới được đi qua."
+  },
+  {
+    "Q": "Một xe ô tô kéo xe khác chỉ được kéo tối đa bao nhiêu xe?",
+    "A": "Chỉ được kéo theo một xe ô tô hoặc xe máy chuyên dùng khác."
+  },
+  {
+    "Q": "Khi kéo xe, phía trước xe kéo và phía sau xe được kéo phải có gì?",
+    "A": "Phải có biển báo hiệu, có đèn cảnh báo nhấp nháy màu vàng."
+  },
+  {
+    "Q": "Không được chở người trên xe được kéo, trừ trường hợp nào?",
+    "A": "Trừ người điều khiển."
+  },
+  {
+    "Q": "Người đi bộ chỉ được qua đường ở những nơi nào?",
+    "A": "Ở những nơi có đèn tín hiệu, có vạch kẻ đường hoặc có cầu vượt, hầm dành cho người đi bộ."
+  },
+  {
+    "Q": "Người khiếm thị khi đi trên đường bộ phải làm gì?",
+    "A": "Phải có người dẫn dắt hoặc có công cụ để báo hiệu cho người khác nhận biết là người khiếm thị."
+  },
+  {
+    "Q": "Người điều khiển xe đạp, xe đạp máy không được thực hiện những hành vi nào?",
+    "A": "Các hành vi tương tự như người lái xe mô tô, xe gắn máy bao gồm không được đi dàn hàng ngang, không được vào phần đường dành cho người đi bộ..."
+  },
+  {
+    "Q": "Người điều khiển xe thô sơ chỉ được cho xe đi như thế nào?",
+    "A": "Chỉ được cho xe đi hàng một."
+  },
+  {
+    "Q": "Cơ quan, tổ chức được khen thưởng hoặc hưởng quyền lợi gì khi tham gia bảo đảm trật tự giao thông?",
+    "A": "Có thành tích thì được khen thưởng; bị thiệt hại về tài sản thì được đền bù; người bị tổn hại về danh dự, nhân phẩm thì được khôi phục; người bị thương, tổn hại sức khỏe, tính mạng thì được hưởng chế độ, chính sách."
+  },
+  {
+    "Q": "Kết luận vụ tai nạn giao thông đường bộ phải xác định những nội dung gì?",
+    "A": "Diễn biến, hậu quả thiệt hại, nguyên nhân, lỗi và điều kiện liên quan trực tiếp; đề xuất xử lý; kiến nghị khắc phục sơ hở, thiếu sót."
+  },
+  {
+    "Q": "Cơ quan nào chủ trì thống kê tai nạn giao thông đường bộ?",
+    "A": "Cơ quan Cảnh sát giao thông chủ trì, phối hợp thống kê."
+  },
+  {
+    "Q": "Cơ sở khám bệnh cần cung cấp thông tin gì cho cơ quan Cảnh sát giao thông?",
+    "A": "Cung cấp thông tin thống kê người bị tai nạn giao thông đường bộ vào khám bệnh, chữa bệnh tại cơ sở."
+  },
+  {
+    "Q": "Giấy phép lái xe chứng nhận nguồn gốc xe phải đảm bảo điều kiện gì khi cấp mới?",
+    "A": "Phải có: chứng nhận nguồn gốc xe; chứng nhận quyền sở hữu hợp pháp; chứng từ hoàn thành nghĩa vụ tài chính."
+  },
+  {
+    "Q": "Giấy phép lái xe bị thu hồi trong những trường hợp nào?",
+    "A": "Người được cấp không đủ điều kiện sức khỏe; giấy phép lái xe được cấp sai quy định; giấy phép lái xe đã quá thời hạn tạm giữ mà người vi phạm không đến nhận."
+  },
+  {
+    "Q": "Hợp tác quốc tế về trật tự, an toàn giao thông đường bộ bao gồm những nội dung gì?",
+    "A": "Ký kết điều ước quốc tế; trao đổi thông tin, chuyển giao công nghệ; đào tạo, tập huấn nâng cao năng lực; tăng cường điều kiện vật chất; giải quyết tai nạn giao thông; các nội dung hợp tác khác."
+  },
+  {
+    "Q": "Bộ Công an có vai trò gì trong hợp tác quốc tế về giao thông đường bộ?",
+    "A": "Chủ trì, phối hợp với các Bộ, ngành liên quan giúp Chính phủ đàm phán, ký kết điều ước quốc tế, thỏa thuận quốc tế về trật tự, an toàn giao thông đường bộ."
+  },
+  {
+    "Q": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ đầu tiên là gì?",
+    "A": "Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên."
+  },
+  {
+    "Q": "Trách nhiệm bảo đảm trật tự, an toàn giao thông đường bộ thuộc về ai?",
+    "A": "Là trách nhiệm của cơ quan, tổ chức, cá nhân."
+  },
+  {
+    "Q": "Hoạt động bảo đảm trật tự, an toàn giao thông đường bộ phải đảm bảo những nguyên tắc nào?",
+    "A": "Phải công khai, minh bạch và thuận lợi cho người dân."
+  },
+  {
+    "Q": "Nhà nước có chính sách gì về ưu tiên phương tiện xanh?",
+    "A": "Ưu tiên chuyển đổi phương tiện sử dụng nhiên liệu hóa thạch sang phương tiện sử dụng điện, năng lượng xanh, thân thiện môi trường."
+  },
+  {
+    "Q": "Nhà nước có chính sách gì về phương tiện vận tải công cộng?",
+    "A": "Ưu tiên phát triển phương tiện vận tải công cộng, hạn chế sử dụng phương tiện giao thông cá nhân tại các đô thị lớn."
+  },
+  {
+    "Q": "Cơ sở thông tin, truyền thông có trách nhiệm gì về tuyên truyền giao thông?",
+    "A": "Có trách nhiệm tổ chức tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ trên các phương tiện thông tin, truyền thông đại chúng."
+  },
+  {
+    "Q": "Mặt trận Tổ quốc Việt Nam có trách nhiệm gì về trật tự giao thông?",
+    "A": "Có trách nhiệm phối hợp với cơ quan hữu quan và chính quyền địa phương tuyên truyền, vận động Nhân dân thực hiện pháp luật về trật tự, an toàn giao thông đường bộ."
+  },
+  {
+    "Q": "Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ được kết nối với những cơ sở dữ liệu nào?",
+    "A": "Được kết nối, chia sẻ với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu đường bộ và các cơ sở dữ liệu khác có liên quan."
+  },
+  {
+    "Q": "Trung tâm chỉ huy giao thông được kết nối, chia sẻ dữ liệu với những hệ thống nào?",
+    "A": "Hệ thống đèn tín hiệu giao thông; hệ thống giám sát an ninh, trật tự; hệ thống quản lý dữ liệu thiết bị giám sát hành trình; hệ thống camera; thiết bị thông minh; trung tâm quản lý giao thông thông minh; công trình kiểm soát tải trọng xe."
+  },
+  {
+    "Q": "Người lái xe được quyền tố cáo hành vi vi phạm pháp luật trong hoạt động tuần tra, kiểm soát không?",
+    "A": "Có, được tố cáo theo quy định của pháp luật về tố cáo."
+  },
+  {
+    "Q": "Người điều khiển phương tiện có nghĩa vụ gì đối với lực lượng tuần tra, kiểm soát?",
+    "A": "Phải chấp hành hiệu lệnh dừng phương tiện; hỗ trợ, hợp tác với lực lượng bảo đảm trật tự, an toàn giao thông đường bộ trong quá trình phát hiện, ngăn chặn và xử lý vi phạm."
+  },
+  {
+    "Q": "Khi người tham gia giao thông không chấp hành yêu cầu kiểm tra, người thi hành công vụ phải làm gì đầu tiên?",
+    "A": "Giải thích cho người vi phạm biết rõ về hành vi vi phạm; quyền và trách nhiệm của người vi phạm; thuyết phục, yêu cầu chấm dứt ngay hành vi vi phạm."
+  },
+  {
+    "Q": "Khi người điều khiển phương tiện không chấp hành tín hiệu dừng xe và bỏ chạy, người thi hành công vụ có thể làm gì?",
+    "A": "Được thực hiện quyền truy đuổi để ngăn chặn và xử lý hành vi vi phạm."
+  },
+  {
+    "Q": "Hệ thống giám sát bảo đảm an ninh, trật tự an toàn giao thông đường bộ có chức năng gì?",
+    "A": "Thu thập tín hiệu, dữ liệu, âm thanh, hình ảnh về hành trình phương tiện, tình trạng giao thông; giám sát tình hình an ninh, trật tự; phát hiện vi phạm pháp luật."
+  },
+  {
+    "Q": "Cơ sở đăng kiểm có trách nhiệm gì đối với phương tiện vi phạm hành chính?",
+    "A": "Phải từ chối kiểm định phương tiện vi phạm khi chủ phương tiện chưa thực hiện xong yêu cầu của cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "Q": "Chủ xe có trách nhiệm gì khi chưa thu hồi chứng nhận đăng ký xe?",
+    "A": "Tổ chức, cá nhân đứng tên trong giấy chứng nhận đăng ký xe tiếp tục chịu trách nhiệm của chủ xe khi chưa thực hiện thu hồi."
+  },
+  {
+    "Q": "Xe taxi đón, trả hành khách theo nguyên tắc nào?",
+    "A": "Theo thỏa thuận giữa hành khách và người lái xe nhưng phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ khi đón, trả hành khách."
+  },
+  {
+    "Q": "Xe vệ sinh môi trường, xe chở vật liệu xây dựng có quy định gì khi hoạt động?",
+    "A": "Phải được che phủ kín, không để rơi vãi trên đường phố và có thời gian hoạt động theo quy định của Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "Q": "Ủy ban nhân dân cấp tỉnh có thẩm quyền gì về vận tải đô thị?",
+    "A": "Quy định về hoạt động vận tải đường bộ trong đô thị và tỷ lệ phương tiện vận chuyển hành khách công cộng có thiết bị hỗ trợ cho người khuyết tật."
+  },
+  {
+    "Q": "Xe ô tô vận chuyển hành khách phải đón, trả hành khách như thế nào?",
+    "A": "Đón, trả hành khách đúng nơi quy định; hướng dẫn sử dụng trang thiết bị an toàn trên xe."
+  },
+  {
+    "Q": "Xe ô tô vận chuyển hành khách không được chở những loại hàng hóa nào?",
+    "A": "Không được chở hàng hóa nguy hiểm, hàng hóa cấm lưu hành, hàng lậu, động vật hoang dã, hàng có mùi hôi thối ảnh hưởng đến sức khỏe hành khách."
+  },
+  {
+    "Q": "Người lái xe ô tô vận chuyển hành khách phải làm gì trước khi cho xe khởi hành?",
+    "A": "Phải kiểm tra các điều kiện bảo đảm an toàn của xe, hướng dẫn cho hành khách về an toàn giao thông đường bộ và thoát hiểm khi gặp sự cố."
+  },
+  {
+    "Q": "Khi vận chuyển hàng rời, vật liệu xây dựng, phế thải bằng xe ô tô phải đảm bảo gì?",
+    "A": "Phải che đậy kín, không để rơi vãi xuống đường, chiều cao tối đa của hàng hóa phải thấp hơn mép trên thành thùng xe tối thiểu 10 cm."
+  },
+  {
+    "Q": "Khi vận chuyển hàng hoá xếp vượt phía sau xe, ban đêm phải có gì?",
+    "A": "Phải có đèn hoặc báo hiệu cho người tham gia giao thông để nhận biết."
+  },
+  {
+    "Q": "Khi vận chuyển hàng hoá xếp vượt phía trước và phía sau xe, ban ngày phải có gì?",
+    "A": "Phải có báo hiệu màu đỏ tại điểm đầu và điểm cuối cùng của hàng hoá."
+  },
+  {
+    "Q": "Khi qua cầu phao, xe cơ giới phải đi như thế nào?",
+    "A": "Phải đi theo một hàng theo chiều di chuyển, không gây cản trở người, phương tiện đi ngược chiều."
+  },
+  {
+    "Q": "Khi lên bến phà, ai được lên trước?",
+    "A": "Người đi bộ lên trước, các phương tiện giao thông đường bộ lên sau theo hướng dẫn của người điều khiển giao thông."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng CE cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái các loại xe ô tô quy định cho hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng DE cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái các loại xe ô tô quy định cho hạng D kéo rơ moóc có khối lượng toàn bộ trên 750 kg; xe ô tô chở khách nối toa."
+  },
+  {
+    "Q": "Khi nâng hạng giấy phép lái xe lên hạng D1, D2, D thì người học cần có điều kiện gì ngoài thời gian lái xe an toàn?",
+    "A": "Phải có trình độ từ trung học cơ sở trở lên."
+  },
+  {
+    "Q": "Cơ sở đào tạo lái xe ô tô cần đáp ứng điều kiện gì?",
+    "A": "Phải đáp ứng các điều kiện do Chính phủ quy định; có giáo trình, giáo án; thực hiện đào tạo theo đúng hình thức, nội dung và chương trình quy định."
+  },
+  {
+    "Q": "Trung tâm sát hạch lái xe phải chia sẻ kết quả và dữ liệu giám sát quá trình sát hạch đến đâu?",
+    "A": "Đến cơ quan quản lý đào tạo, sát hạch, cấp giấy phép lái xe và cơ quan quản lý về trật tự, an toàn giao thông đường bộ để giám sát."
+  },
+  {
+    "Q": "Sát hạch viên phải đáp ứng điều kiện gì?",
+    "A": "Phải có đủ điều kiện, tiêu chuẩn, được cấp thẻ sát hạch viên và phải chịu trách nhiệm về kết quả sát hạch của mình."
+  },
+  {
+    "Q": "Phương tiện giao thông thông minh phải đáp ứng thêm điều kiện gì ngoài điều kiện thông thường?",
+    "A": "Phải được cơ quan có thẩm quyền cấp phép hoạt động."
+  },
+  {
+    "Q": "Ủy ban nhân dân cấp tỉnh có quyền gì về hoạt động của xe thô sơ?",
+    "A": "Quy định phạm vi hoạt động của xe thô sơ, xe chở hàng bốn bánh có gắn động cơ, xe chở người bốn bánh có gắn động cơ tại địa phương."
+  },
+  {
+    "Q": "Xe cứu hộ giao thông đường bộ phải có những gì?",
+    "A": "Phải có dấu hiệu nhận diện, niêm yết thông tin trên xe, gắn thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe."
+  },
+  {
+    "Q": "Nguyên tắc hoạt động của Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ là gì?",
+    "A": "Không vì mục đích lợi nhuận; quản lý, sử dụng đúng mục đích, đúng pháp luật, kịp thời, hiệu quả, bảo đảm công khai, minh bạch."
+  },
+  {
+    "Q": "Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được chi cho những hoạt động nào?",
+    "A": "Hỗ trợ nạn nhân, gia đình nạn nhân; hỗ trợ tổ chức giúp đỡ, cứu chữa người bị nạn; hỗ trợ tuyên truyền giảm thiểu thiệt hại."
+  },
+  {
+    "Q": "Khi nào cơ quan Cảnh sát giao thông có thể tạm thời đình chỉ hoạt động giao thông trên một tuyến đường?",
+    "A": "Khi thấy không bảo đảm trật tự, an toàn giao thông đường bộ do nguy cơ mất an toàn đối với công trình đường bộ."
+  },
+  {
+    "Q": "Cơ quan quản lý đường bộ có trách nhiệm gì khi nhận kiến nghị về nguy cơ mất an toàn giao thông?",
+    "A": "Phải tiếp nhận, kiểm tra và khắc phục các yếu tố có nguy cơ mất an toàn, thông báo kết quả khắc phục cho cơ quan Cảnh sát giao thông và tổ chức, cá nhân đã kiến nghị."
+  },
+  {
+    "Q": "Xe ô tô nước ngoài có tay lái bên phải khi vào Việt Nam phải đi theo nguyên tắc nào?",
+    "A": "Phải đi theo đoàn và có người, phương tiện hỗ trợ, hướng dẫn giao thông; tổ chức, cá nhân đưa xe vào phải bố trí xe hướng dẫn giao thông."
+  },
+  {
+    "Q": "Xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch cần đáp ứng điều kiện gì?",
+    "A": "Phải được cơ quan có thẩm quyền cấp phép và chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng D1 cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái xe ô tô chở người trên 08 chỗ (không kể chỗ người lái xe) đến 16 chỗ (không kể chỗ người lái xe) và các loại xe quy định cho hạng B, C1, C."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng D2 cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 16 chỗ đến 29 chỗ (không kể chỗ người lái xe) và các loại xe quy định cho hạng B, C1, C, D1."
+  },
+  {
+    "Q": "Xe chở hàng bốn bánh có gắn động cơ được định nghĩa như thế nào?",
+    "A": "Là xe có từ bốn bánh trở lên, chạy bằng động cơ, để hoạt động trên đường bộ, có kết cấu để chở hàng, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg."
+  },
+  {
+    "Q": "Xe chở người bốn bánh có gắn động cơ được định nghĩa như thế nào?",
+    "A": "Là xe có từ bốn bánh trở lên, chạy bằng động cơ, để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe)."
+  },
+  {
+    "Q": "Rơ moóc được định nghĩa như thế nào?",
+    "A": "Là xe không có động cơ để di chuyển, được thiết kế sản xuất để hoạt động trên đường bộ, được kéo bởi xe ô tô; phần chủ yếu của khối lượng toàn bộ rơ moóc không đặt lên xe kéo."
+  },
+  {
+    "Q": "Sơ mi rơ moóc khác rơ moóc như thế nào?",
+    "A": "Sơ mi rơ moóc được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô tô đầu kéo."
+  },
+  {
+    "Q": "Xe máy chuyên dùng bao gồm những loại nào?",
+    "A": "Xe máy thi công; xe máy nông nghiệp, lâm nghiệp; máy kéo; rơ moóc, sơ mi rơ moóc được kéo bởi máy kéo; xe máy thực hiện chức năng đặc biệt; các loại xe đặc chủng sử dụng vào mục đích quốc phòng, an ninh."
+  },
+  {
+    "Q": "Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ là gì?",
+    "A": "Là giấy chứng nhận cấp cho người có đủ điều kiện theo quy định của pháp luật để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ."
+  },
+  {
+    "Q": "Xe ô tô kinh doanh vận tải kết hợp đưa đón trẻ em mầm non phải có thiết bị gì?",
+    "A": "Phải có thiết bị ghi nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ em trên xe."
+  },
+  {
+    "Q": "Ủy ban nhân dân cấp xã có trách nhiệm gì khi có người chết trong vụ tai nạn giao thông không rõ tung tích?",
+    "A": "Có trách nhiệm tổ chức chôn cất sau khi cơ quan nhà nước có thẩm quyền điều tra, giải quyết đồng ý cho chôn cất."
+  },
+  {
+    "Q": "Khi tai nạn giao thông liên quan đến xe chở hàng hóa nguy hiểm, cơ quan Công an phải làm gì?",
+    "A": "Phải thông báo ngay cho đơn vị chức năng về giải quyết hóa chất độc hại, vật liệu cháy, nổ; phong tỏa hiện trường; tổ chức phân luồng giao thông, cấm người đi vào khu vực tai nạn."
+  },
+  {
+    "Q": "Doanh nghiệp bảo hiểm khi nhận được tin báo tai nạn phải làm gì?",
+    "A": "Phải cử người trực tiếp hoặc ủy quyền người đại diện đến hiện trường phối hợp với đơn vị giải quyết vụ tai nạn."
+  },
+  {
+    "Q": "Người điều khiển phương tiện khác đi qua nơi xảy ra tai nạn có trách nhiệm gì?",
+    "A": "Có trách nhiệm chở người bị thương đi cấp cứu."
+  },
+  {
+    "Q": "Chỉ được sử dụng tín hiệu còi trong những trường hợp nào?",
+    "A": "Khi xuất hiện tình huống có thể mất an toàn giao thông; khi chuẩn bị vượt xe."
+  },
+  {
+    "Q": "Không được sử dụng còi liên tục, đúng hay sai?",
+    "A": "Đúng, không được sử dụng còi liên tục."
+  },
+  {
+    "Q": "Người điều khiển phương tiện phải bảo đảm tốc độ phù hợp với những yếu tố nào?",
+    "A": "Phù hợp điều kiện của cầu, đường, mật độ giao thông, địa hình, thời tiết và các yếu tố ảnh hưởng khác."
+  },
+  {
+    "Q": "Phải giảm tốc độ hoặc dừng lại tại những nơi nào?",
+    "A": "Nơi có vạch kẻ dành cho người đi bộ; nơi có báo hiệu cảnh báo nguy hiểm; nơi chuyển hướng hoặc tầm nhìn bị hạn chế; nơi đường giao nhau; khu vực trường học, bệnh viện; khu đông dân cư; nơi có vật nuôi..."
+  },
+  {
+    "Q": "Khi nào người điều khiển phương tiện phải giảm tốc độ khi gặp đoàn người đi bộ?",
+    "A": "Khi gặp đoàn người đi bộ trên đường."
+  },
+  {
+    "Q": "Khi nào người điều khiển phương tiện phải giảm tốc độ khi gặp xe siêu trường, siêu trọng?",
+    "A": "Khi gặp xe vận chuyển hàng siêu trường, siêu trọng, hàng hóa nguy hiểm."
+  },
+  {
+    "Q": "Phần đường xe chạy được định nghĩa như thế nào?",
+    "A": "Là phần của đường bộ được sử dụng cho phương tiện giao thông đường bộ đi lại."
+  },
+  {
+    "Q": "Phương tiện tham gia giao thông đường bộ là gì?",
+    "A": "Là phương tiện giao thông đường bộ tham gia giao thông trên đường bộ."
+  },
+  {
+    "Q": "Người điều khiển phương tiện tham gia giao thông đường bộ bao gồm những ai?",
+    "A": "Người điều khiển xe cơ giới (người lái xe); người điều khiển xe thô sơ; người điều khiển xe máy chuyên dùng."
+  },
+  {
+    "Q": "Bộ trưởng Bộ Giao thông vận tải có trách nhiệm gì về báo hiệu đường bộ?",
+    "A": "Ban hành quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ, trừ hiệu lệnh của người điều khiển giao thông."
+  },
+  {
+    "Q": "Bộ trưởng Bộ Công an có trách nhiệm gì về hiệu lệnh của người điều khiển giao thông?",
+    "A": "Quy định chi tiết hiệu lệnh của người điều khiển giao thông."
+  },
+  {
+    "Q": "Bộ trưởng Bộ Giao thông vận tải quy định gì về tốc độ và khoảng cách an toàn?",
+    "A": "Quy định chi tiết về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ."
+  },
+  {
+    "Q": "Cơ quan, tổ chức, cá nhân phát hiện tình huống đột xuất gây mất trật tự an toàn giao thông phải làm gì?",
+    "A": "Phải kịp thời báo cho cơ quan Công an nơi gần nhất hoặc cơ quan quản lý đường bộ; phải thực hiện biện pháp cảnh báo an toàn ngay cho người tham gia giao thông."
+  },
+  {
+    "Q": "Khi xuất hiện ùn tắc giao thông, cơ quan Cảnh sát giao thông phải làm gì?",
+    "A": "Có phương án chỉ huy, điều khiển giao thông; xử lý vi phạm; kiến nghị cơ quan có thẩm quyền giải quyết và phòng ngừa ùn tắc."
+  },
+  {
+    "Q": "Tiền thu từ đấu giá biển số xe sau khi trừ chi phí được xử lý như thế nào?",
+    "A": "Được nộp vào ngân sách trung ương theo quy định của pháp luật về ngân sách nhà nước."
+  },
+  {
+    "Q": "Khi ở trên xe và khi xuống phà, thứ tự nào được ưu tiên?",
+    "A": "Khi xuống phà: xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau."
+  },
+  {
+    "Q": "Điều kiện đối với người học nâng hạng giấy phép lái xe là gì?",
+    "A": "Giấy phép lái xe còn hiệu lực, phải có đủ thời gian lái xe an toàn quy định cho từng hạng."
+  },
+  {
+    "Q": "Giấy phép lái xe được cấp cho người có kết quả sát hạch như thế nào?",
+    "A": "Được cấp cho người tham dự kỳ sát hạch lái xe có kết quả đạt yêu cầu."
+  },
+  {
+    "Q": "Người điều khiển phương tiện không được dừng xe tại những vị trí nào?",
+    "A": "Bên trái đường một chiều; trên đoạn đường cong hoặc gần đầu dốc tầm nhìn bị che khuất; trên cầu; gầm cầu vượt; song song cùng chiều với xe khác đang dừng, đỗ; trên phần đường dành cho người đi bộ; nơi đường giao nhau..."
+  },
+  {
+    "Q": "Xe đỗ trên đường phố phải đỗ như thế nào?",
+    "A": "Phải đỗ sát theo lề đường, vỉa hè phía bên phải theo chiều đi; bánh xe gần nhất không được cách xa lề đường, vỉa hè quá 0,25 mét."
+  },
+  {
+    "Q": "Người điều khiển phương tiện khi dừng, đỗ xe phải thực hiện những quy định nào?",
+    "A": "Phải có tín hiệu báo cho người điều khiển khác biết khi ra, vào vị trí dừng xe, đỗ xe; không làm ảnh hưởng đến người đi bộ và các phương tiện tham gia giao thông."
+  },
+  {
+    "Q": "Khi gặp sự cố kỹ thuật buộc phải đỗ xe chiếm phần đường, phải làm gì?",
+    "A": "Phải có báo hiệu bằng đèn khẩn cấp hoặc đặt biển cảnh báo về phía sau xe để người điều khiển phương tiện khác biết."
+  },
+  {
+    "Q": "Người điều khiển phương tiện khi dừng xe không được làm gì?",
+    "A": "Không được tắt máy và không được rời khỏi vị trí lái (trừ một số trường hợp như đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ)."
+  },
+  {
+    "Q": "Khi đỗ xe, người điều khiển chỉ được rời khỏi xe khi nào?",
+    "A": "Khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác."
+  },
+  {
+    "Q": "Việc chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới do ai thực hiện?",
+    "A": "Do đăng kiểm viên thực hiện và được cơ quan có thẩm quyền cấp chứng nhận."
+  },
+  {
+    "Q": "Đăng kiểm viên là ai?",
+    "A": "Là người được cấp chứng chỉ chuyên môn về chứng nhận, kiểm định xe cơ giới, xe máy chuyên dùng."
+  },
+  {
+    "Q": "Kiểm định an toàn kỹ thuật của xe cơ giới, xe máy chuyên dùng do ai thực hiện?",
+    "A": "Do đăng kiểm viên của cơ sở đăng kiểm thực hiện."
+  },
+  {
+    "Q": "Cơ sở đăng kiểm là gì?",
+    "A": "Là tổ chức cung cấp dịch vụ công thực hiện kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới, xe máy chuyên dùng."
+  },
+  {
+    "Q": "Tổ chức, cá nhân vi phạm pháp luật giao thông chưa thực hiện xong yêu cầu của cơ quan có thẩm quyền thì được giải quyết đăng ký, đăng kiểm không?",
+    "A": "Chưa được giải quyết việc đăng ký, đăng kiểm phương tiện vi phạm."
+  },
+  {
+    "Q": "Báo hiệu đường bộ bao gồm những loại nào?",
+    "A": "Hiệu lệnh của người điều khiển giao thông; đèn tín hiệu giao thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; thiết bị âm thanh báo hiệu đường bộ."
+  },
+  {
+    "Q": "Vạch kẻ đường có tác dụng gì?",
+    "A": "Là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại."
+  },
+  {
+    "Q": "Cọc tiêu, tường bảo vệ có tác dụng gì?",
+    "A": "Để hướng dẫn cho người tham gia giao thông đường bộ biết phạm vi an toàn của nền đường và hướng đi của đường."
+  },
+  {
+    "Q": "Rào chắn có tác dụng gì?",
+    "A": "Để ngăn không cho người, phương tiện qua lại."
+  },
+  {
+    "Q": "Đinh phản quang, tiêu phản quang có tác dụng gì?",
+    "A": "Để thông tin, cảnh báo về phần đường, làn đường."
+  },
+  {
+    "Q": "Cột Km, cọc H có tác dụng gì?",
+    "A": "Để báo hiệu cho người tham gia giao thông đường bộ về các thông tin của đường bộ."
+  },
+  {
+    "Q": "Thiết bị âm thanh báo hiệu đường bộ có tác dụng gì?",
+    "A": "Để hỗ trợ cảnh báo nguy hiểm cho người tham gia giao thông đường bộ."
+  },
+  {
+    "Q": "Biển phụ có tác dụng gì?",
+    "A": "Để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn."
+  },
+  {
+    "Q": "Khi phát hiện nguy cơ mất an toàn đối với công trình đường bộ, cơ quan Cảnh sát giao thông phải làm gì?",
+    "A": "Xử lý, khắc phục trong phạm vi quản lý hoặc kiến nghị cơ quan quản lý đường bộ xử lý, khắc phục kịp thời."
+  },
+  {
+    "Q": "Tình huống đột xuất gây mất trật tự an toàn giao thông trên đường bộ bao gồm những tình huống nào?",
+    "A": "Ùn tắc giao thông; tai nạn giao thông đường bộ; hư hỏng kết cấu hạ tầng giao thông; thiên tai, cháy, nổ; tình huống phức tạp về an ninh, trật tự trên đường bộ."
+  },
+  {
+    "Q": "Khi huy động người, phương tiện dân sự trong trường hợp cấp bách, sau khi chấm dứt cấp bách phải làm gì?",
+    "A": "Người chỉ huy trực tiếp của Cảnh sát giao thông có trách nhiệm hoàn trả ngay."
+  },
+  {
+    "Q": "Người lái xe ô tô kinh doanh vận tải nội bộ có nghĩa vụ gì về thời gian làm việc?",
+    "A": "Phải tuân thủ quy định về thời gian lái xe không quá 10 giờ/ngày, không quá 48 giờ/tuần và lái xe liên tục không quá 04 giờ."
+  },
+  {
+    "Q": "Hành vi không khai báo hoặc khai báo gian dối để trốn tránh trách nhiệm vi phạm giao thông có bị cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Khi kiểm tra phương tiện, người điều khiển được phép đề nghị gì?",
+    "A": "Được giải trình, khiếu nại, khởi kiện quyết định hành chính, hành vi hành chính liên quan đến quyền và lợi ích hợp pháp của mình."
+  },
+  {
+    "Q": "Trường hợp giấy tờ đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình được thực hiện như thế nào?",
+    "A": "Việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử."
+  },
+  {
+    "Q": "Luật Giao thông đường bộ số 23/2008/QH12 hết hiệu lực khi nào?",
+    "A": "Kể từ ngày Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 có hiệu lực thi hành (01/01/2025), trừ một số trường hợp chuyển tiếp."
+  },
+  {
+    "Q": "Giấy phép lái xe cấp trước ngày Luật 36/2024/QH15 có hiệu lực được sử dụng như thế nào?",
+    "A": "Được tiếp tục sử dụng theo thời hạn ghi trên giấy phép lái xe."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng A2 cũ được đổi sang hạng nào theo Luật mới?",
+    "A": "Được đổi, cấp lại sang giấy phép lái xe hạng A."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng A3 cũ được đổi sang hạng nào theo Luật mới?",
+    "A": "Được đổi, cấp lại sang giấy phép lái xe hạng B1."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng D cũ được đổi sang hạng nào theo Luật mới?",
+    "A": "Được đổi, cấp lại sang giấy phép lái xe hạng D2."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng E cũ được đổi sang hạng nào theo Luật mới?",
+    "A": "Được đổi, cấp lại sang giấy phép lái xe hạng D."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng B1 số tự động cũ được đổi sang hạng nào và với điều kiện gì?",
+    "A": "Được đổi sang hạng B với điều kiện hạn chế là chỉ được điều khiển xe ô tô số tự động."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng A1 cũ được đổi sang hạng nào và với điều kiện gì?",
+    "A": "Được đổi sang hạng A với điều kiện hạn chế là chỉ được điều khiển xe mô tô hai bánh có dung tích xi-lanh đến dưới 175 cm³ hoặc công suất động cơ điện đến dưới 14 kW."
+  },
+  {
+    "Q": "Chứng nhận đăng ký xe, biển số xe máy chuyên dùng cấp trước ngày Luật này có hiệu lực có còn giá trị không?",
+    "A": "Vẫn có giá trị sử dụng."
+  },
+  {
+    "Q": "Chứng nhận chất lượng an toàn kỹ thuật được cấp trước ngày Luật này có hiệu lực có còn giá trị không?",
+    "A": "Có giá trị sử dụng đến hết thời hạn ghi trên giấy chứng nhận đó."
+  },
+  {
+    "Q": "Nghị quyết số 73/2022/QH15 về thí điểm đấu giá biển số xe ô tô hết hiệu lực khi nào?",
+    "A": "Kể từ ngày Luật số 36/2024/QH15 có hiệu lực thi hành, trừ một số trường hợp chuyển tiếp."
+  },
+  {
+    "Q": "Trong quá trình di chuyển phương tiện vi phạm dừng đỗ, Cảnh sát giao thông có trách nhiệm gì?",
+    "A": "Phải có trách nhiệm bảo đảm an toàn cho phương tiện được di chuyển."
+  },
+  {
+    "Q": "Chi phí di chuyển phương tiện vi phạm dừng, đỗ do ai phải trả?",
+    "A": "Người điều khiển phương tiện hoặc chủ phương tiện vi phạm phải trả chi phí."
+  },
+  {
+    "Q": "Khi nào Cảnh sát giao thông có thể thuê tổ chức, cá nhân di chuyển phương tiện vi phạm?",
+    "A": "Khi không đủ điều kiện thực hiện việc di chuyển phương tiện vi phạm."
+  },
+  {
+    "Q": "Biện pháp phát hiện vi phạm pháp luật về trật tự, an toàn giao thông đường bộ bao gồm những biện pháp nào?",
+    "A": "Vận hành hệ thống giám sát; sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ; khai thác dữ liệu từ thiết bị giám sát hành trình; khai thác cơ sở dữ liệu; quan sát trực tiếp; tiếp nhận tin báo."
+  },
+  {
+    "Q": "Chứng nhận đăng ký xe cơ giới khi thay đổi chủ xe phải đáp ứng điều kiện nào?",
+    "A": "Phải có chứng nhận thu hồi đăng ký xe, biển số xe; chứng nhận quyền sở hữu hợp pháp; chứng từ hoàn thành nghĩa vụ tài chính."
+  },
+  {
+    "Q": "Đổi chứng nhận đăng ký xe trong trường hợp nào?",
+    "A": "Chứng nhận bị mờ, hỏng; cải tạo, thay đổi màu sơn; thay đổi tên, địa chỉ; hết thời hạn sử dụng; cơ quan đăng ký thay đổi cấu trúc biểu mẫu."
+  },
+  {
+    "Q": "Xe cơ giới, xe máy chuyên dùng được cấp biển số xe và đăng ký tạm thời trong những trường hợp nào?",
+    "A": "Khi có chứng nhận chất lượng an toàn kỹ thuật để di chuyển từ nhà máy đến kho, cảng; xe làm thủ tục thu hồi để tái xuất; xe đăng ký ở nước ngoài được cơ quan thẩm quyền cho phép vào Việt Nam; xe chạy thử nghiệm."
+  },
+  {
+    "Q": "Điều khiển phương tiện có chất ma túy hoặc chất kích thích trong cơ thể có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Xúc phạm, cản trở, chống đối người thi hành công vụ về bảo đảm trật tự, an toàn giao thông có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Nhập khẩu, sản xuất, lắp ráp xe cơ giới không bảo đảm chất lượng an toàn kỹ thuật có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Cố ý can thiệp, thay đổi phần mềm điều khiển của xe để gian lận kết quả kiểm định có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Chở quá số người theo quy định của pháp luật có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Vận chuyển hàng hóa cấm lưu hành hoặc không thực hiện đầy đủ quy định vận chuyển hàng nguy hiểm có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Đe dọa, tranh giành, lôi kéo hành khách có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Hủy hoại, làm hư hỏng thiết bị điều khiển, giám sát giao thông có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Ném gạch, đất, đá vào người, phương tiện đang tham gia giao thông có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Điều khiển xe cơ giới không có giấy phép lái xe có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Lái xe lạng lách, đánh võng, rú ga liên tục có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Đưa xe cơ giới không bảo đảm an toàn kỹ thuật tham gia giao thông có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Cắt, hàn, tẩy xóa, đục sửa trái phép số khung, số động cơ của xe cơ giới có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Điều khiển phương tiện tham gia giao thông đường bộ mà điều khiển vật thể bay trong phạm vi khổ giới hạn đường bộ gây cản trở có bị nghiêm cấm không?",
+    "A": "Có, trừ tàu bay không người lái, phương tiện bay siêu nhẹ được cấp phép bay."
+  },
+  {
+    "Q": "Bẻ cong, che lấp biển số xe hoặc làm thay đổi chữ, số, màu sắc của biển số xe có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Lợi dụng, lạm dụng nhiệm vụ bảo đảm trật tự giao thông để nhũng nhiễu, xâm phạm lợi ích của cá nhân có bị nghiêm cấm không?",
+    "A": "Có, đây là hành vi bị nghiêm cấm."
+  },
+  {
+    "Q": "Người điều khiển xe ô tô tải được cấp giấy phép lái xe hạng C1 cần đủ điều kiện gì về tuổi?",
+    "A": "Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng C1."
+  },
+  {
+    "Q": "Ai có thẩm quyền trừ điểm giấy phép lái xe?",
+    "A": "Người có thẩm quyền xử phạt vi phạm hành chính có thẩm quyền trừ điểm giấy phép lái xe."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng C1 cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; và các loại xe quy định cho hạng B."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng BE cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái các loại xe ô tô quy định cho hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg."
+  },
+  {
+    "Q": "Giấy phép lái xe hạng C1E cấp cho đối tượng nào?",
+    "A": "Cấp cho người lái các loại xe ô tô quy định cho hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg."
+  },
+  {
+    "Q": "Tín hiệu đèn màu vàng nhấp nháy có ý nghĩa gì đối với người điều khiển phương tiện?",
+    "A": "Được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác."
+  },
+  {
+    "Q": "Khi tín hiệu đèn xanh, người điều khiển phương tiện có phải nhường đường cho người đi bộ đang ở lòng đường không?",
+    "A": "Có, phải giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường."
+  },
+  {
+    "Q": "Tay bên phải của người điều khiển giao thông giơ về phía trước có ý nghĩa gì?",
+    "A": "Báo hiệu cho người ở phía sau và bên phải phải dừng lại; người ở phía trước được rẽ phải; người ở phía bên trái được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông."
+  },
+  {
+    "Q": "Phương tiện di chuyển với tốc độ thấp hơn phải đi về phía nào?",
+    "A": "Phải đi về bên phải theo chiều đi của mình."
+  },
+  {
+    "Q": "Trên đường có nhiều làn đường cùng chiều, khi chuyển làn đường phải có những yêu cầu nào?",
+    "A": "Chỉ được chuyển sang một làn đường liền kề; phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên."
+  },
+  {
+    "Q": "Làn đường dành riêng cho một loại phương tiện, người điều khiển loại phương tiện khác có được đi vào không?",
+    "A": "Không được đi vào làn đường đó."
+  },
+  {
+    "Q": "Xe thô sơ phải đi ở đâu khi có vạch kẻ phân làn đường?",
+    "A": "Phải đi trên làn đường bên phải trong cùng."
+  },
+  {
+    "Q": "Khi xe có tín hiệu xin vượt, người điều khiển phía sau phải báo hiệu bằng gì trong đô thị từ 22 giờ đến 05 giờ?",
+    "A": "Chỉ được báo hiệu xin vượt bằng đèn."
+  },
+  {
+    "Q": "Xe không được vượt khi gặp xe ưu tiên, đúng hay sai?",
+    "A": "Đúng."
+  },
+  {
+    "Q": "Không được vượt xe tại nơi đường giao nhau, đúng hay sai?",
+    "A": "Đúng."
+  },
+  {
+    "Q": "Không được vượt xe ở phần đường dành cho người đi bộ qua đường, đúng hay sai?",
+    "A": "Đúng."
+  },
+  {
+    "Q": "Không được vượt xe khi có người đi bộ, xe lăn của người khuyết tật qua đường, đúng hay sai?",
+    "A": "Đúng."
+  },
+  {
+    "Q": "Không được vượt xe trên cầu hẹp có một làn đường, đúng hay sai?",
+    "A": "Đúng."
+  },
+  {
+    "Q": "Khi chuyển hướng phải bảo đảm những điều kiện gì?",
+    "A": "Khi bảo đảm an toàn, không gây trở ngại cho người và phương tiện khác mới được chuyển hướng."
+  },
+  {
+    "Q": "Khi chuyển hướng, người lái xe phải nhường đường cho những ai?",
+    "A": "Phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều."
+  },
+  {
+    "Q": "Xe ô tô nền trắng có ký hiệu 'QT' được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe của cơ quan đại diện của tổ chức quốc tế và nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ chức đó."
+  },
+  {
+    "Q": "Biển số xe có ký hiệu 'CV' được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe của các nhân viên hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan lãnh sự, tổ chức quốc tế."
+  },
+  {
+    "Q": "Biển số xe có ký hiệu 'NN' được cấp cho đối tượng nào?",
+    "A": "Cấp cho xe của tổ chức, văn phòng đại diện, cá nhân nước ngoài (trừ đối tượng có ký hiệu 'CV')."
+  },
+  {
+    "Q": "Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ là loại quỹ gì?",
+    "A": "Là quỹ tài chính nhà nước ngoài ngân sách, được hình thành ở trung ương."
+  },
+  {
+    "Q": "Hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra tải trọng xe cơ giới được trang bị cho lực lượng nào?",
+    "A": "Được trang bị cho lực lượng Cảnh sát giao thông."
+  },
+  {
+    "Q": "Bộ trưởng Bộ Công an có trách nhiệm gì về hệ thống giám sát an ninh, trật tự an toàn giao thông?",
+    "A": "Ban hành quy chuẩn kỹ thuật quốc gia về hệ thống giám sát và quy định việc xây dựng, quản lý, vận hành, khai thác, sử dụng hệ thống."
+  },
+  {
+    "Q": "Cơ quan nào quản lý, vận hành hệ thống quản lý dữ liệu thiết bị giám sát hành trình?",
+    "A": "Lực lượng Cảnh sát giao thông quản lý, vận hành, sử dụng."
+  },
+  {
+    "Q": "Hệ thống quản lý dữ liệu thiết bị giám sát hành trình được kết nối, chia sẻ với những cơ quan nào?",
+    "A": "Được kết nối, chia sẻ với cơ quan quản lý đường bộ và các cơ quan liên quan."
+  },
+  {
+    "Q": "Khi phát hiện vụ tai nạn giao thông, tổ chức, cá nhân phải báo cho ai?",
+    "A": "Phải báo ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất."
+  },
+  {
+    "Q": "Người điều khiển phương tiện khác khi đi qua nơi xảy ra tai nạn giao thông có nghĩa vụ gì?",
+    "A": "Có trách nhiệm chở người bị thương đi cấp cứu (trừ xe ưu tiên, xe chở người được hưởng quyền ưu đãi, miễn trừ ngoại giao)."
+  },
+  {
+    "Q": "Ai không bắt buộc chở người bị thương đi cấp cứu khi đi qua nơi tai nạn?",
+    "A": "Xe ưu tiên, xe chở người được hưởng quyền ưu đãi, miễn trừ ngoại giao."
+  },
+  {
+    "Q": "Trong vụ tai nạn giao thông, chỉ được sử dụng phương tiện liên quan đến vụ tai nạn để đưa nạn nhân đi cấp cứu khi nào?",
+    "A": "Chỉ khi không có phương tiện nào khác và phải xác định vị trí phương tiện, vị trí nạn nhân tại hiện trường."
+  },
+  {
+    "Q": "Khi có người chết trong vụ tai nạn giao thông phải làm gì?",
+    "A": "Phải giữ nguyên hiện trường và che đậy thi thể."
+  },
+  {
+    "Q": "Cơ quan Công an khi nhận được tin báo tai nạn giao thông phải làm gì?",
+    "A": "Phải tổ chức ngay lực lượng đến hiện trường thực hiện các biện pháp giải quyết vụ tai nạn theo quy định."
+  },
+  {
+    "Q": "Người lái xe có được điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn không?",
+    "A": "Không được điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn."
+  }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ có bị nghiêm cấm không?\n\n### Ngữ cảnh:\n- 13. Chở hàng hóa vượt quá khối lượng toàn bộ, tải trọng trục, kích thước cho phép của xe hoặc  vượt quá tải trọng, kích thước giới hạn cho phép của đường bộ khi chưa được cơ quan quản lý  cấp phép hoặc không bảo đảm yêu cầu theo quy định của Luật này; chở hàng hóa trên xe có quy  định phải chằng buộc nhưng không chằng buộc hoặc chằng buộc không đúng quy định của pháp  luật; chở quá số người theo quy định của pháp luật.\n- c) Không được vượt qua dải phân cách, đu, bám vào phương tiện giao thông đường bộ đang di  chuyển; khi mang, vác vật cồng kềnh phải bảo đảm an toàn và không gây trở ngại cho người và  phương tiện tham gia giao thông đường bộ.\n- 20. Đặt, để chướng ngại vật, vật cản khác trái phép trên đường bộ; rải vật sắc nhọn, đổ chất gây  trơn trượt trên đường bộ; làm rơi vãi đất đá, hàng hóa, vật liệu xây dựng, phế thải trên đường bộ;  đổ, xả thải, làm rơi vãi hóa chất, chất thải gây mất an toàn giao thông đường bộ.\n- d) Hàng hóa vận chuyển trên xe phải được sắp xếp gọn gàng và chằng buộc chắc chắn, bảo đảm  không gây nguy hiểm cho người và phương tiện tham gia giao thông đường bộ; không cản trở  tầm nhìn của người lái xe; không được che khuất đèn, biển số xe;\n- đ) Khi vận chuyển hàng rời, vật liệu xây dựng, phế thải không để rơi vãi xuống đường hoặc gây  ra tiếng ồn, bụi bẩn trong suốt quá trình vận chuyển trên đường;\n\n### Trả lời:",
+        "pred_answer": " \n- Vận chuyển hàng hóa trên xe phải được sắp xếp gọn gàng và chằng buộc chắc chắn, bảo đảm  không gây nguy hiểm cho người và phương tiện tham gia giao thông đường bộ; không cản trở  tầm nhìn của người lái xe; không được che khuất đèn, biển số xe; không được đặt, để chướng ngại vật, vật cản khác trái phép trên đường bộ; rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ; làm rơi vãi đất đá, hàng hóa, vật liệu xây dựng, phế thải trên đường bộ; đổ, xả thải, làm rơi vãi hóa chất, chất thải gây mất an toàn giao thông đường bộ. \n\n###",
+        "ground_truth": "Có, đây là hành vi bị nghiêm cấm.",
+        "metrics": {
+            "bleu": 0.009858578046362539,
+            "rougeL": 0.07253886010362695,
+            "bertscore": 0.5996163487434387
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Đường ưu tiên được định nghĩa như thế nào?\n\n### Ngữ cảnh:\n- 4.  Đường ưu tiên  là đường mà trên đó phương tiện tham gia giao thông đường bộ được các  phương tiện tham gia giao thông đường bộ đến từ hướng khác nhường đường khi qua nơi đường  giao nhau, được cắm biển báo hiệu đường ưu tiên.\n- 2. Xe ưu tiên được quyền đi trước xe khác khi qua đường giao nhau từ bất kỳ hướng nào tới theo  thứ tự ưu tiên từ trên xuống dưới như sau:\n- 1. Tại nơi đường giao nhau giữa đường không ưu tiên với đường ưu tiên hoặc giữa đường nhánh  với đường chính thì xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe  đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới;\n- được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không  được cản trở đối với xe xin vượt.\n- a) Nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải  vào vị trí tránh, nhường đường cho xe đi ngược chiều;\n\n### Trả lời:",
+        "pred_answer": " Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện tham gia giao thông đường bộ đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.",
+        "ground_truth": "Là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên.",
+        "metrics": {
+            "bleu": 0.7566391818566534,
+            "rougeL": 0.9043478260869565,
+            "bertscore": 0.9326782822608948
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Cơ sở khám bệnh cần cung cấp thông tin gì cho cơ quan Cảnh sát giao thông?\n\n### Ngữ cảnh:\n- 3. Cơ sở khám bệnh, chữa bệnh cung cấp thông tin thống kê người bị tai nạn giao thông đường  bộ vào khám bệnh, chữa bệnh tại cơ sở khám bệnh, chữa bệnh cho cơ quan Cảnh sát giao thông.\n- 3. Cơ sở khám bệnh, chữa bệnh cấp cứu ban đầu người bị tai nạn do tai nạn giao thông đường bộ  có trách nhiệm báo ngay cho cơ quan Công an nơi gần nhất; thực hiện xét nghiệm nồng độ cồn,  chất ma túy hoặc các chất kích thích khác trong máu của người điều khiển phương tiện tham gia  giao thông đường bộ. Đối với cơ sở khám bệnh, chữa bệnh không đủ điều kiện xét nghiệm, phải  lấy mẫu máu bảo quản và chuyển mẫu máu theo đúng quy định đến cơ sở xét nghiệm.\n- 2. Cơ sở khám bệnh, chữa bệnh phải bố trí, phân công người, phương tiện sẵn sàng và nhanh  chóng có mặt tại hiện trường để sơ cứu, vận chuyển, cấp cứu nạn nhân sau khi tiếp nhận tin báo  vụ tai nạn giao thông đường bộ; hỗ trợ, cứu chữa nạn nhân bị tai nạn giao thông đường bộ trong  mọi trường hợp.\n- 1. Cơ quan, tổ chức, cá nhân khi phát hiện vụ tai nạn giao thông đường bộ phải báo ngay cho cơ  quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất.\n- a) Người được cấp giấy phép lái xe không đủ điều kiện sức khỏe theo kết luận của cơ sở khám  bệnh, chữa bệnh đối với từng hạng giấy phép lái xe;\n\n### Trả lời:",
+        "pred_answer": " Cơ sở khám bệnh, chữa bệnh cần cung cấp thông tin về số lượng người bị tai nạn giao thông đường bộ vào khám bệnh, chữa bệnh tại cơ sở khám bệnh, chữa bệnh cho cơ quan Cảnh sát giao thông. \n\n###",
+        "ground_truth": "Cung cấp thông tin thống kê người bị tai nạn giao thông đường bộ vào khám bệnh, chữa bệnh tại cơ sở.",
+        "metrics": {
+            "bleu": 0.38050105371888165,
+            "rougeL": 0.6464646464646465,
+            "bertscore": 0.8280408978462219
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Biển chỉ dẫn có tác dụng gì?\n\n### Ngữ cảnh:\n- đ) Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và  biển chỉ dẫn.\n- 7. Cọc tiêu, tường bảo vệ để hướng dẫn cho người tham gia giao thông đường bộ biết phạm vi an  toàn của nền đường và hướng đi của đường.\n- 1. Báo hiệu đường bộ bao gồm: hiệu lệnh của người điều khiển giao thông; đèn tín hiệu giao  thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu,\n- c) Người khiếm thị khi đi trên đường bộ phải có người dẫn dắt hoặc có công cụ để báo hiệu cho  người khác nhận biết là người khiếm thị;\n- 12. Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển  có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển  báo hiệu tạm thời.\n\n### Trả lời:",
+        "pred_answer": " \nBiển chỉ dẫn có tác dụng giúp người tham gia giao thông đường bộ biết được hướng đi của đường, địa điểm cần lưu ý, địa điểm cần dừng lại, địa điểm cần chuyển làn... để đảm bảo an toàn giao thông. \n\n###",
+        "ground_truth": "Để chỉ dẫn hướng đi hoặc các điều cần biết.",
+        "metrics": {
+            "bleu": 0.04298807144691974,
+            "rougeL": 0.3,
+            "bertscore": 0.7108129262924194
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Dùng tay cầm và sử dụng điện thoại khi điều khiển phương tiện đang di chuyển có bị nghiêm cấm không?\n\n### Ngữ cảnh:\n- 6. Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện  tham gia giao thông đang di chuyển trên đường bộ.\n- c) Không được vượt qua dải phân cách, đu, bám vào phương tiện giao thông đường bộ đang di  chuyển; khi mang, vác vật cồng kềnh phải bảo đảm an toàn và không gây trở ngại cho người và  phương tiện tham gia giao thông đường bộ.\n- c) Người có giấy phép lái xe quốc tế vi phạm pháp luật về trật tự, an toàn giao thông đường bộ  của Việt Nam mà bị tước quyền sử dụng giấy phép lái xe có thời hạn thì thời gian bị tước quyền  sử dụng không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam;\n- a) Kiểm tra nồng độ cồn, chất ma túy, các chất kích thích khác mà pháp luật cấm sử dụng đối với  người điều khiển phương tiện tham gia giao thông đường bộ liên quan đến tai nạn giao thông  đường bộ;\n- 18. Làm gián đoạn hoạt động hoặc làm sai lệch dữ liệu của thiết bị giám sát hành trình, camera  lắp trên xe theo quy định của Luật này.\n\n### Trả lời:",
+        "pred_answer": " \nDùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ là nghiêm cấm.",
+        "ground_truth": "Có, đây là hành vi bị nghiêm cấm.",
+        "metrics": {
+            "bleu": 0.07541356871486662,
+            "rougeL": 0.19672131147540983,
+            "bertscore": 0.7143092155456543
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Người đủ bao nhiêu tuổi được cấp giấy phép lái xe hạng D?\n\n### Ngữ cảnh:\n- i) Giấy phép lái xe hạng D được tiếp tục điều khiển xe ô tô chở người từ 09 chỗ (không kể chỗ  của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe) và các loại xe quy định cho các  giấy phép lái xe hạng B1, B2, C quy định tại các điểm đ, e, g và h khoản này;\n- i) Hạng D cấp cho người lái xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của  người lái xe); xe ô tô chở người giường nằm; các loại xe ô tô chở người quy định cho giấy phép  lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg; các loại xe quy định  cho giấy phép lái xe các hạng B, C1, C, D1, D2;\n- h) Giấy phép lái xe hạng D được đổi, cấp lại sang giấy phép lái xe hạng D2 và chứng chỉ điều  khiển xe máy chuyên dùng cho người điều khiển máy kéo có trọng tải trên 3.500 kg;\n- p) Hạng DE cấp cho người lái các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc  có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.\n- c) Giấy phép lái xe các hạng C, D1, D2, D, BE, C1E, CE, D1E, D2E và DE có thời hạn 05 năm  kể từ ngày cấp.\n\n### Trả lời:",
+        "pred_answer": " \nNgười đủ tuổi từ 18 trở lên mới được cấp giấy phép lái xe hạng D.",
+        "ground_truth": "Người đủ 27 tuổi trở lên.",
+        "metrics": {
+            "bleu": 0.13003841178614525,
+            "rougeL": 0.43750000000000006,
+            "bertscore": 0.78910893201828
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Cơ quan, tổ chức được khen thưởng hoặc hưởng quyền lợi gì khi tham gia bảo đảm trật tự giao thông?\n\n### Ngữ cảnh:\n- 5. Cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ cơ quan nhà nước thực  hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ, có thành tích thì được khen thưởng,  bị thiệt hại về tài sản thì được đền bù; người bị tổn hại về danh dự, nhân phẩm thì được khôi  phục; người bị thương, bị tổn hại về sức khỏe, tính mạng thì bản thân, gia đình được hưởng chế  độ, chính sách theo quy định của pháp luật.\n- 2. Người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường huy động người, phương tiện,  thiết bị dân sự có trách nhiệm hoàn trả ngay sau khi trường hợp cấp bách chấm dứt. Trường hợp  người, phương tiện, thiết bị dân sự được huy động làm nhiệm vụ bị thiệt hại thì được hưởng chế  độ, chính sách, đền bù; đơn vị có người huy động có trách nhiệm giải quyết việc đền bù theo quy  định của pháp luật.\n- 3. Tạo điều kiện để cơ quan, tổ chức, cá nhân trong nước, nước ngoài nghiên cứu, ứng dụng và  chuyển giao khoa học, công nghệ trong công tác bảo đảm trật tự, an toàn giao thông đường bộ,  đầu tư, xây dựng, chuyển giao hệ thống, phương tiện, thiết bị giám sát phục vụ công tác bảo đảm  trật tự, an toàn giao thông đường bộ; khuyến khích cơ quan, tổ chức, cá nhân tự nguyện tham gia  phối hợp bảo đảm trật tự, an toàn giao thông đường bộ phù hợp với quy định của pháp luật, cung  cấp thông tin, tài liệu phục vụ công tác bảo đảm trật tự, an toàn giao thông đường bộ và xử lý vi  phạm pháp luật về tr\n\n### Trả lời:",
+        "pred_answer": " Cơ quan, tổ chức được hưởng chế độ, chính sách, đền bù khi tham gia phối hợp, hỗ trợ, giúp đỡ cơ quan nhà nước thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ. Cơ quan, tổ chức được hưởng chế độ, chính sách, đền bù khi tham gia phối hợp, hỗ trợ, giúp đỡ cơ quan nhà nước thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ. Cơ quan, tổ chức được hưởng chế độ, chính sách, đền bù khi tham gia phối hợp, hỗ trợ, giúp đỡ cơ quan nhà nước thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ. Cơ quan, tổ chức được hưởng chế độ, chính sách, đền bù khi tham gia phối hợp, hỗ trợ, giúp đỡ cơ quan nhà nước thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ. Cơ quan, tổ chức được hưởng chế độ, chính sách, đền bù khi tham gia phối hợp, hỗ trợ, giúp đỡ cơ quan nhà nước thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông đường bộ. Cơ quan, tổ chức được hưởng chế độ, chính",
+        "ground_truth": "Có thành tích thì được khen thưởng; bị thiệt hại về tài sản thì được đền bù; người bị tổn hại về danh dự, nhân phẩm thì được khôi phục; người bị thương, tổn hại sức khỏe, tính mạng thì được hưởng chế độ, chính sách.",
+        "metrics": {
+            "bleu": 0.033231860258661136,
+            "rougeL": 0.26392961876832843,
+            "bertscore": 0.5658942461013794
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Sử dụng quyền xe ưu tiên khi không thực hiện nhiệm vụ có bị nghiêm cấm không?\n\n### Ngữ cảnh:\n- 24. Sử dụng quyền của xe ưu tiên khi không thực hiện nhiệm vụ theo quy định của pháp luật; lắp  đặt, sử dụng thiết bị phát tín hiệu ưu tiên không đúng quy định của pháp luật.\n- 2. Trường hợp người điều khiển phương tiện tham gia giao thông đường bộ không chấp hành tín  hiệu, hiệu lệnh dừng phương tiện và bỏ chạy thì người thi hành công vụ được thực hiện quyền  truy đuổi để ngăn chặn và xử lý hành vi vi phạm.\n- 4. Xe ưu tiên quy định tại các điểm a, b, c và d khoản 2 Điều này không bị hạn chế tốc độ; được  phép đi không phụ thuộc vào tín hiệu đèn giao thông, đi vào đường ngược chiều, các đường khác  có thể đi được; riêng đối với đường cao tốc, chỉ được đi ngược chiều trên làn dừng xe khẩn cấp;  phải tuân theo hiệu lệnh của người điều khiển giao thông, biển báo hiệu tạm thời.\n- 2. Xe ưu tiên được quyền đi trước xe khác khi qua đường giao nhau từ bất kỳ hướng nào tới theo  thứ tự ưu tiên từ trên xuống dưới như sau:\n- 5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm  tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe  ưu tiên qua trạm trong mọi tình huống, không được gây cản trở.\n\n### Trả lời:",
+        "pred_answer": " \nSử dụng quyền xe ưu tiên khi không thực hiện nhiệm vụ theo quy định của pháp luật là bị nghiêm cấm.",
+        "ground_truth": "Có, đây là hành vi bị nghiêm cấm.",
+        "metrics": {
+            "bleu": 0.15415064977510756,
+            "rougeL": 0.3111111111111111,
+            "bertscore": 0.7624433636665344
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Người điều khiển phương tiện gây tai nạn giao thông có trách nhiệm gì?\n\n### Ngữ cảnh:\n- 1. Người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường  bộ, người liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm sau đây:\n- 4. Người điều khiển phương tiện tham gia giao thông đường bộ khác khi đi qua nơi xảy ra vụ tai  nạn giao thông đường bộ có trách nhiệm chở người bị thương đi cấp cứu. Xe ưu tiên, xe chở  người được hưởng quyền ưu đãi, miễn trừ ngoại giao không bắt buộc thực hiện quy định tại  khoản này.\n- c) Các tổ chức, cá nhân liên quan đến vụ tai nạn giao thông đường bộ có trách nhiệm phối hợp  giải quyết;\n- 5. Trường hợp tai nạn giao thông đường bộ liên quan đến phương tiện giao thông đường bộ chở  hàng hóa nguy hiểm, cơ quan Công an chủ trì giải quyết vụ việc phải thông báo ngay cho đơn vị  chức năng về giải quyết hóa chất độc hại, vật liệu cháy, nổ; phong tỏa hiện trường nơi xảy ra tai  nạn giao thông đường bộ; tổ chức phân luồng giao thông, cấm người, phương tiện đi vào khu  vực tai nạn.\n- 1. Khi thực hiện nhiệm vụ tuần tra, kiểm soát, chỉ huy, điều khiển giao thông đường bộ, giải  quyết tai nạn giao thông đường bộ, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo  đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có  nguy cơ xảy ra, người chỉ huy trực tiếp của Cảnh sát giao thông tại hiện trường được huy động  người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó.\n\n### Trả lời:",
+        "pred_answer": " Người điều khiển phương tiện tham gia giao thông đường bộ gây ra tai nạn giao thông đường bộ có trách nhiệm chở người bị thương đi cấp cứu. Xe ưu tiên, xe chở người được hưởng quyền ưu đãi, miễn trừ ngoại giao không bắt buộc thực hiện quy định tại khoản này.",
+        "ground_truth": "Dừng ngay phương tiện, cảnh báo nguy hiểm, giữ nguyên hiện trường, trợ giúp người bị nạn và báo tin cho cơ quan Công an, cơ sở khám bệnh hoặc Ủy ban nhân dân nơi gần nhất.",
+        "metrics": {
+            "bleu": 0.04070938970579314,
+            "rougeL": 0.323943661971831,
+            "bertscore": 0.6817734241485596
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được chi cho những hoạt động nào?\n\n### Ngữ cảnh:\n- 1. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ là quỹ tài chính nhà nước ngoài ngân  sách, được hình thành ở trung ương để huy động nguồn lực xã hội hỗ trợ giảm thiểu thiệt hại tai  nạn giao thông đường bộ.\n- 2. Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được hình thành từ các nguồn tài chính  sau đây:\n- 5. Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này; quy định việc thành lập, quản lý, sử  dụng Quỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ.\n- b) Hỗ trợ cho tổ chức, cá nhân tham gia tuyên truyền giảm thiểu thiệt hại tai nạn giao thông  đường bộ mà không được Nhà nước bảo đảm kinh phí.\n- 4. Người điều khiển phương tiện tham gia giao thông đường bộ khác khi đi qua nơi xảy ra vụ tai  nạn giao thông đường bộ có trách nhiệm chở người bị thương đi cấp cứu. Xe ưu tiên, xe chở  người được hưởng quyền ưu đãi, miễn trừ ngoại giao không bắt buộc thực hiện quy định tại  khoản này.\n\n### Trả lời:",
+        "pred_answer": " \nQuỹ giảm thiểu thiệt hại tai nạn giao thông đường bộ được chi cho những hoạt động như:\n- Hỗ trợ cho tổ chức, cá nhân tham gia tuyên truyền giảm thiểu thiệt hại tai nạn giao thông đường bộ mà không được Nhà nước bảo đảm kinh phí.\n- Chi trả cho người điều khiển phương tiện tham gia giao thông đường bộ khác khi đi qua nơi xảy ra vụ tai nạn giao thông đường bộ có trách nhiệm chở người bị thương đi cấp cứu. Xe ưu tiên, xe chở người được hưởng quyền ưu đãi, miễn trừ ngoại giao không bắt buộc thực hiện quy định tại khoản này.",
+        "ground_truth": "Hỗ trợ nạn nhân, gia đình nạn nhân; hỗ trợ tổ chức giúp đỡ, cứu chữa người bị nạn; hỗ trợ tuyên truyền giảm thiểu thiệt hại.",
+        "metrics": {
+            "bleu": 0.0663857552138245,
+            "rougeL": 0.24390243902439024,
+            "bertscore": 0.6922810077667236
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Khi hai tay hoặc một tay của người điều khiển giao thông dang ngang có ý nghĩa gì?\n\n### Ngữ cảnh:\n- b) Hai tay hoặc một tay dang ngang để báo hiệu cho người tham gia giao thông đường bộ ở phía  trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông đường  bộ ở phía bên phải và bên trái người điều khiển giao thông được đi;\n- c) Tay bên phải giơ về phía trước để báo hiệu cho người tham gia giao thông đường bộ ở phía  sau và bên phải người điều khiển giao thông phải dừng lại; người tham gia giao thông đường bộ  ở phía trước người điều khiển giao thông được rẽ phải; người tham gia giao thông đường bộ ở  phía bên trái người điều khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải  đi sau lưng người điều khiển giao thông.\n- a) Tay bên phải giơ thẳng đứng để báo hiệu cho người tham gia giao thông đường bộ ở tất cả các  hướng phải dừng lại;\n- 2. Trước khi chuyển hướng, người điều khiển phương tiện tham gia giao thông đường bộ phải  quan sát, bảo đảm khoảng cách an toàn với xe phía sau, giảm tốc độ và có tín hiệu báo hướng rẽ  hoặc có tín hiệu bằng tay theo hướng rẽ đối với xe thô sơ không có đèn báo hướng rẽ, chuyển  dần sang làn gần nhất với hướng rẽ. Tín hiệu báo hướng rẽ hoặc tín hiệu bằng tay phải sử dụng  liên tục trong quá trình chuyển hướng. Khi bảo đảm an toàn, không gây trở ngại cho người và  phương tiện khác mới được chuyển hướng.\n- 2. Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn  đường, người điều khiển phương tiện tham gia giao thông đường bộ phải cho xe đi trong một làn  đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được  phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải  quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía\n\n### Trả lời:",
+        "pred_answer": " \nCâu trả lời là: a) Tay bên phải giơ thẳng đứng để báo hiệu cho người tham gia giao thông đường bộ ở tất cả các hướng phải dừng lại.",
+        "ground_truth": "Báo hiệu cho người tham gia giao thông đường bộ ở phía trước và phía sau phải dừng lại; người ở phía bên phải và bên trái được đi.",
+        "metrics": {
+            "bleu": 0.3550131441938585,
+            "rougeL": 0.4883720930232558,
+            "bertscore": 0.775212824344635
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Đua xe trái phép, tổ chức đua xe, cổ vũ đua xe có bị nghiêm cấm không?\n\n### Ngữ cảnh:\n- 5. Đua xe, tổ chức đua xe, xúi giục, giúp sức, cổ vũ đua xe trái phép; điều khiển phương tiện  tham gia giao thông đường bộ lạng lách, đánh võng, rú ga liên tục.\n- 17. Sản xuất, sử dụng, mua, bán trái phép biển số xe; điều khiển xe cơ giới, xe máy chuyên dùng  gắn biển số xe không do cơ quan nhà nước có thẩm quyền cấp, gắn biển số xe không đúng vị trí;  bẻ cong, che lấp biển số xe; làm thay đổi chữ, số, màu sắc, hình dạng, kích thước của biển số xe.\n- 3. Điều khiển phương tiện tham gia giao thông đường bộ mà trong cơ thể có chất ma túy hoặc  chất kích thích khác mà pháp luật cấm sử dụng.\n- 4. Việc bảo vệ công trình đường bộ khi cho phép xe quá khổ giới hạn, xe quá tải trọng, xe bánh  xích lưu hành trên đường bộ được quy định như sau:\n- 5. Mọi hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ phải được phát hiện,  ngăn chặn kịp thời và phải bị xử lý nghiêm minh theo quy định của pháp luật.\n\n### Trả lời:",
+        "pred_answer": " \nĐua xe, tổ chức đua xe, cổ vũ đua xe trái phép là những hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. Do đó, những hành vi này sẽ bị nghiêm cấm.",
+        "ground_truth": "Có, đây là hành vi bị nghiêm cấm.",
+        "metrics": {
+            "bleu": 0.0911209149063426,
+            "rougeL": 0.30769230769230765,
+            "bertscore": 0.7600761651992798
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Xe ô tô nền trắng có ký hiệu 'QT' được cấp cho đối tượng nào?\n\n### Ngữ cảnh:\n- e) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “QT” cấp cho xe của cơ quan  đại diện của tổ chức quốc tế và nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ  chức đó;\n- h) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “NN” cấp cho xe của tổ chức, văn  phòng đại diện, cá nhân nước ngoài, trừ đối tượng quy định tại điểm g khoản này;\n- g) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “CV” cấp cho xe của các nhân viên  hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan  lãnh sự, tổ chức quốc tế;\n- a) Biển số xe nền màu xanh, chữ và số màu trắng cấp cho xe của cơ quan Đảng, Nhà nước, tổ  chức chính trị - xã hội, đơn vị sự nghiệp công lập;\n- đ) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “NG” cấp cho xe của cơ quan  đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao  của cơ quan đó;\n\n### Trả lời:",
+        "pred_answer": " Xe ô tô nền trắng có ký hiệu 'QT' được cấp cho đối tượng là nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ chức quốc tế. \n\n###",
+        "ground_truth": "Cấp cho xe của cơ quan đại diện của tổ chức quốc tế và nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ chức đó.",
+        "metrics": {
+            "bleu": 0.44468867380926336,
+            "rougeL": 0.6428571428571429,
+            "bertscore": 0.7901242971420288
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Đỗ xe được định nghĩa như thế nào?\n\n### Ngữ cảnh:\n- 2. Đỗ xe là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển  phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc  thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường,  chèn bánh.\n- a) Xe ô tô gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt  động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo  sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối  với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao  gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;\n- 1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn  đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía  trước.\n- e) Ngồi về một bên điều khiển xe; đứng, nằm trên xe điều khiển xe; thay người lái xe khi xe đang  chạy; quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe; sử dụng chân chống  hoặc vật khác quệt xuống đường khi xe đang chạy;\n- 1. Dừng xe là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho  người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. Khi dừng xe  không được tắt máy và không được rời khỏi vị trí lái, trừ trường hợp rời khỏi vị trí lái để đóng,  mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ xe hoặc thực  hiện biện pháp an toàn khác.\n\n### Trả lời:",
+        "pred_answer": " Đỗ xe là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác.",
+        "ground_truth": "Là trạng thái đứng yên của xe không giới hạn thời gian.",
+        "metrics": {
+            "bleu": 0.22669629371608005,
+            "rougeL": 0.45454545454545453,
+            "bertscore": 0.8103973269462585
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Không được sử dụng còi liên tục, đúng hay sai?\n\n### Ngữ cảnh:\n- 2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử  dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân  cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.\n- 1. Chỉ được sử dụng tín hiệu còi của phương tiện tham gia giao thông đường bộ trong các trường  hợp sau đây:\n- 5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe  thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu  báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau  trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm  trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.\n- 12. Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển  có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển  báo hiệu tạm thời.\n- giờ ngày hôm trước đến 06 giờ ngày hôm sau phải sử dụng đèn hoặc có báo hiệu ở phía trước và  phía sau xe.\n\n### Trả lời:",
+        "pred_answer": " Sai. \n\n###",
+        "ground_truth": "Đúng, không được sử dụng còi liên tục.",
+        "metrics": {
+            "bleu": 0.10043553373039076,
+            "rougeL": 0.0,
+            "bertscore": 0.6255318522453308
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Khi qua cầu phao, xe cơ giới phải đi như thế nào?\n\n### Ngữ cảnh:\n- b) Khi xuống phà, xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống  sau; khi lên bến, người đi bộ lên trước, các phương tiện giao thông đường bộ lên sau theo hướng  dẫn của người điều khiển giao thông.\n- Trong trường hợp các xe cùng thứ tự ưu tiên đến bến phà, cầu phao thì xe nào đến trước được  qua trước.\n- 2. Khi vượt các xe phải vượt bên trái; trường hợp khi xe phía trước có tín hiệu rẽ trái hoặc đang  rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái thì được  vượt về bên phải.\n- b) Xe thô sơ, người đi bộ phải đi sát về phía bên phải theo chiều đi của mình, không gây cản trở  xe cơ giới, xe máy chuyên dùng;\n- 3. Xe cứu hộ giao thông đường bộ phải tuân thủ quy định của pháp luật về khối lượng hàng hóa  chuyên chở của xe cứu hộ và khối lượng của xe được cứu hộ ghi trên Chứng nhận kiểm định an  toàn kỹ thuật và bảo vệ môi trường.\n\n### Trả lời:",
+        "pred_answer": " \nKhi qua cầu phao, xe cơ giới phải đi như thế nào? Xe cơ giới phải đi ở giữa đường, cách hai làn xe bên cạnh một làn. Xe thô sơ, người đi bộ phải đi sát về phía bên phải theo chiều đi của mình, không gây cản trở xe cơ giới, xe máy chuyên dụng. Xe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới. \n\nXe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới. Xe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới. Xe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới. Xe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới. Xe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới. Xe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới. Xe cần di chuyển phải di chuyển sang làn xe bên kia để đảm bảo an toàn cho xe cơ giới.",
+        "ground_truth": "Phải đi theo một hàng theo chiều di chuyển, không gây cản trở người, phương tiện đi ngược chiều.",
+        "metrics": {
+            "bleu": 0.02517615648847507,
+            "rougeL": 0.12607449856733524,
+            "bertscore": 0.6626124978065491
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng những điều kiện gì?\n\n### Ngữ cảnh:\n- 2. Người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải đủ tuổi, sức khỏe  theo quy định của pháp luật; có bằng hoặc chứng chỉ điều khiển xe máy chuyên dùng phù hợp  loại xe máy chuyên dùng đang điều khiển; có giấy phép lái xe đang còn điểm, còn hiệu lực hoặc  chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ. Khi tham gia giao thông  đường bộ, người điều khiển xe máy chuyên dùng phải mang theo các loại giấy tờ sau đây:\n- 1. Người lái xe, người điều khiển xe máy chuyên dùng trên đường cao tốc phải tuân thủ quy tắc  giao thông đường bộ sau đây:\n- c) Xe cơ giới, xe máy chuyên dùng khi chở hàng hóa có kích thước bao ngoài của xe và hàng hóa  vượt quá kích thước giới hạn cho phép xếp hàng hóa của xe hoặc quá khổ giới hạn của đường bộ.\n- 8. Đưa xe cơ giới, xe máy chuyên dùng không bảo đảm quy định của pháp luật về an toàn kỹ  thuật và bảo vệ môi trường, phương tiện khác không đủ điều kiện theo quy định của pháp luật để  tham gia giao thông đường bộ.\n- 7. Giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện theo quy định của pháp  luật để điều khiển xe tham gia giao thông đường bộ.\n\n### Trả lời:",
+        "pred_answer": " Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng những điều kiện sau:\n\n-",
+        "ground_truth": "Được cấp chứng nhận đăng ký xe và gắn biển số xe theo quy định; bảo đảm chất lượng an toàn kỹ thuật và bảo vệ môi trường theo quy định.",
+        "metrics": {
+            "bleu": 0.03426009381054487,
+            "rougeL": 0.2191780821917808,
+            "bertscore": 0.6727020740509033
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Khi xe từ 29 chỗ trở lên chở từ 27 trẻ em mầm non và học sinh tiểu học trở lên phải bố trí bao nhiêu người quản lý?\n\n### Ngữ cảnh:\n- 3. Khi đưa đón trẻ em mầm non, học sinh tiểu học phải bố trí tối thiểu 01 người quản lý trên mỗi  xe ô tô để hướng dẫn, giám sát, duy trì trật tự và bảo đảm an toàn cho trẻ em mầm non, học sinh  tiểu học trong suốt chuyến đi. Trường hợp xe từ 29 chỗ trở lên (không kể chỗ của người lái xe)  mà chở từ 27 trẻ em mầm non và học sinh tiểu học trở lên phải bố trí tối thiểu 02 người quản lý  trên mỗi xe ô tô. Người quản lý, người lái xe có trách nhiệm kiểm tra trẻ em mầm non, học sinh  tiểu học khi xuống xe; không được để trẻ em mầm non, học sinh tiểu học trên xe khi người quản  lý và người lái xe đã rời xe.\n- b) Xe ô tô chở trẻ em mầm non hoặc học sinh tiểu học phải có dây đai an toàn phù hợp với lứa  tuổi hoặc sử dụng xe có ghế ngồi phù hợp với lứa tuổi theo quy định của pháp luật.\n- 1. Xe ô tô kinh doanh vận tải chở trẻ em mầm non, học sinh phải đáp ứng các yêu cầu sau đây:  a) Bảo đảm các điều kiện quy định tại khoản 1 và khoản 2 Điều 35 của Luật này; có thiết bị ghi  nhận hình ảnh trẻ em mầm non, học sinh và thiết bị có chức năng cảnh báo, chống bỏ quên trẻ  em trên xe; có niên hạn sử dụng không quá 20 năm; có màu sơn theo quy định của Chính phủ;\n- 5. Cơ sở giáo dục phải xây dựng quy trình bảo đảm an toàn khi đưa đón trẻ em mầm non, học  sinh; hướng dẫn cho lái xe và người quản lý trẻ em mầm non, học sinh nắm vững và thực hiện  đúng quy trình; chịu trách nhiệm bảo đảm trật tự, an toàn giao thông đường bộ khi tổ chức đưa  đón trẻ em mầm non, học sinh của cơ sở giáo dục\n\n### Trả lời:",
+        "pred_answer": " \n- 2 người quản lý trên mỗi xe ô tô.",
+        "ground_truth": "Tối thiểu 02 người quản lý trên mỗi xe ô tô.",
+        "metrics": {
+            "bleu": 0.7369231628533762,
+            "rougeL": 0.7857142857142857,
+            "bertscore": 0.9024057388305664
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Khi điều khiển phương tiện trong hầm đường bộ, xe cơ giới phải bật loại đèn gì?\n\n### Ngữ cảnh:\n- Người điều khiển phương tiện tham gia giao thông đường bộ khi điều khiển phương tiện trong  hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ sau đây:\n- 2. Không dừng xe, đỗ xe trong hầm đường bộ; trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng  khác buộc phải dừng xe, đỗ xe, người lái xe, người điều khiển xe máy chuyên dùng phải đưa xe  vào vị trí dừng xe, đỗ xe khẩn cấp, nếu không di chuyển được, phải có báo hiệu bằng đèn khẩn  cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách bảo đảm an toàn, nhanh chóng  báo cho cơ quan Cảnh sát giao thông thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông trên  tuyến hoặc cơ quan quản lý hầm đường bộ;\n- 1. Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu gần; xe thô sơ phải bật đèn hoặc có vật  phát sáng báo hiệu;\n- 5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe  thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu  báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau  trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm  trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.\n- 3. Người lái xe, người điều khiển xe máy chuyên dùng khi thực hiện công việc trên đường bộ  phải bật sáng đèn cảnh báo màu vàng.\n\n### Trả lời:",
+        "pred_answer": " Đèn khẩn cấp. \n\n###",
+        "ground_truth": "Phải bật đèn chiếu gần.",
+        "metrics": {
+            "bleu": 0.18575057999133598,
+            "rougeL": 0.2857142857142857,
+            "bertscore": 0.7221599817276001
+        }
+    },
+    {
+        "prompt": "### Hướng dẫn: Trả lời câu hỏi dựa trên ngữ cảnh.\n\n### Câu hỏi: Biển số xe có ký hiệu 'NG' được cấp cho đối tượng nào?\n\n### Ngữ cảnh:\n- đ) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “NG” cấp cho xe của cơ quan  đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao  của cơ quan đó;\n- h) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “NN” cấp cho xe của tổ chức, văn  phòng đại diện, cá nhân nước ngoài, trừ đối tượng quy định tại điểm g khoản này;\n- e) Biển số xe nền màu trắng, chữ màu đỏ, số màu đen, có ký hiệu “QT” cấp cho xe của cơ quan  đại diện của tổ chức quốc tế và nhân viên nước ngoài mang chứng minh thư ngoại giao của tổ  chức đó;\n- g) Biển số xe nền màu trắng, chữ và số màu đen, có ký hiệu “CV” cấp cho xe của các nhân viên  hành chính kỹ thuật mang chứng minh thư công vụ của các cơ quan đại diện ngoại giao, cơ quan  lãnh sự, tổ chức quốc tế;\n- a) Biển số xe được cấp và quản lý theo mã định danh của chủ xe là cá nhân, tổ chức; trường hợp  tổ chức chưa có mã định danh thì quản lý theo mã số thuế, quyết định thành lập hoặc giấy tờ  tương đương;\n\n### Trả lời:",
+        "pred_answer": " \nBiển số xe có ký hiệu \"NG\" được cấp cho đối tượng là cơ quan đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao của cơ quan đó.",
+        "ground_truth": "Cấp cho xe của cơ quan đại diện ngoại giao, cơ quan lãnh sự và nhân viên nước ngoài mang chứng minh thư ngoại giao.",
+        "metrics": {
+            "bleu": 0.551119364123539,
+            "rougeL": 0.7586206896551724,
+            "bertscore": 0.8753682971000671
+        }
+    }
+]

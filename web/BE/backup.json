@@ -1,0 +1,781 @@
+[
+{
+    "model": "chat.chatmodel",
+    "pk": 1,
+    "fields": {
+        "model_name": "gemini-2.5-flash-lite",
+        "provider_name": "google",
+        "is_active": true
+    }
+},
+{
+    "model": "chat.chatmodel",
+    "pk": 2,
+    "fields": {
+        "model_name": "gemini-2.5-flash",
+        "provider_name": "google",
+        "is_active": true
+    }
+},
+{
+    "model": "chat.chatmodel",
+    "pk": 3,
+    "fields": {
+        "model_name": "llm_rag_finetuned",
+        "provider_name": "hf",
+        "is_active": false
+    }
+},
+{
+    "model": "chat.chatmodel",
+    "pk": 4,
+    "fields": {
+        "model_name": "llm_finetuned",
+        "provider_name": "hf",
+        "is_active": false
+    }
+},
+{
+    "model": "chat.chatmodel",
+    "pk": 5,
+    "fields": {
+        "model_name": "llm_rag_no_finetuned",
+        "provider_name": "hf",
+        "is_active": false
+    }
+},
+{
+    "model": "chat.chatmodel",
+    "pk": 6,
+    "fields": {
+        "model_name": "llm_no_finetuned",
+        "provider_name": "hf",
+        "is_active": false
+    }
+},
+{
+    "model": "chat.chatmodellog",
+    "pk": 3,
+    "fields": {
+        "modified_at": "2026-03-23T10:43:24.181Z",
+        "model": 1
+    }
+},
+{
+    "model": "chat.chatmodellog",
+    "pk": 4,
+    "fields": {
+        "modified_at": "2026-04-20T07:19:55.947Z",
+        "model": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 1,
+    "fields": {
+        "query": "Compare frequency domain and spatial domain?",
+        "response": "The spatial domain and frequency domain represent different ways of looking at and manipulating data, particularly in image processing.\n\nIn the **spatial domain**, operations are performed directly on the pixels of an image. Techniques in this domain are generally simple to implement and require lower computational cost. However, they tend to be less robust against tampering and attacks (page 3, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 4.2. According to the Workspace Used). An example is modifying low-order bits of selected pixels (page 3, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 4.2. According to the Workspace Used).\n\nThe **frequency domain** involves transforming the image into a representation based on its frequency content, such as using Discrete Fourier Transforms (DFT), Discrete Cosine Transforms (DCT), or Discrete Wavelet Transforms (DWT) (page 3, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 4.2. According to the Workspace Used). The DFT, for instance, provides a quantitative picture of the frequency content in terms of magnitude and phase (page 11, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform). Methods operating in the transform (frequency) domain are increasingly common because they offer greater robustness against various attacks and distortions. This is because messages can be hidden in significant areas of the cover image, making them more resilient to signal processing while remaining imperceptible to the human sensory system (page 3, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 4.2. According to the Workspace Used; page 7, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 9. Transform Domain General Features). For example, DCTs are used to convert image processing data from the spatial domain to the frequency domain, representing it as a summation of cosine waves oscillating at different frequencies (page 4, Test file, Discrete Cosine Transformation).\n\nA key property linking these domains is that scaling in the spatial domain results in inverse scaling in the Fourier (frequency) domain; as spatial scale expands, the frequency scale contracts, and amplitude increases vertically to maintain constant area (page 11, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform).",
+        "timestamp": "2026-03-23T10:30:03.974Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 2,
+    "fields": {
+        "query": "What is frequency? Give me a short answer",
+        "response": "Frequency refers to the rate at which a signal or image repeats, and in the context of transformations like the Discrete Fourier Transform (DFT), it describes the frequency content in terms of magnitude and phase. High frequency components in an image can represent fine details, while lower frequencies represent broader, less detailed aspects. (11, Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform), (2, adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, b. Dct Based Watermarking Schemes: ).",
+        "timestamp": "2026-03-23T10:40:29.035Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 3,
+    "fields": {
+        "query": "What is frequency? Give me a 1 sentence answer",
+        "response": "Frequency refers to the rate at which something occurs or is repeated over a particular period of time or in a given sample. (files/Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform)",
+        "timestamp": "2026-03-23T10:43:46.390Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 4,
+    "fields": {
+        "query": "What is spatial domain? Give me a 1 sentence answer",
+        "response": "In image processing, the spatial domain refers to the domain where images are represented directly by their pixel values. Methods that modify these pixel values to embed information, such as watermarking, are considered spatial domain methods. (Reference 1, III. SPATIAL & TRANSFORM DOMAIN WATERMARKING SCHEMES). A spatial operator, denoted as Tp(.), defined within a neighborhood 'p' of a pixel, can be used to modify an original image (fi) into a modified image (gi). (Reference 4, Blank; Reference 5, WATERMARKING TECHNIQUES). Scaling operations in the spatial domain have an inverse effect in the Fourier domain. (Reference 2, 11.3. Discrete Fourier Transform).",
+        "timestamp": "2026-03-25T01:36:36.160Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 5,
+    "fields": {
+        "query": "What can it do?",
+        "response": "I am sorry, but the provided references do not contain information about what spatial domain methods can do. The references discuss watermarking in the frequency domain, applications of watermarking, robustness attacks, and embedding watermarks in different frequency ranges.",
+        "timestamp": "2026-03-25T01:37:28.149Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 6,
+    "fields": {
+        "query": "what can the other do?",
+        "response": "Frequency domain methods are used in steganography to achieve covert communication between two parties. The existence of this communication is unknown to potential attackers. (files/Frequency_Domain_Watermarking_An_Overvie.pdf, 1. Introduction )",
+        "timestamp": "2026-03-25T01:38:28.030Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 7,
+    "fields": {
+        "query": "What is frequency domain?",
+        "response": "The frequency domain in image processing refers to the representation of an image based on its frequency content. Instead of looking at pixel values directly (spatial domain), the frequency domain analyzes how quickly pixel values change across the image. This is achieved through transforms like the Discrete Fourier Transform (DFT) or Discrete Cosine Transform (DCT). The DFT, for instance, provides a quantitative measure of the frequency components in an image, including their magnitude and phase, which is crucial for signal and image processing and analysis. The frequency domain is particularly useful for watermarking because it allows information to be embedded in different frequency bands, offering robustness against attacks and distortions while remaining imperceptible to the human eye. For example, the DCT can decompose an image into various frequency bands, enabling watermarks to be placed in middle frequency bands, which balances visual importance, compression, and noise resilience. (Reference 2, 11.3. Discrete Fourier Transform, page 11), (Reference 3, b. Dct Based Watermarking Schemes:, page 2), (Reference 4, 9. Transform Domain General Features, page 7), (Reference 5, 9. Transform Domain General Features, page 7). Scaling in the spatial domain, for instance, results in an inverse scaling in the Fourier domain (Reference 1, 11.3. Discrete Fourier Transform, page 11).",
+        "timestamp": "2026-04-13T10:00:54.366Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 8,
+    "fields": {
+        "query": "What is frequency domain?",
+        "response": "In image processing, the frequency domain represents the frequency content of an image in terms of magnitude and phase. This representation is crucial for analyzing and processing signals and images across various physical problems. Specifically, the Discrete Fourier Transform (DFT) provides a quantitative picture of this frequency content.\n\nThe frequency domain is particularly useful because it allows for the breakdown of an image into different frequency bands. For instance, high-frequency components are represented in the frequency domain. This capability enables operations like embedding watermarking information into specific frequency bands, such as the middle frequency bands, which can offer a balance between visual importance and resistance to removal through compression and noise.\n\nFurthermore, transformations in the spatial domain have corresponding effects in the frequency domain. For example, scaling in the spatial domain results in inverse scaling in the Fourier domain, where an expansion in spatial scale leads to a contraction in frequency scale, with amplitude adjustments to maintain a constant area.\n\n**Citations:**\n\n*   \"The DFT of a function provides a quantitative picture of the frequency content in terms of magnitude and phase. This is important in a wide range of physical problems and is fundamental to the processing and analysis of signals and images.\" (page 11, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform)\n*   \"However in the frequency domain it represents the high frequency components.\" (page 2, files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, b. Dct Based Watermarking Schemes:)\n*   \"Scaling in the spatial domain causes inverse scaling in the Fourier domain (i. e., as spatial scale expands, the frequency scale contracts and the amplitude increases vertically in such a way to keep the area constant):\" (page 11, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform)",
+        "timestamp": "2026-04-19T04:38:35.952Z",
+        "used_model": 1,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 9,
+    "fields": {
+        "query": "Compare frequency domain and spatial domain?",
+        "response": "In image processing, the spatial domain and frequency domain represent two different ways of viewing and manipulating image data.\n\n**Spatial Domain:**\n*   **Characteristics:** This is the most intuitive domain, where images are represented as a grid of pixels, each with an intensity value. Operations in the spatial domain directly manipulate these pixel values.\n*   **Typical Operations:** Common operations include point processing (like contrast adjustment and thresholding) and neighborhood processing (like blurring, sharpening, and edge detection).\n*   **Applications:** Many basic image enhancement and manipulation tasks are performed in the spatial domain.\n\n**Frequency Domain:**\n*   **Characteristics:** In this domain, an image is represented by its frequency components, typically obtained through the Discrete Fourier Transform (DFT). The DFT provides a quantitative measure of the frequency content of an image in terms of magnitude and phase. This is crucial for analyzing and processing signals and images.\n*   **Typical Operations:** Operations in the frequency domain often involve modifying the frequency components. For instance, scaling in the spatial domain leads to inverse scaling in the Fourier domain, where an expansion in spatial scale results in a contraction of the frequency scale and an increase in amplitude to maintain a constant area.\n*   **Applications:** The frequency domain is particularly useful for tasks such as image filtering (e.g., removing periodic noise), compression, and watermarking. Transform domain methods, like those in the frequency domain, can embed messages in significant areas of the image, making them robust against attacks and distortions, while remaining imperceptible to the human visual system (Reference 5).\n\n**Comparison and Contrast:**\n\n*   **Representation:** Spatial domain deals with pixel intensity values, while the frequency domain deals with the frequency components (magnitude and phase) of the image.\n*   **Operations:** Spatial domain operations directly affect pixels, whereas frequency domain operations modify the frequency spectrum.\n*   **Relationship:** There is an inverse relationship between spatial scaling and frequency scaling. As the spatial scale expands, the frequency scale contracts, and the amplitude adjusts to keep the area constant (References 1, 2).\n*   **Robustness:** Frequency domain methods are generally more robust to distortions and attacks compared to spatial domain methods, especially in applications like watermarking (Reference 5).\n*   **Information:** The DFT in the frequency domain offers a clear picture of the image's frequency content, which is fundamental for many processing and analysis tasks (References 3, 4).",
+        "timestamp": "2026-04-19T04:52:30.184Z",
+        "used_model": 1,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 10,
+    "fields": {
+        "query": "What is frequency domain?",
+        "response": "In image processing, the frequency domain represents the frequency content of an image in terms of magnitude and phase. This is crucial for analyzing and processing signals and images. Techniques like the Discrete Fourier Transform (DFT) provide a quantitative view of this frequency content. The frequency domain is also useful for tasks such as image watermarking, where information can be embedded into specific frequency bands, like the middle frequency bands, to balance visual importance and robustness against removal.\n\n(page 11, files/Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform)\n(page 11, Frequency_Domain_Watermarking_An_Overview.pdf, 11.3. Discrete Fourier Transform)\n(page 2, files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, b. Dct Based Watermarking Schemes: )",
+        "timestamp": "2026-04-20T07:05:24.488Z",
+        "used_model": 1,
+        "chat_session": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 11,
+    "fields": {
+        "query": "What is frequency domain?",
+        "response": "In image processing, the frequency domain represents the frequency content of an image in terms of magnitude and phase. This is crucial for analyzing and processing signals and images. Techniques like the Discrete Fourier Transform (DFT) and Discrete Cosine Transform (DCT) operate in the frequency domain. The DCT, for instance, decomposes an image into different frequency bands, allowing for watermarking information to be embedded in the middle frequency bands to balance visual importance and resistance to removal. Scaling in the spatial domain has an inverse effect in the Fourier domain, where an expansion in spatial scale leads to a contraction in frequency scale and an increase in amplitude to maintain a constant area. (files/Frequency_Domain_Watermarking_An_Overvie.pdf, 11.3. Discrete Fourier Transform), (Frequency_Domain_Watermarking_An_Overview.pdf, 11.3. Discrete Fourier Transform), (files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, b. Dct Based Watermarking Schemes: )",
+        "timestamp": "2026-04-20T07:05:53.134Z",
+        "used_model": 1,
+        "chat_session": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 12,
+    "fields": {
+        "query": "What can it do?",
+        "response": "Based on the provided references, there is no information that directly describes what the frequency domain can do. The references discuss applications where watermarking is useful, robustness attacks against watermarks, and the general framework of watermarking, but they do not elaborate on the specific capabilities or functions of the frequency domain itself.",
+        "timestamp": "2026-04-20T07:20:47.732Z",
+        "used_model": 2,
+        "chat_session": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 13,
+    "fields": {
+        "query": "Có thể trả lời cho tôi lại bằng tiếng việt không?",
+        "response": "Tôi xin lỗi, nhưng các tài liệu tham khảo được cung cấp không chứa thông tin liên quan đến khả năng trả lời bằng tiếng Việt của tôi. Các tài liệu này chủ yếu nói về gắn thẻ từ loại (POS tagging), các tính năng cho bộ nhận dạng thực thể có tên (CRF Named Entity Recognizers), và các tài liệu tham khảo học thuật khác.",
+        "timestamp": "2026-04-20T07:26:46.809Z",
+        "used_model": 2,
+        "chat_session": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 14,
+    "fields": {
+        "query": "Có thể nói cho tôi miền tần số là gì không?",
+        "response": "## Answer\nThông tin về \"miền tần số\" không có trong các tài liệu tham khảo được cung cấp.",
+        "timestamp": "2026-04-20T07:31:26.768Z",
+        "used_model": 2,
+        "chat_session": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 15,
+    "fields": {
+        "query": "What is frequency domain?",
+        "response": "## Answer\nThe frequency domain provides a quantitative representation of the frequency content of a function, signal, or image, expressed in terms of magnitude and phase (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform).\n\nIn the frequency domain:\n*   High-frequency components are represented (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, Section: b. Dct Based Watermarking Schemes:).\n*   An image can be broken down into different frequency bands, making it easier to embed information into specific bands, such as middle frequencies (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, Section: b. Dct Based Watermarking Schemes:).\n*   Scaling in the spatial domain results in inverse scaling in the Fourier (frequency) domain; if the spatial scale expands, the frequency scale contracts, and amplitude increases vertically to maintain a constant area (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform).\n\nUnderstanding the properties of the Discrete Fourier Transform (DFT) is fundamental for processing and analyzing signals and images efficiently (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform).\n\n## Sources\n- (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform)\n- (Page 11, File: Frequency_Domain_Watermarking_An_Overview.pdf, Section: 11.3. Discrete Fourier Transform)\n- (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, Section: b. Dct Based Watermarking Schemes:)",
+        "timestamp": "2026-04-20T07:32:24.632Z",
+        "used_model": 2,
+        "chat_session": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 16,
+    "fields": {
+        "query": "What does a watermarking system look like?",
+        "response": "## Answer\n\nA watermarking system can be understood as having a detection (extraction) component and can be viewed as a spread-spectrum communication system (Page 2, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 2. Watermarking Framework).\n\nThe watermark detection system (extraction) operates with the following inputs:\n*   The possibly distorted watermarked cover.\n*   A key.\n*   Depending on the method, either the original cover or the original watermark (Page 2, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 2. Watermarking Framework).\n\nIts output is either the recovered watermark or a confidence measure that indicates the likelihood of a given watermark being present in the work under inspection (e.g., correlation) (Page 2, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 2. Watermarking Framework).\n\nCurrent watermarking schemes can be conceptualized as spread-spectrum communication systems. In this analogy, the goal is to transmit the watermark between two parties, encountering two sources of noise: noise from the original cover and noise from processing (Page 2, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 2. Watermarking Framework).\n\n## Sources\n- (Page 2, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 2. Watermarking Framework)\n- (Page 2, File: Frequency_Domain_Watermarking_An_Overview.pdf, Section: 2. Watermarking Framework)",
+        "timestamp": "2026-04-20T07:37:25.710Z",
+        "used_model": 2,
+        "chat_session": 1
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 17,
+    "fields": {
+        "query": "What is spatial domain?",
+        "response": "## Answer\nThe spatial domain refers to a method where a watermark is embedded into an image by directly altering the pixel values of the host image (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, Section: III. SPATIAL & TRANSFORM DOMAIN WATERMARKING SCHEMES). In contrast, the transform domain involves inserting watermarks into the transformed coefficients of an image (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, Section: III. SPATIAL & TRANSFORM DOMAIN WATERMARKING SCHEMES).\n\nScaling in the spatial domain leads to inverse scaling in the Fourier domain (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform).\n\n## Sources\n- (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, Section: III. SPATIAL & TRANSFORM DOMAIN WATERMARKING SCHEMES)\n- (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform)\n- (Page 11, File: Frequency_Domain_Watermarking_An_Overview.pdf, Section: 11.3. Discrete Fourier Transform)",
+        "timestamp": "2026-04-20T09:18:21.768Z",
+        "used_model": 2,
+        "chat_session": 2
+    }
+},
+{
+    "model": "chat.message",
+    "pk": 34,
+    "fields": {
+        "query": "What is spatial domain?",
+        "response": "## Answer\nThe spatial domain refers to methods where an image is processed by directly modifying its pixel values (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf). In this domain, operations can involve a spatial operator defined in the neighborhood of a given pixel to modify an image (Page 2, File: 1406.2146v2.pdf, Section: Blank), (Page 2, File: Test file, Section: WATERMARKING TECHNIQUES). For example, scaling in the spatial domain affects the frequency scale in the Fourier domain (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform), (Page 11, File: Frequency_Domain_Watermarking_An_Overview.pdf, Section: 11.3. Discrete Fourier Transform).\n\n## Sources\n- (Page 2, File: files/adminJournalmanagerL_7211_5_cDS8Lru.4682.pdf, Section: III. SPATIAL & TRANSFORM DOMAIN WATERMARKING SCHEMES )\n- (Page 11, File: files/Frequency_Domain_Watermarking_An_Overvie.pdf, Section: 11.3. Discrete Fourier Transform)\n- (Page 11, File: Frequency_Domain_Watermarking_An_Overview.pdf, Section: 11.3. Discrete Fourier Transform)\n- (Page 2, File: 1406.2146v2.pdf, Section: Blank)\n- (Page 2, File: Test file, Section: WATERMARKING TECHNIQUES)",
+        "timestamp": "2026-04-20T10:48:37.558Z",
+        "used_model": 2,
+        "chat_session": 3
+    }
+},
+{
+    "model": "instructor.subject",
+    "pk": 1,
+    "fields": {
+        "name": "Bảo mật thông tin",
+        "instructor": [
+            1,
+            8
+        ]
+    }
+},
+{
+    "model": "instructor.subject",
+    "pk": 2,
+    "fields": {
+        "name": "Cấu trúc dữ liệu và giải thuật",
+        "instructor": [
+            1
+        ]
+    }
+},
+{
+    "model": "instructor.upload",
+    "pk": 1,
+    "fields": {
+        "file_name": "Frequency_Domain_Watermarking_An_Overview.pdf",
+        "file": "files/Frequency_Domain_Watermarking_An_Overview.pdf",
+        "subjects": [
+            1
+        ]
+    }
+},
+{
+    "model": "instructor.upload",
+    "pk": 2,
+    "fields": {
+        "file_name": "admin,+Journal+manager,+L_7211_5.4682",
+        "file": "files/adminJournalmanagerL_7211_5.4682.pdf",
+        "subjects": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "instructor.upload",
+    "pk": 4,
+    "fields": {
+        "file_name": "Test file.pdf",
+        "file": "files/1406.2146v2.pdf",
+        "subjects": [
+            1
+        ]
+    }
+},
+{
+    "model": "instructor.upload",
+    "pk": 5,
+    "fields": {
+        "file_name": "Session1.pdf",
+        "file": "files/Session1.pdf",
+        "subjects": [
+            1
+        ]
+    }
+},
+{
+    "model": "instructor.upload",
+    "pk": 6,
+    "fields": {
+        "file_name": "Frequency_Domain_Watermarking_An_Overview.pdf",
+        "file": "files/Frequency_Domain_Watermarking_An_Overview_aNYxMCm.pdf",
+        "subjects": [
+            1
+        ]
+    }
+},
+{
+    "model": "instructor.uploadhistory",
+    "pk": 20,
+    "fields": {
+        "action": "UPLOAD",
+        "actionAt": "2026-03-19T12:40:49Z",
+        "instructor": 1,
+        "upload": 2
+    }
+},
+{
+    "model": "instructor.uploadhistory",
+    "pk": 21,
+    "fields": {
+        "action": "UPLOAD",
+        "actionAt": "2026-03-19T12:40:49Z",
+        "instructor": 1,
+        "upload": 1
+    }
+},
+{
+    "model": "instructor.uploadhistory",
+    "pk": 23,
+    "fields": {
+        "action": "UPLOAD",
+        "actionAt": "2026-03-19T14:04:27.120Z",
+        "instructor": 1,
+        "upload": 4
+    }
+},
+{
+    "model": "instructor.uploadhistory",
+    "pk": 24,
+    "fields": {
+        "action": "UPLOAD",
+        "actionAt": "2026-04-13T11:02:32.320Z",
+        "instructor": 1,
+        "upload": 5
+    }
+},
+{
+    "model": "instructor.uploadhistory",
+    "pk": 25,
+    "fields": {
+        "action": "UPLOAD",
+        "actionAt": "2026-04-19T04:29:13.908Z",
+        "instructor": 1,
+        "upload": 6
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6kcp9zvao3bzva8c8pij8bs4jp2n9y4r",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlm2g3-U9DmDtetdcADZUpxUiLuTSCmgfTPz3iLBupS0dp7TROIitDj9bgj5yXUH9IB6bzK3uswTyl2RB-1ybMSv6-H-HRToZasVIyrvjA6OwEZEtkPGYND6GICcArToguV8vnkVvGEzbJ6K5J3TgcXnC-iUN68:1wIqLL:ygKpZGwESeAypiU0PyB-n9Q-RYcxXXOTG50myJNrCz8",
+        "expire_date": "2026-05-15T16:03:55.735Z"
+    }
+},
+{
+    "model": "users.customuser",
+    "fields": {
+        "last_login": "2026-05-01T16:03:55.727Z",
+        "is_superuser": true,
+        "first_name": "",
+        "last_name": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-02-15T04:03:47.989Z",
+        "email": "admin@gmail.com",
+        "username": "admin",
+        "password": "pbkdf2_sha256$1200000$LINyUgcutZEBsIZY9cSXMs$GpM0ermA3m09dQaFSmlEsRhbzPlO7BMBJBgN1IaeaDg=",
+        "role": "admin",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.customuser",
+    "fields": {
+        "last_login": "2026-03-25T01:32:54.972Z",
+        "is_superuser": false,
+        "first_name": "Nguyễn Minh Hoàng",
+        "last_name": "Vũ",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-02-15T04:32:54.090Z",
+        "email": "523h0114@student.tdtu.edu.vn",
+        "username": "nguyen_minh_hoang",
+        "password": "!UMUjibf5BciJdVogiBSXUZovInAWwsZaxs09RpUt",
+        "role": "student",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.customuser",
+    "fields": {
+        "last_login": "2026-04-20T02:36:54.413Z",
+        "is_superuser": false,
+        "first_name": "Vũ",
+        "last_name": "Nguyễn",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-02-17T09:06:05.155Z",
+        "email": "nguyenminhhoangvu2005@gmail.com",
+        "username": "vu",
+        "password": "!BNT4InmIscb3M48tDzumjZjaXkfqg9SnvX4Tdw9b",
+        "role": "instructor",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.customuser",
+    "fields": {
+        "last_login": "2026-04-20T13:37:44.170Z",
+        "is_superuser": false,
+        "first_name": "Gia Truc",
+        "last_name": "Nguyen Viet",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-20T02:41:05Z",
+        "email": "fullstackinstructor123@gmail.com",
+        "username": "gia_truc",
+        "password": "!hwhU8vfDUya5hk1oGZKN8dlt5PWnWDP81ym1Fe0B",
+        "role": "instructor",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.customuser",
+    "fields": {
+        "last_login": "2026-04-20T02:44:34.709Z",
+        "is_superuser": false,
+        "first_name": "Gia Truc",
+        "last_name": "Nguyen Viet",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-04-20T02:44:34.679Z",
+        "email": "giatrucstudent@gmail.com",
+        "username": "gia_truc5",
+        "password": "!RT1Aw5A8Vbg6odPTn5MdmjyrpkFZ5Th6MefjDBdA",
+        "role": "student",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "chat.chatsession",
+    "pk": 1,
+    "fields": {
+        "title": "Demo",
+        "created_at": "2026-03-23T10:29:23.073Z",
+        "user": [
+            "523h0114@student.tdtu.edu.vn"
+        ]
+    }
+},
+{
+    "model": "chat.chatsession",
+    "pk": 2,
+    "fields": {
+        "title": "What is frequency domain?",
+        "created_at": "2026-04-20T07:04:44.561Z",
+        "user": [
+            "giatrucstudent@gmail.com"
+        ]
+    }
+},
+{
+    "model": "chat.chatsession",
+    "pk": 3,
+    "fields": {
+        "title": "Spatial domain?",
+        "created_at": "2026-04-20T09:02:34.775Z",
+        "user": [
+            "giatrucstudent@gmail.com"
+        ]
+    }
+},
+{
+    "model": "instructor.instructor",
+    "pk": 1,
+    "fields": {
+        "on_leave": false,
+        "user": [
+            "nguyenminhhoangvu2005@gmail.com"
+        ]
+    }
+},
+{
+    "model": "instructor.instructor",
+    "pk": 8,
+    "fields": {
+        "on_leave": false,
+        "user": [
+            "fullstackinstructor123@gmail.com"
+        ]
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2026-05-01T16:05:47.952Z",
+        "user": [
+            "admin@gmail.com"
+        ],
+        "content_type": [
+            "chat",
+            "chatmodel"
+        ],
+        "object_id": "3",
+        "object_repr": "llm_rag_finetuned",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2026-05-01T16:06:02.312Z",
+        "user": [
+            "admin@gmail.com"
+        ],
+        "content_type": [
+            "chat",
+            "chatmodel"
+        ],
+        "object_id": "4",
+        "object_repr": "llm_finetuned",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2026-05-01T16:06:31.381Z",
+        "user": [
+            "admin@gmail.com"
+        ],
+        "content_type": [
+            "chat",
+            "chatmodel"
+        ],
+        "object_id": "5",
+        "object_repr": "llm_rag_no_finetuned",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2026-05-01T16:06:36.803Z",
+        "user": [
+            "admin@gmail.com"
+        ],
+        "content_type": [
+            "chat",
+            "chatmodel"
+        ],
+        "object_id": "6",
+        "object_repr": "llm_no_finetuned",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "account.emailaddress",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "523h0114@student.tdtu.edu.vn"
+        ],
+        "email": "523h0114@student.tdtu.edu.vn",
+        "verified": true,
+        "primary": true
+    }
+},
+{
+    "model": "account.emailaddress",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "nguyenminhhoangvu2005@gmail.com"
+        ],
+        "email": "nguyenminhhoangvu2005@gmail.com",
+        "verified": true,
+        "primary": true
+    }
+},
+{
+    "model": "account.emailaddress",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "fullstackinstructor123@gmail.com"
+        ],
+        "email": "fullstackinstructor123@gmail.com",
+        "verified": true,
+        "primary": true
+    }
+},
+{
+    "model": "account.emailaddress",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "giatrucstudent@gmail.com"
+        ],
+        "email": "giatrucstudent@gmail.com",
+        "verified": true,
+        "primary": true
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "523h0114@student.tdtu.edu.vn"
+        ],
+        "provider": "google",
+        "uid": "116384583088545781654",
+        "last_login": "2026-03-25T01:32:54.944Z",
+        "date_joined": "2026-02-15T04:32:54.106Z",
+        "extra_data": {
+            "hd": "student.tdtu.edu.vn",
+            "aud": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "azp": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "exp": 1774405974,
+            "iat": 1774402374,
+            "iss": "https://accounts.google.com",
+            "sub": "116384583088545781654",
+            "name": "Nguyễn Minh Hoàng Vũ",
+            "email": "523h0114@student.tdtu.edu.vn",
+            "at_hash": "AUR_AdLtFWHql2ehaWRq5g",
+            "picture": "https://lh3.googleusercontent.com/a/ACg8ocJvFnNflQ3gRMepXOfn6Xrba221TMjv2ebyaOU0AWx_3xlp7w=s96-c",
+            "given_name": "Nguyễn Minh Hoàng",
+            "family_name": "Vũ",
+            "email_verified": true
+        }
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "nguyenminhhoangvu2005@gmail.com"
+        ],
+        "provider": "google",
+        "uid": "105960484913729707169",
+        "last_login": "2026-04-20T02:36:54.394Z",
+        "date_joined": "2026-02-17T09:06:05.169Z",
+        "extra_data": {
+            "aud": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "azp": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "exp": 1776656214,
+            "iat": 1776652614,
+            "iss": "https://accounts.google.com",
+            "sub": "105960484913729707169",
+            "name": "Vũ Nguyễn",
+            "email": "nguyenminhhoangvu2005@gmail.com",
+            "at_hash": "D8EArDBs0XcL5vKqrXU_gA",
+            "picture": "https://lh3.googleusercontent.com/a/ACg8ocJwA2Cw6ZQVXRN1TvuDL0_zys_Ypo8uBRz55-aa2pBdVvSoJg=s96-c",
+            "given_name": "Vũ",
+            "family_name": "Nguyễn",
+            "email_verified": true
+        }
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "fullstackinstructor123@gmail.com"
+        ],
+        "provider": "google",
+        "uid": "105892552241612870363",
+        "last_login": "2026-04-20T13:37:44.150Z",
+        "date_joined": "2026-04-20T02:41:05.302Z",
+        "extra_data": {
+            "aud": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "azp": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "exp": 1776695866,
+            "iat": 1776692266,
+            "iss": "https://accounts.google.com",
+            "sub": "105892552241612870363",
+            "name": "Gia Truc Nguyen Viet",
+            "email": "fullstackinstructor123@gmail.com",
+            "at_hash": "4GSJCUlDCh9gUF55hofJXw",
+            "picture": "https://lh3.googleusercontent.com/a/ACg8ocJNKN-s5YrjJyVXVApQqeyc8iGEFRarL_HJzdsIi00F9Hr7dQ=s96-c",
+            "given_name": "Gia Truc",
+            "family_name": "Nguyen Viet",
+            "email_verified": true
+        }
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "giatrucstudent@gmail.com"
+        ],
+        "provider": "google",
+        "uid": "101791007963175862730",
+        "last_login": "2026-04-20T02:44:34.689Z",
+        "date_joined": "2026-04-20T02:44:34.689Z",
+        "extra_data": {
+            "aud": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "azp": "559084797749-cdmkv5dl8bdfbgtupqc6gr59e1s6j7ni.apps.googleusercontent.com",
+            "exp": 1776656674,
+            "iat": 1776653074,
+            "iss": "https://accounts.google.com",
+            "sub": "101791007963175862730",
+            "name": "Gia Truc Nguyen Viet",
+            "email": "giatrucstudent@gmail.com",
+            "at_hash": "C_Rg53Eby0sU51ynJ9XU-w",
+            "picture": "https://lh3.googleusercontent.com/a/ACg8ocJzzV9gAN0n4ya9MaAR1TVtFkya81wd54bKWvFfY2n_SwTq5w=s96-c",
+            "given_name": "Gia Truc",
+            "family_name": "Nguyen Viet",
+            "email_verified": true
+        }
+    }
+}
+]

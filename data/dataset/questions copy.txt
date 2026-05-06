@@ -1,0 +1,100 @@
+Luật Giao thông đường bộ có bao nhiêu chương?	Luật Giao thông đường bộ có 6 chương
+Ngành giao thông đường bộ bao gồm những loại đường nào?	Bao gồm đường quốc lộ, đường tỉnh lộ, đường huyện lộ, đường xã lộ, đường tư nhân và đường khác được phép khai thác công cộng
+Phương tiện giao thông đường bộ được chia thành mấy loại?	Chia thành 3 loại: xe cơ giới, xe máy và xe không có giấy phép
+Xe máy được coi là loại phương tiện nào?	Xe máy được coi là phương tiện cơ giới nhỏ gồn gọn
+Xe ô tô du lịch có tải trọng bao nhiêu là tiêu chuẩn?	Tải trọng tiêu chuẩn là từ 3,5 đến 5 tấn
+Đường bộ bao gồm những thành phần chính nào?	Bao gồm mặt đường, lề đường, dải phân cách, hệ thống cơ sở hạ tầng giao thông
+Vạch kẻ đường có mấy loại?	Có 2 loại: vạch liền và vạch đứt
+Màu vàng trên biển báo giao thông có ý nghĩa gì?	Màu vàng biểu thị cảnh báo, chú ý hoặc hạn chế
+Biển báo dừng có hình dáng như thế nào?	Hình lục giác màu đỏ với chữ DỪNG màu trắng
+Biển báo cấm đi ngược chiều có hình dáng gì?	Hình tròn với nền đỏ và mũi tên trắng chỉ lên trên
+Tuổi tối thiểu để lái xe máy là bao nhiêu?	16 tuổi
+Tuổi tối thiểu để lái xe ô tô là bao nhiêu?	18 tuổi
+Giấy phép lái xe có hiệu lực bao lâu?	10 năm kể từ ngày cấp
+Cách xử lý vi phạm giao thông gồm những hình thức nào?	Bao gồm cảnh cáo, phạt tiền, tạm giữ phương tiện, tạm giữ giấy phép lái xe, tước quyền sử dụng giấy phép lái xe, phạt lao động, khởi tố hình sự
+Phạt tiền là hình thức xử lý như thế nào?	Phạt tiền là hình thức xử lý bắt buộc người vi phạm phải nộp một khoản tiền định mức
+Tạm giữ phương tiện được áp dụng trong trường hợp nào?	Áp dụng khi phương tiện không đủ điều kiện an toàn hoặc vi phạm nặng
+Vi phạm giao thông được chia thành bao nhiêu mức?	Chia thành 4 mức: nhẹ, trung bình, nặng, rất nặng
+Mức phạt vi phạm nhẹ là bao nhiêu?	Từ 100.000 đến 500.000 đồng
+Mức phạt vi phạm trung bình là bao nhiêu?	Từ 500.000 đến 1.000.000 đồng
+Mức phạt vi phạm nặng là bao nhiêu?	Từ 1.000.000 đến 5.000.000 đồng
+Mức phạt vi phạm rất nặng là bao nhiêu?	Từ 5.000.000 đồng trở lên
+Lái xe khi không có giấy phép lái xe bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng, tạm giữ phương tiện
+Lái xe khi bị tạm giữ giấy phép lái xe bị phạt bao nhiêu?	Phạt từ 6.000.000 đến 8.000.000 đồng, tước quyền lái xe từ 3 tháng đến 12 tháng
+Vi phạm về sử dụng điện thoại di động khi lái xe bị phạt bao nhiêu?	Phạt từ 600.000 đến 1.000.000 đồng
+Vi phạm về không ghi đầy đủ số chứng chỉ hành nghề bị phạt bao nhiêu?	Phạt từ 100.000 đến 200.000 đồng
+Tốc độ tối đa cho xe ô tô trên đường cao tốc là bao nhiêu km/h?	100-120 km/h tùy thuộc vào loại đường cao tốc
+Tốc độ tối đa cho xe ô tô trên đường thường là bao nhiêu km/h?	80 km/h
+Tốc độ tối đa cho xe máy trên đường cao tốc là bao nhiêu km/h?	80 km/h
+Tốc độ tối đa cho xe máy trên đường thường là bao nhiêu km/h?	60 km/h
+Vượt ẩu bị phạt bao nhiêu?	Phạt từ 800.000 đến 1.000.000 đồng
+Chạy ngược chiều bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng
+Không nhường đường cho xe ưu tiên bị phạt bao nhiêu?	Phạt từ 600.000 đến 1.000.000 đồng
+Dừng hoặc đỗ xe ở vị trí cấm dừng bị phạt bao nhiêu?	Phạt từ 400.000 đến 600.000 đồng
+Lái xe trong tình trạng mệt mỏi bị xử lý như thế nào?	Bị cảnh cáo hoặc phạt từ 100.000 đến 300.000 đồng, có thể tạm giữ phương tiện
+Lái xe sau khi uống rượu bị phạt bao nhiêu?	Phạt từ 6.000.000 đến 8.000.000 đồng, tước quyền lái xe từ 3 tháng đến 12 tháng
+Lái xe dưới ảnh hưởng của rượu/bia bị phạt bao nhiêu?	Phạt từ 30.000.000 đến 40.000.000 đồng, tước quyền lái xe từ 12 tháng đến 36 tháng
+Nồng độ cồn cho phép đối với lái xe là bao nhiêu?	0,0% (không được phép có cồn trong máu)
+Tài xế phải tuân thủ những quy định giao thông nào?	Tuân thủ luật pháp giao thông, biển báo, tín hiệu, quy tắc đi đường
+Phương tiện phải được đăng ký ở đâu?	Tại cơ quan cảnh sát giao thông hoặc chi nhánh đăng ký xe
+Giấy đăng ký xe có giá trị bao lâu?	Có giá trị vô thời hạn nhưng phải cập nhật định kỳ
+Lệ phí trước bạ được tính như thế nào?	Tính từ 10-15% giá trị động sản tùy theo loại xe
+Hộ chiếu xe (bảo hiểm bắt buộc) là bắt buộc không?	Bắt buộc đối với tất cả các phương tiện cơ giới
+Bảo hiểm trách nhiệp dân sự bắt buộc cho loại xe nào?	Bắt buộc cho xe chở khách, xe chở hàng và xe kinh doanh vận tải
+Phần đầu xe phải được trang bị gì?	Đèn chiếu sáng, tấm che nắng, dầu chứng kiến
+Xe phải được trang bị đèn chiếu sáng loại nào?	Đèn pha trước, đèn chiếu gần, đèn đuôi, đèn xi nhan
+Chất lượng khí thải của xe phải đạt tiêu chuẩn nào?	Phải tuân thủ tiêu chuẩn khí thải Euro 4, Euro 5 hoặc hơn
+Xe phải được kiểm định kỹ thuật bao lâu một lần?	Hàng năm hoặc hàng 6 tháng tuỳ theo loại xe
+Lần kiểm định kỹ thuật đầu tiên phải thực hiện khi nào?	Sau 6 tháng từ ngày đăng ký xe
+Chứng chỉ kiểm định có hiệu lực bao lâu?	Có hiệu lực 1 năm kể từ ngày cấp
+Xe không đủ điều kiện an toàn bị xử lý như thế nào?	Bị tạm giữ, không được phép lưu thông cho đến khi đạt yêu cầu
+Biển số xe có những thông tin gì?	Chứa tỉnh/thành phố, loại phương tiện, số hiệu phương tiện
+Biển số xe không được tẩy xóa hoặc che phủ vì lý do gì?	Để đảm bảo nhận dạng phương tiện và quản lý giao thông
+Biển số xe bị rơi mất phải làm gì?	Phải đến cơ quan cảnh sát giao thông để cấp lại
+Phương tiện chở hàng quá tải bị phạt bao nhiêu?	Phạt từ 2.000.000 đến 3.000.000 đồng, tạm giữ phương tiện
+Chở hàng cấm được phạt bao nhiêu?	Phạt từ 2.000.000 đến 4.000.000 đồng, tạm giữ hàng và phương tiện
+Chở hàng khó quản lý bị phạt bao nhiêu?	Phạt từ 1.000.000 đến 2.000.000 đồng, tạm giữ phương tiện
+Hành lý trên xe phải được bố trí như thế nào?	Phải được xếp chặt, không được lòi ra ngoài hoặc cản tầm nhìn lái xe
+Chở trẻ em phải tuân thủ những quy định gì?	Trẻ em phải được bố trí ngồi trên ghế an toàn, không được ngồi ở hàng ghế trước
+Trẻ em dưới bao nhiêu tuổi phải được bố trí ngồi trên ghế ô tô đặc biệt?	Dưới 12 tuổi hoặc cao dưới 150 cm
+Ghế ngồi em bé phải có những tính năng gì?	Phải có tính năng giữ em bé, có đệm bảo vệ, đạt tiêu chuẩn an toàn
+Đèn kính chiếu sáng của xe phải sáng như thế nào?	Phải đạt độ sáng tối thiểu, không được chói mắt lái xe
+Xe phải có gương chiếu hậu bao nhiêu cái?	Tối thiểu 2 cái (gương chiếu hậu trái, phải)
+Kính chắn gió của xe phải đạt tiêu chuẩn gì?	Phải có độ trong suốt tối thiểu 70%, không được nứt hay mờ
+Lốp xe phải được thay khi nào?	Khi độ sâu gai lốp dưới 1,6mm hoặc lốp bị hỏng
+Xe phải được trang bị dụng cụ cứu thương gì?	Phải có hộp cứu thương đầy đủ các vật dụng cơ bản
+Áo phản quang phải được sử dụng khi nào?	Khi dừng xe trên đường vào ban đêm hoặc trong điều kiện tầm nhìn kém
+Mũ bảo hiểm là bắt buộc phải đeo khi lái xe gì?	Xe máy, xe mô tô và xe tư nhân
+Mũ bảo hiểm phải đạt tiêu chuẩn nào?	Phải đạt tiêu chuẩn TCVN hoặc tiêu chuẩn quốc tế
+Hạn chế tốc độ cho xe máy trong khu dân cư là bao nhiêu km/h?	20 km/h
+Hạn chế tốc độ cho xe ô tô trong khu dân cư là bao nhiêu km/h?	20 km/h
+Xe ô tô được chở bao nhiêu người là tối đa?	Số người được chở không được vượt quá số ghế được thiết kế
+Người ngồi cạnh lái xe được gọi là gì?	Được gọi là hành khách hoặc người đi cùng
+Giá trị của vé phạt tuỳ ý là bao nhiêu?	Từ 100.000 đến 500.000 đồng tùy mức độ vi phạm
+Phiếu xử phạt hành chính phải ghi những gì?	Ghi rõ lỗi vi phạm, tên người vi phạm, ngày tháng cấp phạt
+Người bị phạt có thể khiếu nại trong vòng bao lâu?	Trong vòng 30 ngày kể từ ngày nhận phiếu xử phạt
+Khiếu nại phạt hành chính phải gửi đến đâu?	Gửi đến cơ quan cảnh sát giao thông cấp trên hoặc hành chính
+Quy trình xử lý khiếu nại mất bao lâu?	15 ngày làm việc từ ngày nhận khiếu nại
+Hiệu lực của quyết định xử phạt là bao lâu?	Có hiệu lực từ ngày ký cho đến khi thời hạn khởi tố hết
+Thời hiệu khởi tố vụ vi phạm giao thông là bao lâu?	3 năm kể từ ngày vi phạm
+Tội tẩu tán, không tuân hành lệnh dừng xe bị phạt bao nhiêu?	Phạt từ 4.000.000 đến 6.000.000 đồng, có thể tước quyền lái xe
+Vi phạm không để hành khách an toàn bị phạt bao nhiêu?	Phạt từ 600.000 đến 1.000.000 đồng
+Xe tư nhân có thể được sử dụng kinh doanh vận tải không?	Không được, phải được cấp phép chuyên dụng
+Để kinh doanh vận tải phải có những giấy tờ gì?	Cấp phép kinh doanh, hợp đồng vận tải, bảo hiểm trách nhiệp
+Hợp đồng vận tải phải ghi những gì?	Ghi bên vận tải, bên giao nhận, loại hàng, giá cước, thời gian giao hàng
+Thùng xe phải có tính năng gì khi chở hàng đông lạnh?	Phải có hệ thống làm lạnh, cách nhiệt, kiểm soát nhiệt độ
+Xe bồn chở chất lỏng phải có những công nghệ an toàn nào?	Phải có van an toàn, hệ thống chống trượt, thiết bị nối đất
+Xe chở dầu khí phải tuân thủ những quy định gì?	Phải tuân thủ tiêu chuẩn chuyên dụng, kiểm định định kỳ, có chứng chỉ lái xe
+Xe chở chất nổ phải có những điều kiện gì?	Phải có công nghệ an toàn chuyên dụng, chứng chỉ lái xe, đáp ứng tiêu chuẩn giao thông
+Xe chở chất độc hại phải có những biều thức cảnh báo gì?	Phải có biểu tượng cảnh báo chất độc hại, số điện thoại liên lạc, hướng dẫn xử lý sự cố
+Tài xế của xe chở hàng nguy hiểm phải có chứng chỉ gì?	Chứng chỉ chuyên môn vận tải hàng nguy hiểm
+Đối với xe chở người, cần phải có những dụng cụ gì?	Hộp cứu thương, bình chữa cháy, dụng cụ cứu hộ
+Cửa xe phải được mở từ bên ngoài hay bên trong?	Cửa phải dễ dàng mở từ bên trong bởi hành khách
+Xe chở khách phải có những yêu cầu nào về vệ sinh?	Phải sạch sẽ, không có mùi khó chịu, được khử khuẩn định kỳ
+Xe chở khách phải được khử khuẩn bao lâu một lần?	Ít nhất 7 ngày một lần hoặc tùy theo quy định địa phương
+Hành khách trên xe phải tuân thủ những quy định gì?	Không được ồn ào, tuân thủ hành vi lịch sự, ngồi yên vị được chỉ định
+Hành khách không được mở cửa xe khi nào?	Khi xe đang chạy hoặc không được phép dừng
+Xe chở khách không được quá tải bao nhiêu?	Không được quá 10% so với công suất thiết kế
+Xe taixikhông được để khách đứng quá bao nhiêu người?	Không được có khách đứng hoặc chỉ 1 khách đứng tùy theo thiết kế
+Taxi phải được sơn màu gì?	Màu vàng hoặc màu quy định của thành phố (TP HCM: ví dụ trắng và đỏ)
+Taxi phải ghi tên công ty hay hình thức kinh doanh gì?	Phải ghi số thứ tự, tên công ty, số điện thoại, mức giá dịch vụ

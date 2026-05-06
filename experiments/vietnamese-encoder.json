@@ -1,0 +1,43 @@
+{
+  "question": "Ngành giao thông đường bộ bao gồm những loại đường nào?",
+  "reference_1": {
+    "text": "Điều 34. Phân loại phương tiện giao thông đường bộ đ) Xe chở hàng bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được  thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở hàng, có phần động cơ và thùng  hàng lắp trên cùng một khung xe, có tối đa hai hàng ghế và chở tối đa 05 người (không kể người  lái xe), vận tốc thiết kế không lớn hơn 60 km/h và khối lượng bản thân không lớn hơn 550 kg;  trường hợp xe sử dụng động cơ điện thì có công suất động cơ không lớn hơn 15 kW;",
+    "cite": {
+      "file_name": "36_2024_QH15_444251",
+      "page": 20,
+      "section_header": "Điều 34. Phân loại phương tiện giao thông đường bộ"
+    }
+  },
+  "reference_2": {
+    "text": "Điều 2. Giải thích từ ngữ 10.  Người điều khiển giao thông đường bộ  (sau đây gọi là người điều khiển giao thông) bao  gồm: Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.",
+    "cite": {
+      "file_name": "36_2024_QH15_444251",
+      "page": 2,
+      "section_header": "Điều 2. Giải thích từ ngữ"
+    }
+  },
+  "reference_3": {
+    "text": "Điều 34. Phân loại phương tiện giao thông đường bộ d) Xe chở người bốn bánh có gắn động cơ là xe có từ bốn bánh trở lên, chạy bằng động cơ, được  thiết kế, sản xuất để hoạt động trên đường bộ, có kết cấu để chở người, vận tốc thiết kế không  lớn hơn 30 km/h, số người cho phép chở tối đa 15 người (không kể người lái xe);",
+    "cite": {
+      "section_header": "Điều 34. Phân loại phương tiện giao thông đường bộ",
+      "page": 20,
+      "file_name": "36_2024_QH15_444251"
+    }
+  },
+  "reference_4": {
+    "text": "Điều 34. Phân loại phương tiện giao thông đường bộ a) Xe ô tô gồm: xe có từ bốn bánh trở lên chạy bằng động cơ, được thiết kế, sản xuất để hoạt  động trên đường bộ, không chạy trên đường ray, dùng để chở người, hàng hóa, kéo rơ moóc, kéo  sơ mi rơ moóc hoặc được kết cấu để thực hiện chức năng, công dụng đặc biệt, có thể được nối  với đường dây dẫn điện; xe ba bánh có khối lượng bản thân lớn hơn 400 kg; xe ô tô không bao  gồm xe chở người bốn bánh có gắn động cơ và xe chở hàng bốn bánh có gắn động cơ;",
+    "cite": {
+      "section_header": "Điều 34. Phân loại phương tiện giao thông đường bộ",
+      "file_name": "36_2024_QH15_444251",
+      "page": 20
+    }
+  },
+  "reference_5": {
+    "text": "Điều 34. Phân loại phương tiện giao thông đường bộ c) Sơ mi rơ moóc là xe không có động cơ để di chuyển, được thiết kế, sản xuất để hoạt động trên  đường bộ; được kéo bởi xe ô tô đầu kéo và có một phần đáng kể khối lượng toàn bộ đặt lên xe ô  tô đầu kéo;",
+    "cite": {
+      "file_name": "36_2024_QH15_444251",
+      "page": 20,
+      "section_header": "Điều 34. Phân loại phương tiện giao thông đường bộ"
+    }
+  }
+}

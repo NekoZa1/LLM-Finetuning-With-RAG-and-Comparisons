@@ -1,0 +1,372 @@
+import React, { useState, useRef } from 'react';
+import { useNavigate } from 'react-router-dom';
+import {
+  Users, BookOpen, UserPlus, Upload, Trash2, Edit2, Check, X,
+  Plus, Search, LogOut, FileSpreadsheet, ShieldCheck, GraduationCap
+} from 'lucide-react';
+import { useUser } from '../context/UserContext';
+
+// ── Mock data (Giữ nguyên) ────────────────────────────────────────────────────────────────
+const INIT_USERS = [
+  { id: 1, name: 'Nguyễn Văn A',  email: 'student1@uni.edu.vn', role: 'student' },
+  { id: 2, name: 'Trần Thị B',    email: 'student2@uni.edu.vn', role: 'student' },
+  { id: 3, name: 'Lê Văn Cường',  email: 'teacher1@uni.edu.vn', role: 'teacher' },
+  { id: 4, name: 'Phạm Thị Dung', email: 'teacher2@uni.edu.vn', role: 'teacher' },
+  { id: 5, name: 'Admin System',  email: 'admin@uni.edu.vn',    role: 'admin'   },
+];
+
+const INIT_COURSES = [
+  { id: 1, code: 'IT001',  name: 'Nhập môn Lập trình',         teacherId: 3, studentCount: 42 },
+  { id: 2, code: 'IT002',  name: 'Lập trình Hướng đối tượng',  teacherId: 3, studentCount: 35 },
+  { id: 3, code: 'SE104',  name: 'Nhập môn Kỹ thuật phần mềm', teacherId: 4, studentCount: 28 },
+];
+
+const INIT_ASSIGNMENTS = [
+  { id: 1, studentId: 1, courseId: 1 },
+  { id: 2, studentId: 2, courseId: 1 },
+  { id: 3, studentId: 1, courseId: 2 },
+];
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+const RoleBadge = ({ role }) => {
+  const map = { 
+    admin: 'bg-red-50 text-red-700 border-red-200', 
+    teacher: 'bg-teal-50 text-teal-700 border-teal-200', 
+    student: 'bg-blue-50 text-blue-700 border-blue-200' 
+  };
+  const label = { admin: 'Admin', teacher: 'Giáo viên', student: 'Sinh viên' };
+  return <span className={`px-2.5 py-1 rounded-md text-xs font-medium border ${map[role]}`}>{label[role]}</span>;
+};
+
+// ── AdminPage ─────────────────────────────────────────────────────────────────
+const AdminPage = () => {
+  const navigate = useNavigate();
+  const { logout, user } = useUser();
+  const userName = user?.name || user?.email?.split('@')[0] || 'System Admin';
+
+  const [tab, setTab] = useState('users');
+  const [users, setUsers] = useState(INIT_USERS);
+  const [courses, setCourses] = useState(INIT_COURSES);
+  const [assignments, setAssignments] = useState(INIT_ASSIGNMENTS);
+  const [search, setSearch] = useState('');
+  const [editId, setEditId] = useState(null);
+  const [editData, setEditData] = useState({});
+  const [newUser, setNewUser] = useState({ name: '', email: '', role: 'student' });
+  const [newCourse, setNewCourse] = useState({ code: '', name: '', teacherId: '' });
+  const [showNewUser, setShowNewUser] = useState(false);
+  const [showNewCourse, setShowNewCourse] = useState(false);
+  const [importLog, setImportLog] = useState([]);
+  const fileRef = useRef(null);
+
+  const handleLogout = () => { logout(); navigate('/login'); };
+
+  // Users Logic
+  const filteredUsers = users.filter(u => u.name.toLowerCase().includes(search.toLowerCase()) || u.email.toLowerCase().includes(search.toLowerCase()));
+  const addUser = () => { if (!newUser.name || !newUser.email) return; setUsers(p => [...p, { id: Date.now(), ...newUser }]); setNewUser({ name: '', email: '', role: 'student' }); setShowNewUser(false); };
+  const deleteUser = (id) => setUsers(p => p.filter(u => u.id !== id));
+  const startEdit = (u) => { setEditId(u.id); setEditData({ name: u.name, email: u.email, role: u.role }); };
+  const saveEdit = (id) => { setUsers(p => p.map(u => u.id === id ? { ...u, ...editData } : u)); setEditId(null); };
+  const cancelEdit = () => setEditId(null);
+
+  // Courses Logic
+  const teachers = users.filter(u => u.role === 'teacher');
+  const addCourse = () => { if (!newCourse.code || !newCourse.name) return; setCourses(p => [...p, { id: Date.now(), ...newCourse, studentCount: 0 }]); setNewCourse({ code: '', name: '', teacherId: '' }); setShowNewCourse(false); };
+  const deleteCourse = (id) => setCourses(p => p.filter(c => c.id !== id));
+
+  // Assignments Logic
+  const students = users.filter(u => u.role === 'student');
+  const [assignStudent, setAssignStudent] = useState('');
+  const [assignCourse, setAssignCourse] = useState('');
+  const addAssignment = () => { if (!assignStudent || !assignCourse) return; const exists = assignments.some(a => a.studentId === +assignStudent && a.courseId === +assignCourse); if (exists) return; setAssignments(p => [...p, { id: Date.now(), studentId: +assignStudent, courseId: +assignCourse }]); };
+  const removeAssignment = (id) => setAssignments(p => p.filter(a => a.id !== id));
+
+  // Import Logic
+  const handleImportFile = (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    setImportLog([
+      `Đã đọc file: ${file.name}`, 'Tìm thấy 3 bản ghi hợp lệ...', 'Đã thêm: Nguyễn Văn X (studentX@uni.edu.vn)', 'Đã thêm: Trần Thị Y (studentY@uni.edu.vn)', 'Bỏ qua: email trùng — student2@uni.edu.vn', 'Hoàn tất import dữ liệu.'
+    ]);
+    if (fileRef.current) fileRef.current.value = '';
+  };
+
+  const TABS = [
+    { id: 'users', label: 'Người dùng', icon: <Users size={16}/> },
+    { id: 'courses', label: 'Khoá học', icon: <BookOpen size={16}/> },
+    { id: 'assign', label: 'Biên chế lớp', icon: <UserPlus size={16}/> },
+    { id: 'import', label: 'Nhập dữ liệu', icon: <FileSpreadsheet size={16}/> },
+  ];
+
+  return (
+    <div className="min-h-screen bg-[#F8F9FA] font-sans text-gray-900 pb-20">
+      
+      {/* Navbar (Google Admin Style) */}
+      <nav className="sticky top-0 z-30 bg-white border-b border-gray-200">
+        <div className="max-w-[1400px] mx-auto px-6 h-16 flex justify-between items-center">
+          <div className="flex items-center gap-2.5">
+            <div className="w-8 h-8 rounded-full bg-blue-50 flex items-center justify-center">
+              <ShieldCheck size={18} className="text-blue-600"/>
+            </div>
+            <h1 className="text-xl font-bold text-gray-800 tracking-tight flex items-center gap-2">
+              Course AI 
+              <span className="text-[10px] font-bold uppercase tracking-wider bg-red-50 text-red-600 px-2 py-0.5 rounded-md">Admin</span>
+            </h1>
+          </div>
+          
+          <div className="flex items-center gap-4">
+            <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white text-sm font-medium">
+              {userName.charAt(0).toUpperCase()}
+            </div>
+            <button onClick={handleLogout} className="text-gray-500 hover:text-gray-800 hover:bg-gray-100 p-2 rounded-full transition-colors" title="Đăng xuất">
+              <LogOut size={18} />
+            </button>
+          </div>
+        </div>
+      </nav>
+
+      <div className="max-w-[1400px] mx-auto px-6 mt-8">
+        
+        {/* Header Section */}
+        <div className="mb-8">
+          <h2 className="text-3xl font-bold text-gray-900 mb-2">Bảng điều khiển Quản trị</h2>
+          <p className="text-gray-600 text-base">Quản lý toàn diện tài khoản, quyền truy cập và dữ liệu khóa học toàn hệ thống.</p>
+        </div>
+
+        {/* Stats - Flat Cards */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mb-8">
+          <div className="bg-white rounded-2xl p-5 border border-gray-200 flex items-center gap-4">
+            <div className="p-3 bg-blue-50 rounded-xl"><GraduationCap size={24} className="text-blue-600"/></div>
+            <div><p className="text-sm font-medium text-gray-500">Sinh viên</p><p className="text-2xl font-bold text-gray-900">{users.filter(u => u.role === 'student').length}</p></div>
+          </div>
+          <div className="bg-white rounded-2xl p-5 border border-gray-200 flex items-center gap-4">
+            <div className="p-3 bg-teal-50 rounded-xl"><Users size={24} className="text-teal-600"/></div>
+            <div><p className="text-sm font-medium text-gray-500">Giảng viên</p><p className="text-2xl font-bold text-gray-900">{users.filter(u => u.role === 'teacher').length}</p></div>
+          </div>
+          <div className="bg-white rounded-2xl p-5 border border-gray-200 flex items-center gap-4">
+            <div className="p-3 bg-purple-50 rounded-xl"><BookOpen size={24} className="text-purple-600"/></div>
+            <div><p className="text-sm font-medium text-gray-500">Khóa học</p><p className="text-2xl font-bold text-gray-900">{courses.length}</p></div>
+          </div>
+        </div>
+
+        {/* Main Workspace */}
+        <div className="bg-white rounded-2xl border border-gray-200 overflow-hidden">
+          
+          {/* Tabs */}
+          <div className="flex border-b border-gray-200 bg-white px-2 overflow-x-auto">
+            {TABS.map(t => (
+              <button key={t.id} onClick={() => setTab(t.id)}
+                className={`flex items-center gap-2 px-6 py-4 text-sm font-medium transition border-b-2 -mb-px shrink-0
+                  ${tab === t.id ? 'border-blue-600 text-blue-700' : 'border-transparent text-gray-500 hover:text-gray-800 hover:bg-gray-50'}`}>
+                {t.icon}{t.label}
+              </button>
+            ))}
+          </div>
+
+          <div className="p-6 md:p-8 bg-white">
+
+            {/* ── Tab: Users ── */}
+            {tab === 'users' && (
+              <div>
+                <div className="flex flex-col sm:flex-row items-center justify-between mb-6 gap-4">
+                  <div className="relative w-full sm:w-80">
+                    <Search size={18} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-gray-400"/>
+                    <input value={search} onChange={e => setSearch(e.target.value)} placeholder="Tìm kiếm người dùng..."
+                      className="w-full pl-10 pr-4 py-2.5 text-sm border border-gray-300 rounded-full focus:outline-none focus:border-blue-600 focus:ring-1 focus:ring-blue-600 transition-shadow"/>
+                  </div>
+                  <button onClick={() => setShowNewUser(!showNewUser)}
+                    className="flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded-full transition-colors w-full sm:w-auto justify-center">
+                    <Plus size={16}/> Thêm người dùng
+                  </button>
+                </div>
+
+                {showNewUser && (
+                  <div className="bg-gray-50 border border-gray-200 rounded-2xl p-6 mb-6 grid grid-cols-1 sm:grid-cols-4 gap-4">
+                    <input value={newUser.name} onChange={e => setNewUser(p => ({...p, name: e.target.value}))} placeholder="Họ và tên" className="px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"/>
+                    <input value={newUser.email} onChange={e => setNewUser(p => ({...p, email: e.target.value}))} placeholder="Email" className="px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"/>
+                    <select value={newUser.role} onChange={e => setNewUser(p => ({...p, role: e.target.value}))} className="px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500 bg-white">
+                      <option value="student">Sinh viên</option>
+                      <option value="teacher">Giáo viên</option>
+                      <option value="admin">Quản trị viên</option>
+                    </select>
+                    <button onClick={addUser} className="bg-blue-600 text-white font-medium text-sm rounded-lg hover:bg-blue-700 transition py-2.5">Tạo tài khoản</button>
+                  </div>
+                )}
+
+                <div className="border border-gray-200 rounded-xl overflow-hidden">
+                  <table className="w-full text-sm text-left">
+                    <thead className="bg-gray-50 text-gray-600 font-medium border-b border-gray-200">
+                      <tr>
+                        <th className="px-6 py-3.5">Họ và tên</th>
+                        <th className="px-6 py-3.5">Email</th>
+                        <th className="px-6 py-3.5 text-center">Vai trò</th>
+                        <th className="px-6 py-3.5 text-right">Thao tác</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-100">
+                      {filteredUsers.map(u => (
+                        <tr key={u.id} className="hover:bg-gray-50 transition-colors">
+                          <td className="px-6 py-3 font-medium text-gray-900">
+                            {editId === u.id ? <input value={editData.name} onChange={e => setEditData(p => ({...p, name: e.target.value}))} className="border border-gray-300 rounded px-2 py-1 text-sm outline-none focus:border-blue-500 w-48"/> : u.name}
+                          </td>
+                          <td className="px-6 py-3 text-gray-500">
+                            {editId === u.id ? <input value={editData.email} onChange={e => setEditData(p => ({...p, email: e.target.value}))} className="border border-gray-300 rounded px-2 py-1 text-sm outline-none focus:border-blue-500 w-56"/> : u.email}
+                          </td>
+                          <td className="px-6 py-3 text-center">
+                            {editId === u.id ? (
+                              <select value={editData.role} onChange={e => setEditData(p => ({...p, role: e.target.value}))} className="border border-gray-300 rounded px-2 py-1 text-sm outline-none">
+                                  <option value="student">Sinh viên</option><option value="teacher">Giáo viên</option><option value="admin">Admin</option>
+                              </select>
+                            ) : <RoleBadge role={u.role} />}
+                          </td>
+                          <td className="px-6 py-3 text-right">
+                            {editId === u.id ? (
+                              <div className="flex items-center justify-end gap-1">
+                                <button onClick={() => saveEdit(u.id)} className="p-1.5 text-emerald-600 hover:bg-emerald-50 rounded"><Check size={18}/></button>
+                                <button onClick={cancelEdit} className="p-1.5 text-gray-500 hover:bg-gray-100 rounded"><X size={18}/></button>
+                              </div>
+                            ) : (
+                              <div className="flex items-center justify-end gap-1">
+                                <button onClick={() => startEdit(u)} className="p-1.5 text-gray-400 hover:text-blue-600 hover:bg-blue-50 rounded transition"><Edit2 size={16}/></button>
+                                <button onClick={() => deleteUser(u.id)} className="p-1.5 text-gray-400 hover:text-red-600 hover:bg-red-50 rounded transition"><Trash2 size={16}/></button>
+                              </div>
+                            )}
+                          </td>
+                        </tr>
+                      ))}
+                      {filteredUsers.length === 0 && <tr><td colSpan="4" className="text-center py-10 text-gray-400">Không tìm thấy kết quả.</td></tr>}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            )}
+
+            {/* ── Tab: Courses ── */}
+            {tab === 'courses' && (
+              <div>
+                <div className="flex justify-end mb-6">
+                  <button onClick={() => setShowNewCourse(!showNewCourse)} className="flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded-full transition w-full sm:w-auto justify-center">
+                    <Plus size={16}/> Thêm khóa học
+                  </button>
+                </div>
+
+                {showNewCourse && (
+                  <div className="bg-gray-50 border border-gray-200 rounded-2xl p-6 mb-6 grid grid-cols-1 sm:grid-cols-4 gap-4">
+                    <input value={newCourse.code} onChange={e => setNewCourse(p => ({...p, code: e.target.value}))} placeholder="Mã (VD: IT001)" className="px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500 uppercase"/>
+                    <input value={newCourse.name} onChange={e => setNewCourse(p => ({...p, name: e.target.value}))} placeholder="Tên môn học" className="col-span-1 sm:col-span-2 px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"/>
+                    <select value={newCourse.teacherId} onChange={e => setNewCourse(p => ({...p, teacherId: +e.target.value}))} className="px-4 py-2.5 text-sm border border-gray-300 rounded-lg focus:outline-none bg-white">
+                      <option value="" disabled>Chọn giảng viên...</option>
+                      {teachers.map(t => <option key={t.id} value={t.id}>{t.name}</option>)}
+                    </select>
+                    <button onClick={addCourse} className="col-span-1 sm:col-span-4 bg-blue-600 text-white font-medium text-sm rounded-lg hover:bg-blue-700 transition py-2.5">Khởi tạo</button>
+                  </div>
+                )}
+
+                <div className="border border-gray-200 rounded-xl overflow-hidden">
+                  <table className="w-full text-sm text-left">
+                    <thead className="bg-gray-50 text-gray-600 font-medium border-b border-gray-200">
+                      <tr><th className="px-6 py-3.5">Mã Lớp</th><th className="px-6 py-3.5">Tên môn học</th><th className="px-6 py-3.5">Giảng viên</th><th className="px-6 py-3.5 text-center">Sĩ số</th><th className="px-6 py-3.5 text-right">Thao tác</th></tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-100">
+                      {courses.map(c => {
+                        const teacher = users.find(u => u.id === c.teacherId);
+                        return (
+                          <tr key={c.id} className="hover:bg-gray-50 transition">
+                            <td className="px-6 py-3 font-medium text-gray-900">{c.code}</td>
+                            <td className="px-6 py-3 text-gray-700">{c.name}</td>
+                            <td className="px-6 py-3 text-gray-500">{teacher ? teacher.name : '—'}</td>
+                            <td className="px-6 py-3 text-center text-gray-500">{c.studentCount}</td>
+                            <td className="px-6 py-3 text-right">
+                              <button onClick={() => deleteCourse(c.id)} className="p-1.5 text-gray-400 hover:text-red-600 hover:bg-red-50 rounded transition"><Trash2 size={16}/></button>
+                            </td>
+                          </tr>
+                        );
+                      })}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            )}
+
+            {/* ── Tab: Assignments ── */}
+            {tab === 'assign' && (
+              <div>
+                <div className="flex flex-col sm:flex-row items-end gap-4 mb-8 p-6 bg-gray-50 rounded-2xl border border-gray-200">
+                  <div className="w-full">
+                    <label className="block text-sm font-medium text-gray-700 mb-2">Sinh viên</label>
+                    <select value={assignStudent} onChange={e => setAssignStudent(e.target.value)} className="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg bg-white outline-none focus:border-blue-500">
+                      <option value="" disabled>Chọn sinh viên...</option>
+                      {students.map(s => <option key={s.id} value={s.id}>{s.name} ({s.email})</option>)}
+                    </select>
+                  </div>
+                  <div className="w-full">
+                    <label className="block text-sm font-medium text-gray-700 mb-2">Khóa học</label>
+                    <select value={assignCourse} onChange={e => setAssignCourse(e.target.value)} className="w-full px-4 py-2.5 text-sm border border-gray-300 rounded-lg bg-white outline-none focus:border-blue-500">
+                      <option value="" disabled>Chọn khóa học...</option>
+                      {courses.map(c => <option key={c.id} value={c.id}>[{c.code}] {c.name}</option>)}
+                    </select>
+                  </div>
+                  <button onClick={addAssignment} className="w-full sm:w-auto px-6 py-2.5 bg-blue-600 text-white text-sm font-medium rounded-lg hover:bg-blue-700 transition shrink-0">Thêm vào lớp</button>
+                </div>
+
+                <div className="border border-gray-200 rounded-xl overflow-hidden">
+                  <table className="w-full text-sm text-left">
+                    <thead className="bg-gray-50 text-gray-600 font-medium border-b border-gray-200">
+                      <tr><th className="px-6 py-3.5">Sinh viên</th><th className="px-6 py-3.5">Khóa học</th><th className="px-6 py-3.5 text-right">Thao tác</th></tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-100">
+                      {assignments.map(a => {
+                        const sv = users.find(u => u.id === a.studentId);
+                        const mh = courses.find(c => c.id === a.courseId);
+                        return (
+                          <tr key={a.id} className="hover:bg-gray-50 transition">
+                            <td className="px-6 py-3 font-medium text-gray-900">{sv?.name || '—'}</td>
+                            <td className="px-6 py-3 text-gray-600">{mh ? `[${mh.code}] ${mh.name}` : '—'}</td>
+                            <td className="px-6 py-3 text-right">
+                              <button onClick={() => removeAssignment(a.id)} className="p-1.5 text-gray-400 hover:text-red-600 hover:bg-red-50 rounded transition"><X size={16}/></button>
+                            </td>
+                          </tr>
+                        );
+                      })}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            )}
+
+            {/* ── Tab: Import ── */}
+            {tab === 'import' && (
+              <div className="max-w-xl mx-auto py-10 text-center">
+                <div className="w-16 h-16 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-6"><FileSpreadsheet size={32}/></div>
+                <h3 className="text-xl font-bold text-gray-900 mb-2">Tải lên danh sách</h3>
+                <p className="text-sm text-gray-500 mb-8">Hỗ trợ tự động tạo tài khoản từ file Excel/CSV.</p>
+
+                <label className="flex flex-col items-center justify-center border-2 border-dashed border-gray-300 hover:border-blue-400 bg-gray-50 hover:bg-blue-50/50 rounded-2xl p-10 cursor-pointer transition-colors group">
+                  <input ref={fileRef} type="file" accept=".xlsx,.xls,.csv" onChange={handleImportFile} className="hidden"/>
+                  <Upload size={32} className="text-gray-400 group-hover:text-blue-500 mb-4 transition-colors"/>
+                  <p className="text-base font-medium text-gray-700 group-hover:text-blue-700">Kéo thả hoặc click để chọn file</p>
+                </label>
+
+                {importLog.length > 0 && (
+                  <div className="mt-8 bg-gray-900 rounded-xl p-5 text-left font-mono text-sm shadow-md">
+                     <div className="flex items-center gap-2 mb-3 pb-2 border-b border-gray-700 text-gray-400 text-xs uppercase tracking-wider">
+                         <ShieldCheck size={14}/> Console Output
+                     </div>
+                     <div className="space-y-1.5 text-gray-300">
+                        {importLog.map((line, i) => (
+                          <div key={i} className={`flex gap-2 ${line.includes('Hoàn tất') || line.includes('hợp lệ') ? 'text-emerald-400' : line.includes('Bỏ qua') ? 'text-amber-400' : ''}`}>
+                            <span className="opacity-50">&gt;</span> {line}
+                          </div>
+                        ))}
+                     </div>
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default AdminPage;
