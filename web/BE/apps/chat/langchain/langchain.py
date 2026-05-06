@@ -27,7 +27,8 @@ class ModelFactory():
             model = PROVIDERS['meta'][model_name]
             return LlamaEndpoint(
                 endpoint= model['endpoint'],
-                rag=model['rag']
+                rag=model['rag'],
+                is_finetuned=model['finetuned']
             )
         else:
             raise Exception('Unavailable model')

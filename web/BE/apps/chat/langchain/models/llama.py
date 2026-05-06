@@ -9,9 +9,9 @@ class LlamaEndpoint(RunnableSerializable):
     def invoke(self, input, config = None, **kwargs):
         prompt = self.prepare_prompt(input)
         is_rag = 'rag' if self.rag else 'no-rag'
-        endpoint = f'{self.endpoint}/{is_rag}/api/query?is_finetuned={self.is_finetuned}'
+        endpoint = f'{self.endpoint}/api/{is_rag}/query?is_finetuned={self.is_finetuned}'
 
-        response = requests.post(endpoint, json={'prompt': prompt})
+        response = requests.post(endpoint, json={'text': prompt})
         response.raise_for_status()
 
         return response.json()['answer']
